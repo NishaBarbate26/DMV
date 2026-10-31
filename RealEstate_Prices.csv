@@ -1,0 +1,1501 @@
+ListingID,City,Neighborhood,PropertyType,Condition,Bedrooms,Bathrooms,SqFt,LotSize_sqft,Age_years,GarageSpaces,ListPrice,PricePerSqFt,DaysOnMarket,ListingDate
+L00001,Riverside,Oakwood,Condo,Good,1,1.0,507,0,1,1,292438,576.8,9,2022-07-11
+L00002,Riverside,Oakwood,Condo,Good,1,2.5,632,0,3,0,317167,501.85,62,2022-07-18
+L00003,Crestwood,Lakeside,Condo,Fair,2,2.0,1094,0,2,0,314962,287.9,50,2023-04-22
+L00004,Riverside,Eastside,Condo,Good,1,1.5,657,0,58,0,242939,369.77,9,2023-03-26
+L00005,Dunmore,Cedar Ridge,Single Family,Fair,3,3.5,1784,4726,19,2,302631,169.64,32,2023-06-23
+L00006,Riverside,Oakwood,Condo,Fair,2,1.0,1101,0,78,0,284307,258.23,16,2022-01-24
+L00007,Riverside,Eastside,Townhouse,Good,3,1.5,1390,3147,23,2,423946,305.0,10,2023-02-12
+L00008,Crestwood,Northgate,Single Family,Good,4,1.5,1978,5673,17,2,349147,176.52,8,2022-09-15
+L00009,Hartfield,Harbor View,Single Family,Fair,3,3.5,1637,3606,1,2,739997,452.04,19,2023-04-17
+L00010,Crestwood,Lakeside,Single Family,Good,4,3.5,2247,5010,12,2,539069,239.91,100,2022-07-13
+L00011,Bellhaven,Thornwood,Townhouse,Excellent,2,2.0,887,3071,46,0,555832,626.64,53,2022-06-04
+L00012,Hartfield,Westmont,Single Family,Good,5,3.5,2577,7207,58,1,766549,297.46,6,2024-07-20
+L00013,Riverside,Eastside,Condo,Excellent,1,1.0,476,0,56,0,284530,597.75,5,2024-12-23
+L00014,Dunmore,Industrial Park,Condo,Excellent,1,2.0,692,0,25,1,193382,279.45,3,2023-10-06
+L00015,Dunmore,Industrial Park,Single Family,Good,3,3.5,2200,5760,4,3,319173,145.08,30,2023-09-12
+L00016,Hartfield,Harbor View,Single Family,Excellent,4,2.0,1851,3920,23,2,866121,467.92,2,2023-06-25
+L00017,Hartfield,Harbor View,Single Family,Good,4,2.5,1696,5198,4,1,751142,442.89,42,2022-03-15
+L00018,Crestwood,Elm Street,Condo,Fair,2,1.5,1339,0,81,1,277033,206.9,13,2022-11-13
+L00019,Bellhaven,Gallery District,Single Family,Fair,3,3.0,1868,6142,14,3,986166,527.93,7,2023-09-18
+L00020,Crestwood,Lakeside,Condo,Fair,2,1.5,1088,0,20,0,250720,230.44,9,2023-06-28
+L00021,Hartfield,Harbor View,Single Family,Good,4,3.0,2450,7625,5,2,1084693,442.73,10,2024-06-02
+L00022,Bellhaven,Thornwood,Single Family,Good,3,2.0,1417,2307,22,3,621719,438.76,12,2023-09-09
+L00023,Hartfield,Pinecrest,Townhouse,Poor,3,2.5,1361,2370,3,1,424873,312.18,130,2023-04-27
+L00024,Bellhaven,Gallery District,Condo,Good,2,1.0,1158,0,50,1,688477,594.54,61,2022-08-07
+L00025,Hartfield,Pinecrest,Condo,Poor,2,2.5,1025,0,16,1,377022,367.83,101,2024-07-02
+L00026,Hartfield,Harbor View,Single Family,Fair,3,2.0,1967,4917,11,3,748774,380.67,27,2022-11-09
+L00027,Dunmore,Cedar Ridge,Single Family,Fair,4,2.5,2249,4544,49,3,360396,160.25,30,2024-05-08
+L00028,Bellhaven,Gallery District,Townhouse,Poor,4,2.0,2054,2058,2,2,836815,407.41,99,2024-05-27
+L00029,Bellhaven,Thornwood,Townhouse,Good,3,1.5,1721,2836,70,2,638995,371.29,29,2022-03-24
+L00030,Hartfield,Pinecrest,Condo,Fair,1,2.0,756,0,3,1,366497,484.78,25,2022-12-02
+L00031,Riverside,Eastside,Condo,Good,1,2.0,684,0,91,1,212330,310.42,42,2022-03-26
+L00032,Crestwood,Lakeside,Townhouse,Good,2,1.5,1291,2314,56,1,324550,251.39,10,2024-09-17
+L00033,Bellhaven,Meadowbrook,Single Family,Good,3,2.5,2150,4675,20,2,904762,420.82,9,2023-07-20
+L00034,Bellhaven,Meadowbrook,Townhouse,Excellent,3,2.5,1757,2207,17,1,907513,516.51,20,2024-05-21
+L00035,Dunmore,Cedar Ridge,Single Family,Good,4,3.0,2400,4119,3,3,430893,179.54,3,2023-02-02
+L00036,Hartfield,Pinecrest,Single Family,Excellent,3,2.5,1662,4399,44,1,680092,409.2,13,2022-08-22
+L00037,Hartfield,Downtown,Condo,Good,2,2.0,1165,0,11,1,628476,539.46,6,2024-06-25
+L00038,Hartfield,Harbor View,Condo,Excellent,1,1.0,457,0,8,0,497947,1089.6,25,2023-04-20
+L00039,Hartfield,Pinecrest,Single Family,Good,3,2.0,1705,5439,20,1,661005,387.69,17,2023-08-15
+L00040,Bellhaven,Thornwood,Condo,Excellent,1,2.0,826,0,20,1,524859,635.42,19,2022-02-12
+L00041,Hartfield,Pinecrest,Condo,Good,1,1.5,531,0,9,0,379443,714.58,14,2024-10-11
+L00042,Bellhaven,Old Town,Condo,Good,2,1.0,988,0,32,0,640563,648.34,7,2024-06-24
+L00043,Dunmore,Industrial Park,Condo,Good,1,1.5,619,0,65,0,137683,222.43,9,2022-11-12
+L00044,Bellhaven,Gallery District,Multi-Family,Good,6,3.5,2088,8015,60,0,995791,476.91,50,2024-11-05
+L00045,Bellhaven,Thornwood,Single Family,Fair,3,3.5,1702,4493,11,3,671340,394.44,77,2024-04-21
+L00046,Bellhaven,Old Town,Single Family,Poor,3,1.5,1808,5908,1,3,750698,415.21,83,2022-10-23
+L00047,Crestwood,Lakeside,Townhouse,Good,3,2.5,1586,2912,2,1,408846,257.78,17,2023-08-12
+L00048,Riverside,Oakwood,Single Family,Excellent,3,2.0,1276,1821,5,1,536793,420.68,10,2022-12-25
+L00049,Crestwood,Lakeside,Single Family,Fair,5,2.5,2374,3998,20,1,482068,203.06,22,2024-05-18
+L00050,Crestwood,Lakeside,Single Family,Poor,4,2.0,1947,3525,2,2,357100,183.41,16,2024-10-14
+L00051,Hartfield,Downtown,Townhouse,Good,3,2.0,1435,2771,8,1,618623,431.1,44,2024-04-30
+L00052,Bellhaven,Thornwood,Condo,Good,1,2.5,683,0,75,0,382475,559.99,18,2024-03-24
+L00053,Crestwood,Lakeside,Single Family,Good,3,2.5,1327,1618,9,2,366707,276.34,2,2023-03-30
+L00054,Bellhaven,Old Town,Single Family,Fair,3,2.5,1659,1247,12,2,776877,468.28,51,2022-11-13
+L00055,Bellhaven,Gallery District,Townhouse,Excellent,3,2.0,1496,3269,5,2,990220,661.91,3,2022-09-08
+L00056,Hartfield,Westmont,Single Family,Fair,3,2.0,1626,4062,51,3,465746,286.44,86,2022-01-06
+L00057,Crestwood,Elm Street,Condo,Excellent,1,1.0,557,0,14,0,288690,518.29,31,2024-01-12
+L00058,Bellhaven,Old Town,Single Family,Good,3,2.5,1774,4253,2,2,854879,481.89,20,2022-10-31
+L00059,Dunmore,South End,Single Family,Fair,5,2.5,3390,7200,14,2,368385,108.67,17,2023-04-13
+L00060,Bellhaven,Old Town,Single Family,Excellent,3,3.0,1906,4468,70,2,941744,494.09,2,2023-11-07
+L00061,Crestwood,Northgate,Single Family,Good,3,2.5,1956,3422,3,3,432927,221.33,25,2023-07-25
+L00062,Crestwood,Elm Street,Single Family,Fair,3,2.0,1274,3478,12,0,274782,215.68,9,2022-10-18
+L00063,Crestwood,Lakeside,Condo,Fair,1,2.0,721,0,2,0,247572,343.37,25,2024-06-26
+L00064,Dunmore,South End,Condo,Good,1,2.5,778,0,33,0,200104,257.2,9,2023-06-08
+L00065,Crestwood,Elm Street,Single Family,Fair,3,2.5,1727,3375,12,0,405702,234.92,51,2024-05-05
+L00066,Bellhaven,Old Town,Single Family,Good,4,2.0,1894,3621,5,1,957093,505.33,26,2024-11-11
+L00067,Riverside,Oakwood,Single Family,Excellent,3,3.0,2014,6051,14,0,598030,296.94,8,2024-07-08
+L00068,Bellhaven,Meadowbrook,Condo,Fair,2,1.5,1311,0,14,0,579239,441.83,32,2022-03-19
+L00069,Dunmore,Cedar Ridge,Townhouse,Good,4,2.5,1901,2852,2,1,360790,189.79,34,2022-07-31
+L00070,Dunmore,Cedar Ridge,Condo,Good,3,1.5,1474,0,22,1,302254,205.06,61,2023-11-17
+L00071,Crestwood,Elm Street,Condo,Excellent,1,2.5,645,0,11,1,267578,414.85,22,2022-06-23
+L00072,Dunmore,Industrial Park,Condo,Good,2,1.5,1086,0,15,0,210619,193.94,35,2023-04-09
+L00073,Crestwood,Lakeside,Single Family,Good,3,3.0,1727,4025,13,2,455673,263.85,8,2024-04-21
+L00074,Bellhaven,Gallery District,Single Family,Poor,6,2.5,2275,3773,75,1,818092,359.6,11,2023-02-13
+L00075,Riverside,Millbrook,Single Family,Excellent,3,2.5,1551,5126,38,3,517115,333.41,5,2023-12-17
+L00076,Riverside,Eastside,Condo,Fair,1,1.0,619,0,27,1,240881,389.15,11,2022-10-12
+L00077,Dunmore,Cedar Ridge,Single Family,Fair,3,1.5,1338,2084,2,1,282873,211.41,42,2024-10-20
+L00078,Bellhaven,Gallery District,Condo,Excellent,3,1.0,886,0,18,0,759773,857.53,2,2024-03-10
+L00079,Riverside,Eastside,Condo,Good,1,1.5,585,0,5,1,297927,509.28,2,2024-08-09
+L00080,Hartfield,Downtown,Single Family,Good,3,3.0,2033,4874,8,2,788864,388.03,56,2022-04-08
+L00081,Hartfield,Pinecrest,Condo,Good,2,1.0,851,0,105,0,314738,369.84,17,2023-01-05
+L00082,Crestwood,Northgate,Single Family,Fair,3,4.0,2075,7567,2,1,378333,182.33,64,2024-04-11
+L00083,Riverside,Oakwood,Townhouse,Good,3,2.0,1760,2169,11,1,447717,254.38,34,2022-06-07
+L00084,Bellhaven,Old Town,Single Family,Good,3,4.0,1906,5343,3,1,870395,456.66,11,2022-06-01
+L00085,Riverside,Eastside,Condo,Fair,3,2.0,1230,0,23,1,356863,290.13,36,2024-01-11
+L00086,Dunmore,Industrial Park,Condo,Excellent,1,2.5,621,0,39,1,168135,270.75,27,2022-06-01
+L00087,Dunmore,Industrial Park,Townhouse,Excellent,3,2.5,1668,2292,4,2,313877,188.18,12,2023-04-07
+L00088,Crestwood,Lakeside,Condo,Good,1,2.5,842,0,24,0,296965,352.69,24,2023-11-23
+L00089,Dunmore,South End,Condo,Excellent,3,1.5,1456,0,37,1,287803,197.67,15,2024-04-11
+L00090,Crestwood,Lakeside,Multi-Family,Good,4,3.5,2177,8668,3,1,537624,246.96,49,2024-07-09
+L00091,Crestwood,Lakeside,Condo,Excellent,1,2.5,676,0,47,0,309062,457.19,3,2024-10-15
+L00092,Bellhaven,Thornwood,Condo,Fair,2,2.0,1151,0,12,1,453675,394.16,44,2023-02-03
+L00093,Hartfield,Downtown,Single Family,Fair,3,3.5,1675,4062,16,2,710593,424.23,11,2022-04-03
+L00094,Crestwood,Elm Street,Single Family,Good,5,2.5,3034,4566,19,2,585637,193.02,34,2024-08-30
+L00095,Riverside,Eastside,Single Family,Poor,4,3.0,1927,3965,5,2,414407,215.05,27,2024-02-18
+L00096,Hartfield,Pinecrest,Condo,Good,2,2.0,1157,0,27,1,561556,485.36,60,2024-11-28
+L00097,Crestwood,Lakeside,Townhouse,Fair,3,2.5,1671,3222,18,1,392363,234.81,30,2023-04-06
+L00098,Crestwood,Northgate,Single Family,Fair,3,4.0,2319,4394,8,3,392638,169.31,76,2023-08-13
+L00099,Dunmore,Cedar Ridge,Single Family,Excellent,4,2.0,2056,4028,6,0,387578,188.51,39,2022-07-25
+L00100,Bellhaven,Meadowbrook,Condo,Fair,1,1.0,551,0,6,0,428381,777.46,24,2022-03-18
+L00101,Crestwood,Elm Street,Single Family,Good,3,4.0,1442,4253,15,1,384728,266.8,8,2022-10-02
+L00102,Crestwood,Northgate,Condo,Fair,1,2.0,801,0,39,1,220702,275.53,2,2024-11-21
+L00103,Bellhaven,Thornwood,Multi-Family,Good,5,2.0,2363,6829,3,1,911838,385.88,29,2023-09-21
+L00104,Crestwood,Lakeside,Single Family,Poor,3,2.5,1512,4333,54,3,279966,185.16,35,2023-03-24
+L00105,Riverside,Oakwood,Townhouse,Poor,3,2.0,1618,2286,26,0,389989,241.03,6,2024-09-28
+L00106,Crestwood,Lakeside,Single Family,Good,2,2.0,901,2369,18,0,309684,343.71,39,2022-05-04
+L00107,Bellhaven,Thornwood,Multi-Family,Good,6,4.0,2838,4814,18,1,1176149,414.43,38,2023-12-14
+L00108,Bellhaven,Meadowbrook,Condo,Fair,1,1.5,706,0,3,0,474346,671.88,28,2024-05-08
+L00109,Riverside,Oakwood,Condo,Good,1,1.0,639,0,2,1,340649,533.1,42,2024-10-28
+L00110,Hartfield,Westmont,Single Family,Good,4,2.5,2272,6829,18,2,786623,346.22,6,2022-04-07
+L00111,Dunmore,South End,Single Family,Good,5,1.5,2677,6476,12,2,406696,151.92,6,2024-12-21
+L00112,Hartfield,Downtown,Single Family,Fair,4,3.0,2129,2638,19,1,827766,388.81,60,2024-09-08
+L00113,Bellhaven,Gallery District,Condo,Fair,2,1.0,933,0,24,0,631762,677.13,81,2023-09-24
+L00114,Crestwood,Northgate,Single Family,Good,3,1.5,1476,4315,12,1,285089,193.15,13,2022-11-09
+L00115,Bellhaven,Meadowbrook,Single Family,Fair,3,1.5,1419,3841,103,2,537995,379.14,9,2022-05-01
+L00116,Riverside,Eastside,Single Family,Good,3,1.5,1566,5344,24,2,429765,274.43,4,2022-02-02
+L00117,Bellhaven,Gallery District,Single Family,Excellent,3,2.0,2148,5130,12,2,1191801,554.84,6,2024-02-04
+L00118,Riverside,Oakwood,Single Family,Good,3,2.5,2039,6537,23,2,611872,300.08,53,2023-11-10
+L00119,Bellhaven,Thornwood,Single Family,Excellent,5,3.5,2697,9573,9,2,1138250,422.04,8,2023-03-01
+L00120,Bellhaven,Thornwood,Single Family,Fair,4,2.5,2045,4466,3,0,647543,316.65,3,2023-04-21
+L00121,Bellhaven,Meadowbrook,Single Family,Good,3,2.0,1822,2637,8,2,853985,468.71,10,2023-05-20
+L00122,Riverside,Millbrook,Single Family,Fair,3,1.5,1331,2031,3,2,345863,259.85,21,2022-07-03
+L00123,Dunmore,Industrial Park,Condo,Excellent,2,1.0,1023,0,15,0,236359,231.04,20,2022-05-10
+L00124,Dunmore,Industrial Park,Single Family,Excellent,2,2.0,1040,3139,13,3,282204,271.35,5,2024-05-31
+L00125,Bellhaven,Thornwood,Single Family,Fair,4,2.5,1719,5115,11,1,648634,377.33,59,2022-08-22
+L00126,Hartfield,Pinecrest,Townhouse,Fair,2,2.5,1163,2509,8,1,460059,395.58,24,2023-06-02
+L00127,Bellhaven,Old Town,Townhouse,Good,4,2.0,2330,3322,24,1,1016747,436.37,13,2023-12-29
+L00128,Riverside,Oakwood,Single Family,Good,4,2.5,2144,5941,14,2,704106,328.41,46,2024-10-21
+L00129,Crestwood,Northgate,Single Family,Fair,4,2.0,1875,2909,2,0,314864,167.93,175,2022-04-02
+L00130,Hartfield,Westmont,Single Family,Good,3,3.0,1858,5590,12,2,652312,351.08,41,2023-02-09
+L00131,Dunmore,Industrial Park,Single Family,Excellent,3,2.5,1850,3865,11,2,300546,162.46,8,2024-03-14
+L00132,Riverside,Eastside,Single Family,Excellent,3,2.0,1418,3059,4,2,499548,352.29,4,2024-02-25
+L00133,Hartfield,Harbor View,Townhouse,Good,4,3.0,2183,3355,19,1,962139,440.74,40,2024-10-10
+L00134,Riverside,Millbrook,Single Family,Good,4,2.5,1798,3993,19,2,496190,275.97,23,2023-07-03
+L00135,Riverside,Eastside,Townhouse,Fair,3,3.0,1464,3699,13,1,413933,282.74,43,2022-08-29
+L00136,Hartfield,Westmont,Townhouse,Fair,3,2.0,1815,4253,8,1,603280,332.39,23,2023-07-02
+L00137,Crestwood,Lakeside,Single Family,Fair,3,3.0,1823,2372,15,3,390074,213.97,61,2023-07-05
+L00138,Crestwood,Northgate,Multi-Family,Good,3,3.5,1771,5300,25,2,365867,206.59,11,2024-01-04
+L00139,Dunmore,Cedar Ridge,Single Family,Fair,4,3.5,2578,6289,40,2,385333,149.47,50,2022-02-03
+L00140,Crestwood,Elm Street,Townhouse,Fair,2,2.0,984,2054,2,0,275051,279.52,6,2023-09-18
+L00141,Dunmore,Cedar Ridge,Single Family,Excellent,3,1.5,1543,2403,6,3,384708,249.32,21,2022-07-02
+L00142,Hartfield,Downtown,Condo,Excellent,2,1.5,1028,0,12,1,618881,602.02,48,2024-06-25
+L00143,Hartfield,Westmont,Single Family,Excellent,4,2.5,1967,4654,42,2,642994,326.89,24,2023-09-10
+L00144,Bellhaven,Old Town,Single Family,Good,2,3.5,1049,1954,11,0,732255,698.05,3,2024-05-11
+L00145,Riverside,Oakwood,Multi-Family,Good,4,3.5,2171,5700,23,2,620732,285.92,15,2022-11-09
+L00146,Riverside,Millbrook,Condo,Fair,2,1.0,826,0,13,0,284878,344.89,7,2024-07-17
+L00147,Bellhaven,Thornwood,Condo,Fair,2,1.0,977,0,48,0,408556,418.17,31,2022-03-02
+L00148,Riverside,Millbrook,Townhouse,Excellent,2,2.5,1226,2663,30,2,400834,326.94,41,2022-01-06
+L00149,Dunmore,Cedar Ridge,Condo,Good,1,1.5,690,0,7,1,217991,315.93,3,2022-06-09
+L00150,Bellhaven,Thornwood,Townhouse,Good,2,2.0,1078,3815,30,1,549590,509.82,36,2023-05-12
+L00151,Riverside,Millbrook,Single Family,Good,4,2.5,1775,5451,11,0,530761,299.02,31,2023-09-22
+L00152,Hartfield,Pinecrest,Condo,Good,3,1.0,1584,0,2,0,610489,385.41,32,2022-05-08
+L00153,Crestwood,Northgate,Single Family,Excellent,3,3.0,2084,5004,14,2,447170,214.57,5,2024-04-12
+L00154,Crestwood,Lakeside,Condo,Excellent,2,1.5,1074,0,7,0,407464,379.39,30,2023-12-30
+L00155,Dunmore,Industrial Park,Single Family,Excellent,4,1.5,1890,3369,5,0,342679,181.31,1,2024-03-31
+L00156,Bellhaven,Gallery District,Single Family,Fair,4,1.5,2568,6744,13,3,1053829,410.37,26,2024-03-19
+L00157,Dunmore,Cedar Ridge,Condo,Good,2,2.0,1188,0,12,0,280102,235.78,19,2024-12-12
+L00158,Crestwood,Lakeside,Condo,Good,1,1.5,676,0,50,0,242708,359.04,6,2023-07-30
+L00159,Crestwood,Lakeside,Townhouse,Poor,2,3.0,1413,1919,10,1,293347,207.61,86,2022-12-22
+L00160,Dunmore,Industrial Park,Condo,Excellent,3,2.0,1424,0,3,0,271001,190.31,7,2023-04-22
+L00161,Crestwood,Elm Street,Single Family,Good,5,3.0,2262,7187,11,3,466957,206.44,27,2024-03-21
+L00162,Crestwood,Elm Street,Condo,Good,3,2.0,1308,0,25,0,322236,246.36,24,2022-12-26
+L00163,Dunmore,Industrial Park,Single Family,Good,4,2.5,2334,6132,9,2,355497,152.31,29,2022-06-09
+L00164,Bellhaven,Old Town,Single Family,Good,2,2.0,1275,2811,30,1,733645,575.41,51,2022-12-07
+L00165,Hartfield,Westmont,Single Family,Fair,2,1.0,1108,2809,49,1,357011,322.21,28,2022-11-26
+L00166,Hartfield,Pinecrest,Single Family,Excellent,3,2.0,1565,1946,7,2,735958,470.26,1,2023-07-31
+L00167,Dunmore,South End,Single Family,Excellent,3,2.0,1585,2808,12,0,332141,209.55,4,2024-09-28
+L00168,Bellhaven,Meadowbrook,Single Family,Fair,4,2.0,2338,6333,37,2,863911,369.51,36,2024-04-27
+L00169,Bellhaven,Gallery District,Single Family,Excellent,5,3.0,3030,4755,25,2,1635664,539.82,4,2022-10-29
+L00170,Bellhaven,Gallery District,Multi-Family,Good,5,2.5,2616,7117,11,2,1165079,445.37,25,2024-03-24
+L00171,Riverside,Millbrook,Single Family,Good,4,4.0,2584,7345,34,1,617865,239.11,15,2023-12-06
+L00172,Bellhaven,Old Town,Single Family,Fair,4,1.0,1894,5256,10,2,821541,433.76,18,2023-09-13
+L00173,Crestwood,Northgate,Condo,Good,1,1.5,583,0,16,1,215125,369.0,50,2024-02-05
+L00174,Riverside,Oakwood,Single Family,Fair,5,2.0,2453,7397,8,2,554330,225.98,12,2024-08-08
+L00175,Dunmore,Cedar Ridge,Single Family,Excellent,5,3.0,2878,5958,4,2,562392,195.41,25,2023-03-15
+L00176,Riverside,Millbrook,Townhouse,Good,3,1.5,1519,2973,76,1,334709,220.35,44,2023-07-18
+L00177,Riverside,Oakwood,Condo,Fair,2,1.5,1120,0,21,1,357498,319.19,49,2023-09-04
+L00178,Crestwood,Elm Street,Single Family,Fair,5,3.0,2263,3805,26,3,380591,168.18,55,2022-02-22
+L00179,Hartfield,Harbor View,Condo,Good,2,2.0,1063,0,42,1,516365,485.76,75,2023-01-06
+L00180,Riverside,Oakwood,Single Family,Fair,3,3.0,1518,3289,42,1,435838,287.11,9,2024-08-21
+L00181,Dunmore,South End,Single Family,Fair,3,4.0,1824,6318,95,1,227158,124.54,43,2022-10-21
+L00182,Crestwood,Elm Street,Townhouse,Excellent,4,2.0,1871,3504,23,1,504562,269.68,35,2024-04-06
+L00183,Dunmore,Industrial Park,Single Family,Excellent,4,2.0,1487,3113,16,3,307351,206.69,10,2023-09-19
+L00184,Hartfield,Harbor View,Multi-Family,Good,5,2.5,2116,7649,6,2,906191,428.26,14,2022-09-26
+L00185,Dunmore,Cedar Ridge,Single Family,Poor,4,2.5,1571,3094,11,0,224418,142.85,75,2023-06-02
+L00186,Dunmore,Cedar Ridge,Single Family,Fair,3,3.0,1961,4734,5,1,318839,162.59,38,2023-02-14
+L00187,Bellhaven,Thornwood,Single Family,Excellent,2,1.5,1183,869,34,2,634332,536.21,10,2022-06-03
+L00188,Hartfield,Downtown,Townhouse,Good,3,2.0,1489,3549,1,0,579593,389.25,6,2022-10-11
+L00189,Hartfield,Downtown,Single Family,Poor,3,2.0,1393,3437,36,3,499598,358.65,48,2022-08-20
+L00190,Bellhaven,Gallery District,Condo,Fair,2,2.0,1322,0,29,1,655386,495.75,4,2022-09-25
+L00191,Dunmore,Cedar Ridge,Condo,Good,3,2.0,1223,0,3,0,287918,235.42,23,2023-05-25
+L00192,Hartfield,Pinecrest,Townhouse,Fair,2,2.0,883,2989,6,1,401739,454.97,26,2024-02-15
+L00193,Bellhaven,Old Town,Single Family,Good,4,1.0,1936,2979,8,0,948241,489.79,46,2024-11-07
+L00194,Dunmore,Cedar Ridge,Single Family,Fair,4,1.5,1590,3651,39,2,265469,166.96,59,2023-08-21
+L00195,Crestwood,Lakeside,Single Family,Excellent,5,2.0,2546,6107,32,3,597866,234.83,45,2022-04-06
+L00196,Bellhaven,Old Town,Condo,Excellent,3,2.0,1580,0,16,0,850998,538.61,9,2022-12-29
+L00197,Bellhaven,Gallery District,Single Family,Poor,6,2.5,2422,6503,31,1,895605,369.78,19,2023-09-05
+L00198,Crestwood,Lakeside,Single Family,Fair,6,2.0,2525,3747,32,2,424646,168.18,90,2024-09-10
+L00199,Riverside,Eastside,Single Family,Good,2,1.5,1162,607,26,1,385188,331.49,7,2022-10-27
+L00200,Dunmore,Industrial Park,Condo,Good,1,2.0,690,0,58,1,182469,264.45,9,2024-03-04
+L00201,Bellhaven,Gallery District,Townhouse,Fair,3,2.5,1726,1973,74,1,685538,397.18,3,2023-08-26
+L00202,Crestwood,Elm Street,Single Family,Fair,2,2.5,1240,4383,20,3,310106,250.09,9,2023-09-09
+L00203,Dunmore,Industrial Park,Single Family,Good,2,2.0,1227,2356,6,1,253937,206.96,10,2024-12-22
+L00204,Dunmore,Industrial Park,Multi-Family,Fair,4,4.0,2446,5620,8,2,366733,149.93,12,2024-11-24
+L00205,Riverside,Oakwood,Multi-Family,Fair,4,3.0,2182,6548,26,0,465301,213.25,6,2022-08-01
+L00206,Riverside,Millbrook,Condo,Excellent,1,1.0,587,0,2,0,330520,563.07,2,2023-04-12
+L00207,Dunmore,Industrial Park,Townhouse,Good,3,1.5,1818,3452,8,2,279597,153.79,9,2022-06-27
+L00208,Dunmore,South End,Multi-Family,Excellent,5,4.0,2659,5583,66,2,388668,146.17,23,2022-10-17
+L00209,Crestwood,Elm Street,Single Family,Good,4,2.0,2059,3830,5,1,469710,228.13,3,2022-04-22
+L00210,Dunmore,South End,Multi-Family,Good,5,2.5,2570,8057,15,0,366728,142.7,14,2023-11-04
+L00211,Hartfield,Westmont,Condo,Good,1,1.5,615,0,13,1,375464,610.51,55,2023-09-18
+L00212,Riverside,Eastside,Single Family,Excellent,4,1.0,2343,3600,53,2,604485,258.0,24,2023-06-18
+L00213,Crestwood,Elm Street,Single Family,Good,3,2.5,1787,5053,21,2,361381,202.23,7,2022-12-06
+L00214,Crestwood,Elm Street,Single Family,Good,2,2.0,974,2485,10,0,370903,380.8,26,2024-08-19
+L00215,Crestwood,Lakeside,Condo,Excellent,2,1.5,1285,0,40,1,396476,308.54,26,2024-11-24
+L00216,Riverside,Eastside,Townhouse,Good,3,2.0,1624,3084,21,1,426420,262.57,25,2022-08-31
+L00217,Bellhaven,Old Town,Single Family,Excellent,4,1.5,2083,4136,5,2,1020592,489.96,28,2023-01-04
+L00218,Hartfield,Pinecrest,Condo,Good,2,1.0,1055,0,33,0,494777,468.98,13,2024-11-12
+L00219,Hartfield,Pinecrest,Townhouse,Good,2,3.0,1201,3331,31,1,526803,438.64,28,2022-07-10
+L00220,Crestwood,Elm Street,Condo,Good,3,1.5,1312,0,10,1,346758,264.3,20,2022-07-20
+L00221,Riverside,Eastside,Condo,Excellent,2,1.5,1081,0,12,0,420810,389.28,8,2022-08-07
+L00222,Hartfield,Pinecrest,Condo,Good,1,1.5,631,0,99,0,294981,467.48,41,2023-12-07
+L00223,Riverside,Oakwood,Condo,Fair,2,2.0,1268,0,23,1,365654,288.37,43,2022-07-06
+L00224,Bellhaven,Thornwood,Condo,Good,3,2.0,1739,0,13,1,713968,410.56,32,2023-02-18
+L00225,Riverside,Millbrook,Single Family,Excellent,3,4.0,1724,4619,20,2,579358,336.05,14,2024-11-26
+L00226,Crestwood,Elm Street,Condo,Excellent,3,1.5,1371,0,2,0,388542,283.4,6,2023-08-26
+L00227,Bellhaven,Meadowbrook,Townhouse,Fair,4,2.0,1880,2679,3,1,736500,391.76,21,2022-05-19
+L00228,Crestwood,Elm Street,Single Family,Good,4,2.0,1799,4364,6,2,467907,260.09,8,2023-07-06
+L00229,Hartfield,Westmont,Townhouse,Fair,3,2.5,1423,4119,15,0,449413,315.82,181,2022-01-14
+L00230,Crestwood,Northgate,Single Family,Fair,4,2.0,1843,4990,13,2,349751,189.77,29,2022-03-08
+L00231,Riverside,Eastside,Single Family,Good,3,2.5,1575,2801,15,1,445858,283.08,9,2023-12-04
+L00232,Hartfield,Westmont,Townhouse,Fair,4,2.0,2385,3157,30,2,722602,302.98,57,2024-08-26
+L00233,Crestwood,Northgate,Condo,Good,2,2.0,953,0,37,0,264926,277.99,42,2024-09-02
+L00234,Bellhaven,Old Town,Single Family,Fair,4,2.5,1418,2552,8,2,726415,512.28,43,2023-10-28
+L00235,Hartfield,Harbor View,Single Family,Good,3,3.5,1582,4165,24,0,702710,444.19,20,2023-07-02
+L00236,Hartfield,Westmont,Townhouse,Excellent,3,2.0,1559,2387,12,1,702007,450.29,3,2022-07-15
+L00237,Hartfield,Downtown,Condo,Fair,1,1.0,515,0,41,0,292248,567.47,117,2022-02-28
+L00238,Hartfield,Westmont,Condo,Good,2,2.0,1133,0,23,0,481003,424.54,9,2024-12-29
+L00239,Riverside,Eastside,Townhouse,Fair,3,2.0,1884,2116,15,0,415742,220.67,92,2022-01-19
+L00240,Hartfield,Westmont,Condo,Good,2,1.0,861,0,36,0,384633,446.73,11,2023-07-11
+L00241,Dunmore,South End,Single Family,Good,3,1.0,1296,2364,3,0,254926,196.7,17,2023-07-06
+L00242,Bellhaven,Thornwood,Single Family,Fair,3,3.0,1813,5753,2,3,846626,466.98,55,2024-08-20
+L00243,Bellhaven,Gallery District,Condo,Excellent,2,2.0,1107,0,89,0,613500,554.2,12,2024-08-26
+L00244,Bellhaven,Thornwood,Single Family,Fair,5,2.0,2228,4023,5,1,721814,323.97,50,2023-07-20
+L00245,Riverside,Oakwood,Single Family,Excellent,4,3.5,2212,4536,23,3,656396,296.74,9,2022-08-08
+L00246,Bellhaven,Thornwood,Condo,Good,1,2.0,623,0,19,1,465510,747.21,20,2023-12-14
+L00247,Crestwood,Lakeside,Single Family,Excellent,4,2.0,1872,6317,33,1,517644,276.52,21,2023-05-05
+L00248,Crestwood,Northgate,Single Family,Good,2,2.5,1332,3393,1,0,289378,217.25,31,2022-08-08
+L00249,Crestwood,Elm Street,Condo,Excellent,3,1.0,1210,0,49,0,289565,239.31,23,2022-06-13
+L00250,Dunmore,South End,Condo,Fair,2,1.0,907,0,6,0,190550,210.09,23,2024-02-29
+L00251,Dunmore,South End,Condo,Fair,2,1.0,1203,0,18,1,217442,180.75,202,2024-10-30
+L00252,Crestwood,Northgate,Townhouse,Good,3,2.5,1694,3796,58,1,313305,184.95,1,2023-06-05
+L00253,Crestwood,Elm Street,Single Family,Good,5,1.0,2314,4054,18,3,518605,224.12,9,2022-11-13
+L00254,Dunmore,South End,Condo,Good,1,1.5,446,0,27,0,148493,332.94,37,2022-07-15
+L00255,Bellhaven,Meadowbrook,Multi-Family,Excellent,5,3.5,2690,10055,23,2,1098700,408.44,4,2022-04-21
+L00256,Bellhaven,Meadowbrook,Townhouse,Good,2,2.0,1138,3124,15,1,608728,534.91,17,2022-04-11
+L00257,Bellhaven,Gallery District,Condo,Poor,2,1.0,775,0,13,0,486689,627.99,101,2022-07-03
+L00258,Crestwood,Lakeside,Townhouse,Fair,3,2.0,1650,3707,4,2,359857,218.1,4,2022-06-25
+L00259,Riverside,Millbrook,Single Family,Excellent,3,2.5,1471,3136,15,1,455295,309.51,2,2022-10-17
+L00260,Dunmore,South End,Single Family,Fair,2,2.0,1260,1882,44,1,190899,151.51,101,2022-02-09
+L00261,Dunmore,Cedar Ridge,Single Family,Excellent,6,2.5,3712,9410,9,2,641323,172.77,56,2024-09-30
+L00262,Riverside,Eastside,Single Family,Good,6,4.0,3439,7102,10,3,793697,230.79,8,2024-03-15
+L00263,Hartfield,Pinecrest,Multi-Family,Poor,4,3.0,2236,9409,36,0,519720,232.43,15,2022-10-10
+L00264,Hartfield,Harbor View,Single Family,Good,4,2.0,2137,4949,9,3,945831,442.6,5,2024-04-27
+L00265,Hartfield,Westmont,Single Family,Poor,4,2.5,1949,3805,1,2,450203,230.99,132,2022-06-12
+L00266,Hartfield,Westmont,Single Family,Excellent,4,1.0,1545,4192,98,1,602835,390.18,10,2023-02-23
+L00267,Bellhaven,Old Town,Condo,Fair,2,1.5,935,0,23,1,540111,577.66,25,2022-03-20
+L00268,Dunmore,South End,Condo,Good,1,1.0,537,0,8,0,162769,303.11,45,2023-08-09
+L00269,Dunmore,Industrial Park,Single Family,Good,5,2.5,2489,5776,14,2,346836,139.35,33,2023-02-18
+L00270,Bellhaven,Thornwood,Single Family,Fair,4,4.0,2465,7001,1,2,844369,342.54,54,2022-12-16
+L00271,Crestwood,Lakeside,Townhouse,Good,3,1.5,1510,3601,7,0,395014,261.6,28,2024-07-28
+L00272,Bellhaven,Old Town,Condo,Excellent,3,1.0,1490,0,5,1,875852,587.82,36,2022-04-23
+L00273,Bellhaven,Gallery District,Single Family,Good,4,2.5,1919,1449,31,2,976244,508.73,16,2024-01-08
+L00274,Crestwood,Northgate,Single Family,Fair,3,2.5,1732,3332,3,2,336949,194.54,41,2024-12-19
+L00275,Dunmore,Cedar Ridge,Multi-Family,Good,3,3.0,1665,5925,5,1,312825,187.88,49,2023-04-22
+L00276,Bellhaven,Meadowbrook,Single Family,Good,4,2.0,1953,3966,2,2,853395,436.97,24,2023-09-07
+L00277,Hartfield,Westmont,Single Family,Good,4,3.5,2579,4592,22,2,707928,274.5,30,2023-11-18
+L00278,Riverside,Oakwood,Condo,Good,3,2.0,1469,0,4,0,441634,300.64,7,2022-03-05
+L00279,Crestwood,Lakeside,Townhouse,Fair,3,1.5,1316,3614,8,2,344563,261.83,3,2024-12-11
+L00280,Dunmore,Industrial Park,Single Family,Poor,4,2.5,2417,7620,38,2,237490,98.26,5,2024-11-23
+L00281,Dunmore,Industrial Park,Single Family,Fair,3,3.0,2088,4890,23,2,269301,128.98,8,2023-03-06
+L00282,Riverside,Eastside,Condo,Excellent,2,1.5,1227,0,19,0,435429,354.87,17,2022-12-17
+L00283,Riverside,Oakwood,Single Family,Excellent,4,2.5,2373,4604,9,3,657067,276.89,6,2023-02-10
+L00284,Bellhaven,Old Town,Single Family,Fair,4,2.5,1766,4230,22,1,898142,508.57,4,2024-01-15
+L00285,Crestwood,Northgate,Single Family,Excellent,4,2.5,1858,5728,36,1,414922,223.32,5,2023-10-30
+L00286,Bellhaven,Meadowbrook,Single Family,Good,4,2.0,1999,3396,27,3,828643,414.53,18,2022-12-21
+L00287,Bellhaven,Gallery District,Single Family,Good,4,2.5,2128,5164,23,2,1060619,498.41,5,2022-05-06
+L00288,Dunmore,South End,Single Family,Good,3,2.5,1617,1618,8,1,267347,165.34,49,2024-06-09
+L00289,Riverside,Millbrook,Townhouse,Poor,2,2.0,1089,3177,1,2,286841,263.4,76,2024-06-03
+L00290,Hartfield,Pinecrest,Townhouse,Good,3,2.0,1785,2864,23,2,673273,377.18,15,2022-10-22
+L00291,Dunmore,South End,Condo,Good,2,2.0,1174,0,6,0,230112,196.01,21,2024-05-19
+L00292,Riverside,Eastside,Single Family,Good,4,4.0,2120,3120,44,0,545362,257.25,78,2023-07-27
+L00293,Dunmore,Cedar Ridge,Single Family,Excellent,3,3.0,1505,3230,30,2,330468,219.58,9,2024-05-12
+L00294,Crestwood,Elm Street,Condo,Good,2,2.0,1077,0,15,0,293808,272.8,1,2022-09-17
+L00295,Hartfield,Westmont,Condo,Good,1,2.0,813,0,5,0,431277,530.48,21,2024-12-16
+L00296,Bellhaven,Gallery District,Condo,Fair,1,1.5,718,0,38,1,479229,667.45,23,2022-04-18
+L00297,Bellhaven,Thornwood,Single Family,Fair,2,3.5,1175,1802,26,2,440226,374.66,15,2022-03-26
+L00298,Riverside,Millbrook,Condo,Good,2,2.0,1012,0,20,1,330167,326.25,4,2023-02-04
+L00299,Dunmore,Industrial Park,Condo,Good,2,1.0,931,0,20,0,190522,204.64,30,2023-03-21
+L00300,Dunmore,Industrial Park,Townhouse,Fair,3,2.0,1539,1926,8,2,222200,144.38,5,2024-05-24
+L00301,Riverside,Millbrook,Multi-Family,Good,4,3.0,1954,6535,15,2,480727,246.02,2,2022-10-22
+L00302,Crestwood,Northgate,Single Family,Good,4,1.0,1860,3597,9,0,350251,188.31,40,2024-03-12
+L00303,Dunmore,Industrial Park,Single Family,Poor,4,2.5,2289,6224,26,2,257760,112.61,129,2024-03-31
+L00304,Crestwood,Lakeside,Single Family,Good,6,2.5,2629,5205,26,1,630588,239.86,24,2024-09-23
+L00305,Riverside,Eastside,Condo,Good,3,2.0,1839,0,1,1,540924,294.14,18,2023-11-26
+L00306,Dunmore,Industrial Park,Condo,Good,1,2.0,831,0,22,0,173230,208.46,16,2023-05-13
+L00307,Dunmore,Industrial Park,Townhouse,Excellent,3,2.5,1943,3012,37,1,319178,164.27,23,2024-04-03
+L00308,Crestwood,Elm Street,Single Family,Excellent,3,2.5,1373,1280,1,2,438035,319.03,4,2022-07-24
+L00309,Dunmore,South End,Single Family,Fair,4,2.5,1971,3417,12,1,276294,140.18,66,2022-12-24
+L00310,Riverside,Eastside,Single Family,Excellent,4,1.5,1877,4227,6,2,592570,315.7,6,2023-03-03
+L00311,Riverside,Oakwood,Condo,Good,2,1.5,1051,0,32,1,364608,346.92,3,2022-03-30
+L00312,Bellhaven,Thornwood,Single Family,Fair,5,2.0,2429,6405,12,1,762518,313.92,113,2023-02-14
+L00313,Bellhaven,Thornwood,Single Family,Fair,4,4.0,2505,7165,2,1,876621,349.95,11,2022-10-07
+L00314,Dunmore,Industrial Park,Condo,Good,1,1.5,632,0,15,0,164841,260.82,56,2024-08-05
+L00315,Hartfield,Downtown,Single Family,Excellent,6,3.0,3419,5687,37,2,1249375,365.42,4,2022-07-20
+L00316,Riverside,Oakwood,Single Family,Good,4,3.0,1529,4362,33,2,551771,360.87,15,2024-04-10
+L00317,Dunmore,Industrial Park,Single Family,Fair,4,2.5,2103,5136,22,2,304390,144.74,22,2023-11-19
+L00318,Crestwood,Northgate,Single Family,Good,2,3.0,1212,3199,3,1,313193,258.41,13,2024-09-06
+L00319,Dunmore,Cedar Ridge,Single Family,Excellent,3,2.5,1339,3379,17,2,326007,243.47,31,2024-12-27
+L00320,Bellhaven,Old Town,Single Family,Fair,3,3.5,1199,2457,16,1,653007,544.63,20,2023-02-23
+L00321,Riverside,Millbrook,Single Family,Excellent,4,3.0,2124,3811,24,2,598730,281.89,34,2023-10-31
+L00322,Crestwood,Elm Street,Single Family,Poor,4,1.0,1997,3698,57,2,328866,164.68,13,2023-08-08
+L00323,Dunmore,Industrial Park,Single Family,Good,3,3.0,1620,4108,14,2,272728,168.35,64,2022-11-29
+L00324,Dunmore,Cedar Ridge,Single Family,Fair,3,2.0,1193,3552,4,3,267824,224.5,4,2024-06-24
+L00325,Hartfield,Pinecrest,Single Family,Good,4,2.0,1930,4632,5,2,637299,330.21,12,2022-06-21
+L00326,Riverside,Eastside,Single Family,Excellent,5,2.0,2445,5084,84,2,645918,264.18,22,2022-06-29
+L00327,Bellhaven,Gallery District,Townhouse,Good,2,2.0,1230,2264,60,2,715006,581.31,35,2024-02-09
+L00328,Hartfield,Pinecrest,Single Family,Good,4,2.0,1907,2319,6,2,735041,385.44,9,2022-01-06
+L00329,Hartfield,Downtown,Single Family,Good,6,1.5,3172,4832,45,2,1105919,348.65,22,2024-09-01
+L00330,Bellhaven,Gallery District,Single Family,Excellent,3,2.5,1757,4700,23,3,1065649,606.52,33,2022-06-07
+L00331,Crestwood,Northgate,Condo,Fair,1,1.5,560,0,1,1,207958,371.35,33,2024-11-27
+L00332,Dunmore,Cedar Ridge,Condo,Poor,2,2.0,1186,0,55,1,160767,135.55,153,2022-08-27
+L00333,Crestwood,Elm Street,Condo,Excellent,2,1.0,1191,0,4,1,370877,311.4,3,2023-04-10
+L00334,Bellhaven,Old Town,Single Family,Excellent,4,2.5,2162,4546,8,2,1080572,499.8,7,2022-01-22
+L00335,Crestwood,Lakeside,Single Family,Excellent,4,3.0,1995,4155,19,1,473054,237.12,22,2022-01-29
+L00336,Dunmore,Cedar Ridge,Single Family,Fair,3,2.5,1898,1407,13,1,336439,177.26,64,2024-11-19
+L00337,Dunmore,Cedar Ridge,Single Family,Good,3,2.0,1418,5271,13,2,308039,217.23,28,2024-04-14
+L00338,Bellhaven,Old Town,Single Family,Good,4,1.5,1758,1132,30,2,980489,557.73,47,2022-12-12
+L00339,Crestwood,Lakeside,Townhouse,Good,4,2.5,1869,3498,66,2,438799,234.78,69,2024-09-19
+L00340,Riverside,Oakwood,Single Family,Excellent,3,2.5,1531,4581,32,1,558134,364.56,10,2024-11-30
+L00341,Dunmore,Industrial Park,Multi-Family,Excellent,4,4.0,2117,9285,14,1,366357,173.05,7,2022-03-09
+L00342,Riverside,Eastside,Condo,Fair,2,1.5,1108,0,11,0,334290,301.71,39,2024-10-10
+L00343,Crestwood,Northgate,Townhouse,Good,4,2.5,2125,1123,12,1,419866,197.58,11,2022-04-26
+L00344,Riverside,Eastside,Single Family,Good,5,2.5,2519,5298,20,3,724302,287.54,12,2023-10-11
+L00345,Crestwood,Elm Street,Condo,Good,2,1.5,1194,0,35,1,337358,282.54,6,2023-03-15
+L00346,Riverside,Eastside,Single Family,Excellent,4,2.5,2140,2919,8,1,600463,280.59,21,2023-09-07
+L00347,Riverside,Eastside,Condo,Fair,2,1.0,1013,0,61,1,298646,294.81,12,2024-12-27
+L00348,Hartfield,Westmont,Condo,Fair,2,1.5,1034,0,54,1,354060,342.42,13,2023-02-21
+L00349,Riverside,Oakwood,Townhouse,Good,3,3.0,1792,2574,8,1,477131,266.26,17,2022-03-01
+L00350,Riverside,Millbrook,Condo,Fair,3,1.5,1398,0,64,0,301312,215.53,65,2022-10-15
+L00351,Bellhaven,Old Town,Single Family,Excellent,4,2.0,1763,2524,6,2,1053398,597.5,3,2024-05-16
+L00352,Riverside,Millbrook,Condo,Good,1,1.0,678,0,4,1,298354,440.05,30,2024-08-31
+L00353,Hartfield,Harbor View,Condo,Good,3,1.5,1760,0,43,1,836068,475.04,36,2024-03-06
+L00354,Hartfield,Pinecrest,Condo,Fair,2,1.5,1292,0,45,0,415654,321.71,76,2024-10-03
+L00355,Dunmore,Industrial Park,Single Family,Good,4,3.0,2243,5009,23,2,340749,151.92,7,2024-06-27
+L00356,Hartfield,Pinecrest,Townhouse,Good,3,2.5,1480,1762,36,1,575023,388.53,1,2023-02-11
+L00357,Dunmore,Cedar Ridge,Condo,Good,1,1.5,613,0,22,0,205148,334.66,40,2023-06-17
+L00358,Bellhaven,Old Town,Single Family,Good,5,3.0,2552,5580,13,1,987179,386.83,5,2023-02-28
+L00359,Crestwood,Elm Street,Condo,Poor,2,2.0,1145,0,1,0,260733,227.71,63,2022-09-30
+L00360,Dunmore,Industrial Park,Single Family,Poor,3,2.0,1452,1816,28,2,181989,125.34,152,2022-04-04
+L00361,Hartfield,Harbor View,Single Family,Good,3,2.5,1510,2386,7,0,705303,467.09,12,2023-10-04
+L00362,Dunmore,South End,Condo,Good,1,2.0,755,0,57,0,164474,217.85,18,2024-06-20
+L00363,Bellhaven,Old Town,Single Family,Poor,4,2.5,2422,5173,10,1,771401,318.5,63,2023-02-22
+L00364,Riverside,Eastside,Townhouse,Excellent,4,2.0,2475,3244,8,1,700502,283.03,28,2022-09-07
+L00365,Bellhaven,Thornwood,Condo,Excellent,3,2.0,1623,0,9,1,778340,479.57,45,2022-09-22
+L00366,Bellhaven,Thornwood,Single Family,Poor,5,1.5,2726,8426,8,3,812743,298.14,13,2022-11-12
+L00367,Crestwood,Lakeside,Single Family,Good,3,2.0,1791,4544,11,2,435869,243.37,29,2023-01-17
+L00368,Bellhaven,Old Town,Single Family,Good,5,2.5,2902,9089,41,1,1165603,401.66,15,2024-12-07
+L00369,Dunmore,South End,Single Family,Good,4,1.0,1526,3728,41,2,285631,187.18,25,2022-04-03
+L00370,Hartfield,Westmont,Single Family,Fair,4,3.0,2073,4531,3,1,537313,259.2,19,2022-12-18
+L00371,Dunmore,South End,Condo,Poor,2,2.0,1135,0,38,0,151660,133.62,107,2023-01-21
+L00372,Crestwood,Northgate,Single Family,Good,3,3.5,1918,2971,1,2,413075,215.37,27,2024-07-09
+L00373,Bellhaven,Meadowbrook,Condo,Good,2,1.0,964,0,15,0,596412,618.68,29,2024-09-26
+L00374,Riverside,Millbrook,Condo,Good,2,1.5,999,0,13,0,359687,360.05,5,2024-11-05
+L00375,Bellhaven,Meadowbrook,Townhouse,Fair,3,2.5,1382,3268,8,1,609953,441.36,215,2022-06-26
+L00376,Hartfield,Downtown,Multi-Family,Good,4,3.0,2190,9002,37,0,772626,352.8,11,2023-11-23
+L00377,Dunmore,South End,Townhouse,Fair,4,2.5,2196,4178,36,0,303399,138.16,31,2022-08-16
+L00378,Riverside,Oakwood,Townhouse,Excellent,3,2.0,1703,2769,23,1,554436,325.56,28,2023-11-17
+L00379,Crestwood,Lakeside,Single Family,Good,4,2.0,2012,4484,17,2,557996,277.33,32,2023-04-13
+L00380,Bellhaven,Gallery District,Townhouse,Fair,3,1.5,1435,1958,13,1,848165,591.06,56,2024-03-16
+L00381,Dunmore,South End,Single Family,Fair,4,3.0,2290,4546,39,2,332732,145.3,43,2024-12-16
+L00382,Crestwood,Lakeside,Single Family,Excellent,3,1.0,1283,2625,3,1,397575,309.88,34,2023-08-05
+L00383,Crestwood,Elm Street,Townhouse,Good,3,2.0,1529,3053,16,1,371698,243.1,101,2022-09-11
+L00384,Dunmore,Cedar Ridge,Condo,Poor,2,2.0,938,0,8,0,168801,179.96,31,2022-10-14
+L00385,Bellhaven,Meadowbrook,Single Family,Excellent,5,2.5,2268,6207,20,2,1111958,490.28,45,2024-11-28
+L00386,Bellhaven,Gallery District,Single Family,Excellent,4,1.5,2057,4056,6,2,1358496,660.43,4,2024-08-27
+L00387,Crestwood,Elm Street,Condo,Excellent,1,1.5,639,0,34,0,281814,441.02,4,2024-05-13
+L00388,Riverside,Millbrook,Single Family,Good,3,2.0,1415,3926,4,2,403893,285.44,42,2022-10-11
+L00389,Bellhaven,Meadowbrook,Single Family,Good,4,3.5,2099,4457,45,3,824056,392.59,8,2022-02-20
+L00390,Dunmore,Industrial Park,Multi-Family,Good,5,3.0,2725,6156,73,0,301795,110.75,25,2023-07-18
+L00391,Riverside,Millbrook,Townhouse,Excellent,3,2.0,1741,2609,3,2,575520,330.57,17,2022-07-23
+L00392,Crestwood,Elm Street,Single Family,Excellent,3,2.0,2015,3905,39,2,478206,237.32,43,2022-09-05
+L00393,Crestwood,Northgate,Condo,Excellent,1,2.0,714,0,1,1,264411,370.32,15,2022-07-27
+L00394,Hartfield,Harbor View,Condo,Excellent,1,2.5,754,0,37,1,556869,738.55,20,2023-08-16
+L00395,Hartfield,Harbor View,Single Family,Fair,4,2.0,2224,5416,18,2,901061,405.15,47,2023-07-27
+L00396,Bellhaven,Thornwood,Single Family,Poor,3,2.5,1356,4225,23,2,434881,320.71,48,2022-01-05
+L00397,Riverside,Eastside,Condo,Good,3,2.0,1404,0,3,0,457456,325.82,19,2024-02-10
+L00398,Bellhaven,Old Town,Single Family,Excellent,3,3.5,2051,5421,8,2,1098629,535.66,5,2023-03-29
+L00399,Bellhaven,Old Town,Townhouse,Good,3,2.0,1300,2435,19,1,642729,494.41,33,2022-05-14
+L00400,Riverside,Eastside,Condo,Good,2,2.0,906,0,24,0,328472,362.55,38,2023-10-24
+L00401,Hartfield,Downtown,Single Family,Good,3,1.0,1474,4245,1,1,716967,486.41,24,2023-04-08
+L00402,Bellhaven,Meadowbrook,Townhouse,Good,3,2.0,1698,3144,10,1,757206,445.94,5,2022-04-22
+L00403,Riverside,Oakwood,Multi-Family,Poor,4,3.5,1996,7645,36,1,380735,190.75,34,2022-04-23
+L00404,Bellhaven,Gallery District,Townhouse,Fair,3,2.0,1503,2048,3,1,768559,511.35,67,2022-02-23
+L00405,Dunmore,Industrial Park,Condo,Good,2,2.0,1052,0,7,0,196750,187.02,56,2022-04-01
+L00406,Hartfield,Pinecrest,Single Family,Good,3,1.0,1473,2967,16,2,569036,386.31,30,2022-04-22
+L00407,Bellhaven,Thornwood,Townhouse,Good,3,2.0,1862,3550,54,1,724502,389.1,36,2024-10-12
+L00408,Crestwood,Lakeside,Single Family,Good,4,1.0,1627,4546,4,0,453029,278.44,9,2024-06-20
+L00409,Hartfield,Harbor View,Townhouse,Good,2,1.5,1276,3472,4,1,667643,523.23,22,2022-08-16
+L00410,Dunmore,South End,Townhouse,Excellent,2,3.0,1312,3346,11,1,316422,241.18,24,2024-05-29
+L00411,Riverside,Eastside,Townhouse,Fair,4,3.0,2187,3039,14,2,533139,243.78,12,2022-05-13
+L00412,Dunmore,Cedar Ridge,Single Family,Poor,3,2.5,1753,2382,6,2,257895,147.12,127,2023-02-20
+L00413,Riverside,Oakwood,Townhouse,Good,3,2.0,1337,2758,14,0,446066,333.63,27,2024-06-04
+L00414,Riverside,Millbrook,Townhouse,Good,3,2.5,1743,2933,1,2,448095,257.08,8,2023-02-15
+L00415,Hartfield,Harbor View,Single Family,Good,4,3.0,1876,4954,24,2,856644,456.63,7,2024-08-24
+L00416,Dunmore,Cedar Ridge,Townhouse,Fair,3,2.5,1746,3751,27,1,261197,149.6,59,2023-03-06
+L00417,Crestwood,Northgate,Single Family,Good,4,3.0,2054,6078,19,2,382894,186.41,26,2022-03-07
+L00418,Bellhaven,Gallery District,Multi-Family,Excellent,4,3.0,2449,6823,8,1,1424775,581.78,5,2022-12-18
+L00419,Crestwood,Elm Street,Single Family,Fair,2,1.5,1267,4115,12,2,331740,261.83,14,2022-11-18
+L00420,Crestwood,Northgate,Townhouse,Fair,2,2.0,1203,3711,14,1,248334,206.43,105,2023-02-18
+L00421,Bellhaven,Meadowbrook,Condo,Fair,1,2.0,621,0,8,0,394036,634.52,51,2022-12-25
+L00422,Riverside,Oakwood,Townhouse,Excellent,4,2.0,2211,3682,52,1,672530,304.17,23,2024-10-07
+L00423,Hartfield,Harbor View,Single Family,Excellent,2,2.5,1080,1798,12,2,708663,656.17,10,2023-02-03
+L00424,Dunmore,Cedar Ridge,Single Family,Poor,3,3.0,2117,4773,3,3,318105,150.26,41,2023-08-26
+L00425,Riverside,Eastside,Condo,Good,1,2.0,664,0,24,0,262224,394.92,65,2022-07-30
+L00426,Hartfield,Westmont,Single Family,Good,6,2.0,2703,4946,48,1,788544,291.73,28,2022-12-10
+L00427,Bellhaven,Meadowbrook,Single Family,Good,3,2.0,1541,4229,14,2,700762,454.74,38,2022-05-16
+L00428,Riverside,Eastside,Condo,Poor,3,1.0,1045,0,27,1,259279,248.11,31,2022-09-30
+L00429,Dunmore,South End,Single Family,Good,3,2.5,1547,3543,50,3,292899,189.33,7,2023-09-25
+L00430,Riverside,Oakwood,Multi-Family,Good,6,3.5,3321,6994,32,1,908781,273.65,11,2024-12-02
+L00431,Riverside,Eastside,Multi-Family,Fair,5,2.5,3007,6237,22,2,608972,202.52,7,2022-05-13
+L00432,Hartfield,Westmont,Condo,Good,2,1.0,1020,0,13,0,420179,411.94,74,2023-05-25
+L00433,Bellhaven,Gallery District,Single Family,Good,4,2.0,2241,4488,32,1,1221127,544.9,9,2024-05-25
+L00434,Bellhaven,Thornwood,Single Family,Good,2,1.5,1189,2997,1,2,666850,560.85,13,2024-10-22
+L00435,Dunmore,Industrial Park,Single Family,Excellent,5,2.0,2568,7199,7,2,354707,138.13,20,2023-12-15
+L00436,Riverside,Millbrook,Condo,Fair,2,2.0,891,0,7,0,287527,322.7,100,2022-11-27
+L00437,Hartfield,Pinecrest,Single Family,Good,4,2.5,2300,6447,30,2,753957,327.81,36,2022-07-02
+L00438,Riverside,Oakwood,Townhouse,Excellent,2,2.5,1298,2249,5,1,510034,392.94,5,2024-02-07
+L00439,Hartfield,Westmont,Single Family,Poor,3,2.5,1846,4513,8,2,448782,243.11,2,2024-02-13
+L00440,Riverside,Eastside,Condo,Poor,1,1.5,611,0,21,0,232813,381.04,365,2023-06-29
+L00441,Crestwood,Lakeside,Single Family,Good,6,3.0,3802,8453,12,3,729425,191.85,18,2022-10-12
+L00442,Bellhaven,Meadowbrook,Condo,Excellent,2,2.5,954,0,77,0,517897,542.87,43,2023-10-29
+L00443,Bellhaven,Old Town,Condo,Good,1,1.0,482,0,19,0,496798,1030.7,19,2024-10-30
+L00444,Riverside,Millbrook,Condo,Good,1,2.0,798,0,28,1,298486,374.04,76,2022-11-25
+L00445,Hartfield,Pinecrest,Single Family,Fair,5,3.5,2179,3278,11,2,692043,317.6,15,2024-02-21
+L00446,Crestwood,Lakeside,Condo,Excellent,3,1.5,1573,0,9,0,421110,267.71,7,2024-02-18
+L00447,Hartfield,Westmont,Single Family,Excellent,5,2.0,2458,6399,26,3,759140,308.84,10,2022-10-29
+L00448,Riverside,Millbrook,Multi-Family,Fair,4,3.5,2088,5635,88,1,475785,227.87,111,2023-11-14
+L00449,Bellhaven,Meadowbrook,Single Family,Fair,5,2.0,2110,5472,15,0,779399,369.38,84,2023-12-15
+L00450,Hartfield,Harbor View,Townhouse,Good,4,2.5,1898,2894,4,1,913158,481.12,34,2024-09-15
+L00451,Hartfield,Pinecrest,Multi-Family,Good,5,4.0,2772,7296,2,0,931552,336.06,9,2024-11-21
+L00452,Dunmore,Industrial Park,Condo,Good,2,2.0,1187,0,24,1,207404,174.73,59,2023-07-18
+L00453,Dunmore,Cedar Ridge,Multi-Family,Good,5,2.0,2686,832,27,1,513372,191.13,41,2023-09-04
+L00454,Dunmore,Cedar Ridge,Townhouse,Good,2,2.5,1111,3165,31,1,249047,224.16,40,2023-03-01
+L00455,Hartfield,Westmont,Condo,Excellent,1,2.0,751,0,3,0,433088,576.68,43,2023-09-04
+L00456,Crestwood,Lakeside,Condo,Excellent,2,1.5,1256,0,16,1,395390,314.8,5,2022-07-22
+L00457,Dunmore,South End,Single Family,Fair,3,2.5,1513,3009,14,1,222536,147.08,45,2023-06-05
+L00458,Crestwood,Lakeside,Condo,Fair,2,1.5,949,0,105,0,212979,224.42,24,2024-06-07
+L00459,Riverside,Millbrook,Townhouse,Fair,2,2.5,1527,3765,6,1,358531,234.79,6,2022-08-04
+L00460,Dunmore,South End,Condo,Good,3,1.0,1317,0,30,1,246480,187.15,33,2024-12-24
+L00461,Hartfield,Pinecrest,Condo,Good,3,2.0,1773,0,34,0,656104,370.05,18,2024-05-06
+L00462,Hartfield,Harbor View,Condo,Excellent,1,2.0,697,0,7,1,524698,752.79,48,2022-07-11
+L00463,Dunmore,Cedar Ridge,Single Family,Good,4,2.5,2123,4821,5,2,374268,176.29,46,2022-01-15
+L00464,Dunmore,Cedar Ridge,Condo,Good,3,2.0,1101,0,17,1,278676,253.11,9,2023-04-06
+L00465,Crestwood,Lakeside,Single Family,Good,4,1.5,1876,4877,30,1,460179,245.3,18,2024-03-17
+L00466,Bellhaven,Old Town,Single Family,Good,3,2.0,1589,3106,10,0,819047,515.45,4,2022-07-27
+L00467,Crestwood,Elm Street,Single Family,Good,3,3.5,1720,6871,24,2,436192,253.6,6,2024-06-18
+L00468,Bellhaven,Meadowbrook,Condo,Poor,1,1.0,514,0,13,0,348010,677.06,179,2024-10-11
+L00469,Bellhaven,Gallery District,Single Family,Excellent,2,2.0,1085,2439,25,2,829078,764.13,11,2023-12-02
+L00470,Dunmore,Industrial Park,Single Family,Fair,5,4.0,2768,6563,27,1,284529,102.79,12,2022-07-31
+L00471,Riverside,Millbrook,Multi-Family,Poor,4,3.0,1851,9441,9,0,380276,205.44,35,2023-04-19
+L00472,Bellhaven,Gallery District,Single Family,Excellent,2,1.5,1161,2740,53,2,831032,715.79,20,2022-07-26
+L00473,Hartfield,Harbor View,Single Family,Fair,4,2.5,2341,5233,20,2,801079,342.2,46,2022-06-28
+L00474,Bellhaven,Old Town,Single Family,Good,3,3.0,1553,3858,1,3,975735,628.29,12,2023-01-28
+L00475,Riverside,Millbrook,Single Family,Good,5,2.5,2096,3033,4,0,508744,242.72,21,2022-04-04
+L00476,Riverside,Oakwood,Single Family,Good,4,2.0,1777,3933,19,2,496101,279.18,9,2022-01-19
+L00477,Dunmore,Industrial Park,Single Family,Excellent,3,1.0,1416,4562,7,1,257109,181.57,15,2022-04-16
+L00478,Riverside,Eastside,Townhouse,Good,2,2.5,1201,3637,1,1,389911,324.66,40,2023-12-30
+L00479,Riverside,Eastside,Condo,Good,2,2.0,1051,0,18,1,379476,361.06,10,2024-06-24
+L00480,Crestwood,Elm Street,Townhouse,Excellent,2,1.5,1199,3446,29,2,383995,320.26,3,2023-08-01
+L00481,Bellhaven,Old Town,Condo,Excellent,2,1.0,918,0,1,0,660275,719.25,4,2022-03-31
+L00482,Dunmore,Cedar Ridge,Townhouse,Fair,2,1.5,945,3660,9,1,233154,246.72,6,2024-09-07
+L00483,Dunmore,South End,Single Family,Poor,2,2.0,1318,2582,47,1,173600,131.71,215,2024-02-27
+L00484,Riverside,Eastside,Single Family,Good,5,1.5,2268,5827,9,0,606395,267.37,7,2023-01-07
+L00485,Crestwood,Northgate,Townhouse,Fair,2,1.5,1024,3321,9,2,272339,265.96,56,2024-03-10
+L00486,Crestwood,Elm Street,Single Family,Good,3,2.0,1753,2254,9,2,426735,243.43,5,2023-05-19
+L00487,Dunmore,Cedar Ridge,Townhouse,Fair,3,1.5,1470,3138,10,1,326024,221.79,73,2024-08-28
+L00488,Hartfield,Pinecrest,Single Family,Fair,2,1.5,964,1960,1,3,487152,505.34,3,2024-05-19
+L00489,Riverside,Oakwood,Single Family,Good,4,1.5,1522,3287,27,1,440179,289.21,5,2023-09-06
+L00490,Dunmore,Industrial Park,Condo,Excellent,2,2.0,1145,0,18,1,268650,234.63,15,2023-06-13
+L00491,Hartfield,Westmont,Single Family,Excellent,3,3.0,1731,3552,26,3,666302,384.92,4,2024-09-04
+L00492,Riverside,Millbrook,Condo,Fair,1,1.0,620,0,32,0,247179,398.68,6,2023-09-26
+L00493,Bellhaven,Old Town,Single Family,Excellent,3,4.0,2007,5786,9,2,1043321,519.84,5,2024-03-11
+L00494,Hartfield,Downtown,Condo,Good,2,2.0,1197,0,4,0,694680,580.35,7,2024-08-06
+L00495,Dunmore,Cedar Ridge,Multi-Family,Good,4,3.5,2305,8717,22,1,444554,192.87,79,2024-06-01
+L00496,Bellhaven,Old Town,Townhouse,Excellent,4,2.0,2060,2548,3,2,1208238,586.52,20,2023-10-05
+L00497,Bellhaven,Thornwood,Townhouse,Good,4,3.0,1914,2842,8,2,803067,419.58,14,2024-04-17
+L00498,Dunmore,South End,Single Family,Fair,4,2.5,2089,3657,38,2,266021,127.34,90,2022-01-17
+L00499,Crestwood,Northgate,Single Family,Good,4,1.5,2373,7490,12,1,461444,194.46,17,2024-06-06
+L00500,Riverside,Eastside,Single Family,Good,4,2.0,1738,3218,61,0,446721,257.03,15,2024-01-11
+L00501,Hartfield,Downtown,Single Family,Good,2,3.0,1223,2936,50,2,560391,458.21,12,2023-01-12
+L00502,Bellhaven,Gallery District,Multi-Family,Good,6,3.0,2292,5918,5,2,1132463,494.09,6,2022-10-24
+L00503,Hartfield,Pinecrest,Townhouse,Excellent,4,2.0,2239,2815,40,1,746972,333.62,20,2022-09-15
+L00504,Dunmore,South End,Single Family,Good,3,2.5,1603,4192,8,3,269562,168.16,13,2023-09-21
+L00505,Dunmore,South End,Single Family,Excellent,3,2.0,1436,2934,42,2,277952,193.56,26,2024-06-14
+L00506,Riverside,Eastside,Multi-Family,Excellent,5,3.0,2280,5739,37,1,683987,299.99,44,2023-08-17
+L00507,Bellhaven,Meadowbrook,Townhouse,Good,4,2.0,2098,2100,7,2,920660,438.83,1,2023-06-26
+L00508,Crestwood,Lakeside,Townhouse,Good,3,3.0,1768,4414,5,2,440972,249.42,9,2024-03-16
+L00509,Dunmore,Industrial Park,Single Family,Excellent,4,2.5,2203,2361,22,2,362183,164.4,22,2023-06-17
+L00510,Dunmore,Cedar Ridge,Condo,Poor,2,1.0,1192,0,34,1,185685,155.78,108,2023-01-18
+L00511,Riverside,Millbrook,Single Family,Excellent,2,4.0,1813,5897,3,3,582611,321.35,9,2022-10-18
+L00512,Riverside,Millbrook,Single Family,Poor,2,2.5,1480,2500,37,2,337889,228.3,30,2023-01-04
+L00513,Dunmore,Cedar Ridge,Condo,Excellent,2,2.5,1085,0,1,0,268537,247.5,3,2022-02-17
+L00514,Hartfield,Harbor View,Single Family,Excellent,2,3.0,1037,2514,13,2,694798,670.01,5,2024-03-30
+L00515,Dunmore,South End,Single Family,Good,4,2.0,1879,3623,9,2,287290,152.9,5,2022-08-09
+L00516,Dunmore,South End,Condo,Good,2,2.0,1119,0,5,1,233771,208.91,10,2023-10-23
+L00517,Riverside,Eastside,Single Family,Good,4,3.5,2327,3693,17,2,598365,257.14,28,2022-07-30
+L00518,Bellhaven,Thornwood,Townhouse,Excellent,2,2.0,930,2753,14,0,601008,646.25,2,2023-11-01
+L00519,Hartfield,Pinecrest,Single Family,Good,4,2.0,1624,1771,12,0,647430,398.66,15,2023-09-09
+L00520,Bellhaven,Meadowbrook,Townhouse,Poor,2,2.0,1313,2984,1,1,543066,413.61,118,2022-08-04
+L00521,Dunmore,Industrial Park,Multi-Family,Fair,4,3.5,2312,8246,9,0,311167,134.59,63,2024-02-17
+L00522,Bellhaven,Meadowbrook,Condo,Good,1,1.5,702,0,8,0,520387,741.29,29,2024-09-15
+L00523,Hartfield,Downtown,Single Family,Good,3,2.5,1505,4001,10,2,674308,448.05,4,2024-12-16
+L00524,Crestwood,Northgate,Multi-Family,Fair,4,3.5,2073,8679,9,0,363723,175.46,4,2022-07-29
+L00525,Bellhaven,Thornwood,Single Family,Poor,2,2.0,977,2139,2,1,423092,433.05,15,2023-07-13
+L00526,Dunmore,South End,Condo,Excellent,1,1.0,643,0,19,0,193185,300.44,5,2023-05-04
+L00527,Crestwood,Northgate,Single Family,Fair,3,2.0,1430,3107,16,2,288005,201.4,19,2024-09-03
+L00528,Riverside,Eastside,Single Family,Good,3,2.0,1401,2373,20,0,413284,294.99,115,2024-08-28
+L00529,Dunmore,Cedar Ridge,Single Family,Excellent,2,2.0,1030,1303,101,2,222603,216.12,13,2023-06-12
+L00530,Dunmore,South End,Single Family,Fair,4,1.0,2183,5992,4,3,306123,140.23,108,2024-10-16
+L00531,Riverside,Millbrook,Townhouse,Fair,4,2.0,2141,2335,26,2,495525,231.45,21,2023-11-10
+L00532,Bellhaven,Meadowbrook,Condo,Fair,1,1.0,560,0,58,0,328365,586.37,18,2022-10-29
+L00533,Riverside,Millbrook,Single Family,Good,4,1.5,1613,4151,1,1,493488,305.94,77,2023-05-30
+L00534,Hartfield,Westmont,Single Family,Poor,3,1.0,1562,4848,11,3,479834,307.19,79,2024-03-28
+L00535,Dunmore,Industrial Park,Condo,Excellent,1,1.5,679,0,22,0,177747,261.78,42,2023-01-11
+L00536,Bellhaven,Thornwood,Single Family,Good,3,1.0,1555,4361,32,2,693464,445.96,5,2023-09-12
+L00537,Hartfield,Pinecrest,Condo,Good,2,1.5,923,0,2,1,528497,572.59,10,2023-07-08
+L00538,Dunmore,Cedar Ridge,Condo,Fair,2,1.5,1148,0,50,1,197915,172.4,6,2022-11-13
+L00539,Dunmore,Industrial Park,Condo,Good,1,1.0,549,0,11,0,147874,269.35,25,2022-09-07
+L00540,Dunmore,Industrial Park,Single Family,Good,3,3.0,1904,5840,18,2,306704,161.08,15,2024-09-02
+L00541,Bellhaven,Meadowbrook,Townhouse,Excellent,3,1.5,1458,2723,24,1,879695,603.36,58,2024-06-29
+L00542,Dunmore,Industrial Park,Single Family,Fair,3,1.5,1381,4097,10,2,209611,151.78,22,2022-10-14
+L00543,Hartfield,Harbor View,Single Family,Good,6,2.0,2793,6433,43,2,1109037,397.08,40,2022-11-22
+L00544,Hartfield,Downtown,Townhouse,Excellent,4,2.5,2349,3124,3,1,953442,405.89,9,2022-05-30
+L00545,Dunmore,Cedar Ridge,Single Family,Good,3,2.0,1740,5457,37,1,322115,185.12,4,2023-01-29
+L00546,Dunmore,Cedar Ridge,Townhouse,Good,3,3.0,1551,2731,6,1,316494,204.06,28,2024-08-28
+L00547,Dunmore,Industrial Park,Single Family,Good,3,2.5,1521,3297,38,0,223100,146.68,5,2023-08-17
+L00548,Dunmore,Cedar Ridge,Condo,Good,1,2.0,486,0,7,0,192050,395.16,43,2022-03-03
+L00549,Riverside,Oakwood,Single Family,Fair,4,2.5,2223,5324,2,3,571123,256.92,2,2024-05-02
+L00550,Dunmore,Industrial Park,Condo,Good,1,2.0,697,0,1,1,194177,278.59,3,2022-04-24
+L00551,Bellhaven,Meadowbrook,Condo,Good,2,1.0,1221,0,11,0,611005,500.41,37,2023-02-01
+L00552,Dunmore,Cedar Ridge,Single Family,Fair,5,2.0,2358,6612,8,0,355708,150.85,6,2023-10-06
+L00553,Crestwood,Lakeside,Single Family,Fair,4,3.5,2086,3592,11,3,459895,220.47,20,2023-08-23
+L00554,Dunmore,South End,Single Family,Good,3,4.0,1773,3863,11,1,288752,162.86,45,2022-10-18
+L00555,Dunmore,South End,Single Family,Poor,2,3.0,1310,3648,13,2,186485,142.35,30,2023-04-05
+L00556,Dunmore,South End,Multi-Family,Poor,5,3.0,2943,5466,13,2,311104,105.71,185,2024-05-25
+L00557,Dunmore,South End,Single Family,Fair,4,2.0,1895,681,6,3,278374,146.9,36,2022-02-01
+L00558,Crestwood,Northgate,Single Family,Good,4,3.0,1836,3472,40,0,356367,194.1,22,2023-01-02
+L00559,Dunmore,Industrial Park,Single Family,Good,3,1.5,1698,3817,45,1,242925,143.07,7,2022-09-18
+L00560,Bellhaven,Thornwood,Single Family,Fair,2,3.0,1479,3191,43,1,581669,393.29,5,2023-12-25
+L00561,Dunmore,South End,Townhouse,Fair,2,2.0,1137,3610,10,1,221727,195.01,16,2024-04-15
+L00562,Dunmore,Industrial Park,Single Family,Good,3,3.0,1778,4263,62,2,254323,143.04,6,2024-02-15
+L00563,Hartfield,Pinecrest,Condo,Excellent,3,2.0,1558,0,24,1,724127,464.78,22,2024-12-01
+L00564,Bellhaven,Thornwood,Condo,Excellent,1,2.0,667,0,16,1,487935,731.54,5,2024-01-12
+L00565,Bellhaven,Gallery District,Condo,Fair,1,1.0,488,0,16,0,432239,885.74,7,2022-10-31
+L00566,Dunmore,Cedar Ridge,Multi-Family,Fair,3,2.0,1351,1859,4,1,291504,215.77,9,2024-12-20
+L00567,Crestwood,Lakeside,Condo,Excellent,2,1.0,1275,0,22,1,400443,314.07,39,2024-06-11
+L00568,Riverside,Eastside,Condo,Fair,2,1.5,748,0,29,0,271549,363.03,40,2023-07-27
+L00569,Bellhaven,Thornwood,Single Family,Good,3,1.5,1563,629,6,3,789336,505.01,17,2024-11-29
+L00570,Hartfield,Harbor View,Multi-Family,Good,5,2.0,2317,8383,18,0,987845,426.35,4,2024-11-07
+L00571,Riverside,Millbrook,Single Family,Poor,4,3.0,2265,3990,3,2,403164,178.0,10,2022-09-03
+L00572,Riverside,Eastside,Townhouse,Fair,3,2.0,1406,2273,34,1,385882,274.45,38,2023-10-07
+L00573,Riverside,Eastside,Condo,Good,2,2.0,1128,0,15,0,415355,368.22,34,2023-01-19
+L00574,Riverside,Millbrook,Condo,Good,1,1.5,556,0,11,0,272389,489.91,11,2023-04-26
+L00575,Bellhaven,Thornwood,Condo,Good,1,2.5,788,0,14,1,494951,628.11,33,2023-05-22
+L00576,Bellhaven,Meadowbrook,Condo,Fair,1,1.0,605,0,42,0,422646,698.59,26,2024-04-17
+L00577,Crestwood,Northgate,Condo,Good,2,1.5,953,0,6,0,268069,281.29,40,2022-08-14
+L00578,Crestwood,Northgate,Townhouse,Good,3,2.0,1597,2911,17,1,332882,208.44,4,2023-04-15
+L00579,Dunmore,Industrial Park,Condo,Fair,1,1.0,523,0,22,0,143883,275.11,92,2023-05-22
+L00580,Riverside,Oakwood,Condo,Fair,2,1.0,754,0,3,1,315268,418.13,15,2024-03-12
+L00581,Crestwood,Lakeside,Condo,Good,2,1.0,958,0,8,0,325286,339.55,14,2023-08-06
+L00582,Riverside,Millbrook,Single Family,Poor,3,2.0,1362,2543,9,2,319467,234.56,68,2022-06-21
+L00583,Dunmore,Industrial Park,Single Family,Good,3,3.0,2121,5108,21,3,301515,142.16,9,2022-01-12
+L00584,Bellhaven,Old Town,Multi-Family,Good,3,2.0,1409,7372,5,0,811820,576.17,21,2022-08-21
+L00585,Crestwood,Elm Street,Single Family,Good,5,2.5,2301,4181,24,2,509223,221.31,17,2022-10-17
+L00586,Crestwood,Lakeside,Condo,Fair,1,1.5,742,0,4,1,257322,346.8,7,2022-05-18
+L00587,Dunmore,Industrial Park,Single Family,Good,5,2.0,2512,5961,54,0,343363,136.69,27,2024-05-22
+L00588,Hartfield,Downtown,Condo,Good,1,1.0,689,0,20,1,416436,604.41,29,2024-02-24
+L00589,Hartfield,Downtown,Townhouse,Poor,2,2.5,1282,3851,9,0,490006,382.22,21,2022-04-17
+L00590,Bellhaven,Meadowbrook,Single Family,Fair,3,1.5,1585,4045,23,2,602362,380.04,37,2023-07-23
+L00591,Crestwood,Elm Street,Single Family,Good,3,2.5,1738,5125,105,2,360545,207.45,2,2023-01-27
+L00592,Riverside,Millbrook,Townhouse,Good,2,2.0,1053,2329,105,1,270205,256.6,25,2023-06-03
+L00593,Hartfield,Pinecrest,Condo,Good,2,1.0,821,0,27,0,426185,519.1,2,2022-12-29
+L00594,Dunmore,South End,Multi-Family,Excellent,5,2.0,2605,8509,28,2,388911,149.29,27,2024-01-21
+L00595,Crestwood,Elm Street,Single Family,Excellent,4,2.5,2019,2905,63,2,434640,215.27,10,2023-09-30
+L00596,Riverside,Oakwood,Condo,Excellent,2,2.5,1024,0,35,1,435013,424.82,44,2023-03-22
+L00597,Hartfield,Harbor View,Single Family,Fair,3,1.5,1517,3918,48,1,639458,421.53,65,2022-12-29
+L00598,Hartfield,Downtown,Multi-Family,Good,3,3.0,1464,8663,26,2,681568,465.55,37,2023-08-15
+L00599,Bellhaven,Thornwood,Single Family,Excellent,4,2.0,1783,3386,11,1,835855,468.79,10,2022-03-11
+L00600,Hartfield,Harbor View,Single Family,Good,3,1.0,1323,3191,13,3,709754,536.47,5,2024-03-28
+L00601,Hartfield,Downtown,Single Family,Fair,6,2.0,2013,4219,48,0,854518,424.5,149,2024-12-09
+L00602,Hartfield,Harbor View,Single Family,Excellent,2,1.5,1181,2873,6,3,736605,623.71,3,2023-02-21
+L00603,Dunmore,Cedar Ridge,Single Family,Good,3,2.0,1639,5797,11,2,312181,190.47,15,2023-10-14
+L00604,Riverside,Millbrook,Single Family,Fair,4,2.0,2066,3362,10,2,426259,206.32,12,2022-01-04
+L00605,Crestwood,Northgate,Condo,Good,1,1.5,855,0,13,1,236494,276.6,28,2022-12-01
+L00606,Riverside,Oakwood,Single Family,Good,3,2.5,1949,5435,33,2,562355,288.54,40,2023-09-13
+L00607,Dunmore,South End,Single Family,Excellent,3,3.0,1660,3755,66,3,322465,194.26,4,2023-06-13
+L00608,Crestwood,Elm Street,Townhouse,Fair,3,2.0,1605,3116,5,1,360158,224.4,34,2024-01-01
+L00609,Hartfield,Downtown,Condo,Excellent,1,1.5,742,0,10,1,525990,708.88,9,2024-07-27
+L00610,Crestwood,Elm Street,Single Family,Poor,4,3.5,2327,5049,58,2,336580,144.64,126,2023-09-11
+L00611,Riverside,Oakwood,Condo,Poor,2,1.5,1065,0,19,1,284850,267.46,67,2023-03-17
+L00612,Crestwood,Northgate,Single Family,Good,4,2.5,2400,2805,23,1,419853,174.94,45,2022-07-18
+L00613,Dunmore,South End,Condo,Good,2,1.5,1207,0,39,0,193917,160.66,5,2022-11-07
+L00614,Riverside,Eastside,Single Family,Poor,2,3.0,1232,3872,14,2,371082,301.2,6,2024-08-15
+L00615,Dunmore,Cedar Ridge,Single Family,Good,5,1.5,2476,4903,6,2,398159,160.81,16,2022-08-15
+L00616,Bellhaven,Thornwood,Single Family,Good,3,3.5,1874,3142,17,3,811288,432.92,52,2024-03-14
+L00617,Riverside,Eastside,Townhouse,Fair,3,2.5,1389,2498,12,0,361777,260.46,60,2023-01-22
+L00618,Crestwood,Lakeside,Single Family,Good,3,1.5,1542,1475,24,2,435900,282.68,71,2024-11-13
+L00619,Crestwood,Elm Street,Single Family,Fair,3,2.5,1151,1269,36,1,283966,246.71,30,2024-08-02
+L00620,Riverside,Eastside,Single Family,Fair,5,4.0,3071,7575,7,3,652571,212.49,6,2022-09-05
+L00621,Riverside,Millbrook,Single Family,Poor,4,2.0,2417,7020,32,2,417953,172.92,23,2022-08-17
+L00622,Riverside,Millbrook,Townhouse,Good,3,2.0,1250,3159,27,1,378695,302.96,12,2023-07-18
+L00623,Hartfield,Harbor View,Single Family,Good,3,3.0,1845,4791,11,2,941728,510.42,37,2023-04-12
+L00624,Bellhaven,Meadowbrook,Condo,Excellent,1,1.0,572,0,45,1,477679,835.1,2,2024-09-20
+L00625,Hartfield,Westmont,Single Family,Good,4,1.5,2154,3061,23,1,653521,303.4,28,2022-01-25
+L00626,Riverside,Millbrook,Condo,Good,3,2.0,1619,0,2,0,452804,279.68,48,2022-04-25
+L00627,Bellhaven,Gallery District,Single Family,Good,4,1.5,1960,3939,52,1,1023136,522.01,52,2024-12-06
+L00628,Riverside,Oakwood,Single Family,Good,3,1.5,1431,2728,1,2,540535,377.73,25,2024-05-30
+L00629,Riverside,Millbrook,Townhouse,Good,3,1.5,1059,2668,8,1,412456,389.48,72,2024-12-25
+L00630,Crestwood,Lakeside,Single Family,Excellent,2,2.0,1272,2424,23,1,428099,336.56,12,2023-01-10
+L00631,Dunmore,Industrial Park,Condo,Excellent,1,2.0,791,0,4,1,214815,271.57,13,2024-11-23
+L00632,Crestwood,Northgate,Single Family,Good,3,3.0,2221,3697,12,2,432511,194.74,42,2024-04-07
+L00633,Crestwood,Northgate,Townhouse,Excellent,3,2.0,1600,2726,22,1,333813,208.63,13,2024-06-20
+L00634,Riverside,Eastside,Single Family,Poor,4,2.0,2151,4345,2,3,466848,217.04,30,2023-12-03
+L00635,Bellhaven,Gallery District,Townhouse,Good,3,2.0,1792,2445,24,1,1094219,610.61,37,2024-12-23
+L00636,Crestwood,Northgate,Condo,Good,1,1.0,467,0,5,0,205460,439.96,17,2023-06-15
+L00637,Dunmore,Industrial Park,Townhouse,Good,2,2.0,848,2771,35,0,188313,222.07,4,2024-10-04
+L00638,Dunmore,Industrial Park,Condo,Good,2,1.0,874,0,14,0,162503,185.93,43,2022-11-08
+L00639,Riverside,Millbrook,Condo,Excellent,2,1.0,929,0,13,0,368588,396.76,28,2023-06-15
+L00640,Dunmore,Industrial Park,Single Family,Excellent,3,1.5,1609,3446,3,2,330828,205.61,9,2023-12-15
+L00641,Hartfield,Harbor View,Single Family,Fair,5,1.5,3045,7283,43,3,1011657,332.24,5,2023-03-04
+L00642,Dunmore,Cedar Ridge,Condo,Excellent,1,2.5,586,0,12,1,255512,436.03,4,2023-03-07
+L00643,Bellhaven,Old Town,Single Family,Poor,5,2.0,2736,3945,2,3,1140391,416.81,129,2024-03-09
+L00644,Riverside,Oakwood,Condo,Excellent,2,1.0,997,0,6,1,416340,417.59,23,2023-08-24
+L00645,Hartfield,Harbor View,Townhouse,Excellent,2,2.0,928,1869,7,1,672865,725.07,10,2023-10-20
+L00646,Dunmore,Cedar Ridge,Condo,Excellent,1,2.0,698,0,15,0,234488,335.94,13,2024-04-30
+L00647,Hartfield,Harbor View,Condo,Good,2,2.0,995,0,31,0,550852,553.62,32,2023-02-06
+L00648,Dunmore,Industrial Park,Single Family,Good,4,2.0,1721,4111,17,2,268480,156.0,5,2023-07-01
+L00649,Bellhaven,Old Town,Townhouse,Poor,2,2.5,1271,3401,1,2,559430,440.15,19,2024-09-11
+L00650,Dunmore,South End,Single Family,Good,4,3.5,2315,4426,37,1,345970,149.45,39,2024-09-25
+L00651,Riverside,Eastside,Single Family,Good,3,1.5,1452,4892,9,2,461312,317.71,55,2024-06-12
+L00652,Hartfield,Westmont,Townhouse,Excellent,3,2.0,1347,2515,2,1,641202,476.02,6,2024-12-27
+L00653,Dunmore,Industrial Park,Townhouse,Fair,2,3.0,1336,2423,71,1,193087,144.53,117,2024-03-31
+L00654,Crestwood,Lakeside,Condo,Good,3,2.0,1739,0,4,1,446109,256.53,13,2022-11-25
+L00655,Crestwood,Elm Street,Single Family,Poor,3,2.0,1347,1927,6,2,261543,194.17,70,2022-10-19
+L00656,Bellhaven,Thornwood,Townhouse,Good,3,1.5,1640,2825,46,2,547352,333.75,32,2022-03-25
+L00657,Crestwood,Elm Street,Condo,Excellent,2,2.5,1050,0,7,1,381862,363.68,20,2024-10-09
+L00658,Crestwood,Lakeside,Condo,Good,2,2.5,1339,0,7,0,416985,311.42,25,2024-10-10
+L00659,Dunmore,Cedar Ridge,Townhouse,Fair,2,1.5,999,2629,3,2,220157,220.38,22,2023-05-04
+L00660,Bellhaven,Old Town,Multi-Family,Fair,5,3.5,2896,10053,1,1,1194957,412.62,74,2023-11-05
+L00661,Hartfield,Harbor View,Single Family,Excellent,3,4.0,1666,3850,33,1,827700,496.82,9,2023-10-22
+L00662,Hartfield,Harbor View,Townhouse,Excellent,3,2.5,1620,2414,11,1,859820,530.75,3,2023-06-27
+L00663,Hartfield,Harbor View,Townhouse,Fair,3,2.5,1707,2058,5,1,721109,422.44,19,2022-07-05
+L00664,Bellhaven,Old Town,Townhouse,Fair,4,2.5,2217,3321,6,1,888173,400.62,14,2022-03-25
+L00665,Bellhaven,Gallery District,Single Family,Good,6,3.0,3547,5287,105,2,1533400,432.31,36,2023-01-29
+L00666,Crestwood,Northgate,Single Family,Good,5,2.0,1931,5824,9,2,441102,228.43,19,2023-05-21
+L00667,Dunmore,Industrial Park,Condo,Fair,2,1.5,1061,0,14,1,170524,160.72,28,2022-04-19
+L00668,Crestwood,Northgate,Townhouse,Excellent,3,1.5,1104,2182,29,1,299101,270.92,18,2024-10-02
+L00669,Hartfield,Pinecrest,Single Family,Good,4,2.0,1639,2619,10,0,648807,395.86,97,2022-09-03
+L00670,Hartfield,Westmont,Single Family,Poor,4,2.0,1625,4437,26,0,429102,264.06,40,2024-04-14
+L00671,Riverside,Oakwood,Single Family,Good,3,2.5,1480,3373,7,0,459358,310.38,2,2022-05-05
+L00672,Riverside,Eastside,Condo,Fair,3,1.0,1490,0,10,1,406909,273.09,11,2022-11-13
+L00673,Riverside,Eastside,Single Family,Good,6,3.5,2959,5952,10,3,775595,262.11,12,2023-01-05
+L00674,Dunmore,South End,Townhouse,Poor,3,1.5,1705,3761,15,1,243952,143.08,98,2024-04-07
+L00675,Dunmore,Industrial Park,Condo,Good,2,1.5,870,0,12,0,182660,209.95,14,2023-02-16
+L00676,Bellhaven,Old Town,Single Family,Good,3,2.5,1609,4965,2,2,852522,529.85,10,2022-03-27
+L00677,Riverside,Oakwood,Multi-Family,Good,4,3.0,2048,5546,16,2,551081,269.08,8,2023-01-01
+L00678,Hartfield,Pinecrest,Single Family,Good,2,3.5,1186,1108,1,1,548389,462.39,62,2023-05-08
+L00679,Hartfield,Westmont,Condo,Good,1,2.5,730,0,9,1,388726,532.5,38,2023-07-13
+L00680,Riverside,Eastside,Condo,Excellent,2,1.0,953,0,2,1,466033,489.02,7,2022-08-23
+L00681,Bellhaven,Thornwood,Condo,Good,2,1.0,1065,0,66,0,454768,427.01,13,2024-10-16
+L00682,Riverside,Oakwood,Single Family,Good,4,2.0,2083,3812,81,2,504276,242.09,7,2023-03-07
+L00683,Riverside,Millbrook,Single Family,Poor,4,2.0,1896,3236,1,2,449180,236.91,7,2024-06-21
+L00684,Bellhaven,Old Town,Condo,Excellent,3,1.5,1789,0,3,0,968615,541.43,21,2023-04-24
+L00685,Dunmore,Industrial Park,Single Family,Fair,3,2.5,1601,2648,54,2,223722,139.74,10,2023-05-02
+L00686,Crestwood,Elm Street,Single Family,Good,3,4.0,2082,3771,1,3,531981,255.51,46,2023-09-07
+L00687,Bellhaven,Meadowbrook,Townhouse,Good,3,3.0,1523,3556,4,1,796140,522.74,27,2024-12-21
+L00688,Dunmore,South End,Single Family,Good,3,2.5,1262,3260,69,2,247996,196.51,7,2024-04-24
+L00689,Hartfield,Pinecrest,Condo,Excellent,3,2.0,1405,0,36,1,617733,439.67,41,2022-11-05
+L00690,Riverside,Eastside,Single Family,Excellent,2,3.5,1376,2851,60,3,445543,323.8,16,2024-01-01
+L00691,Bellhaven,Thornwood,Condo,Good,1,1.5,791,0,4,1,517328,654.02,12,2024-04-30
+L00692,Hartfield,Downtown,Condo,Excellent,2,2.0,987,0,5,0,559331,566.7,3,2022-02-10
+L00693,Dunmore,South End,Townhouse,Poor,4,1.5,1753,2614,4,0,236843,135.11,110,2023-02-08
+L00694,Dunmore,South End,Multi-Family,Good,4,3.0,2335,7859,9,2,348975,149.45,37,2022-12-08
+L00695,Bellhaven,Old Town,Single Family,Excellent,5,3.5,2555,4456,5,0,1263647,494.58,31,2024-08-20
+L00696,Bellhaven,Thornwood,Single Family,Good,3,2.0,1849,5118,25,1,770780,416.86,5,2023-10-15
+L00697,Dunmore,Industrial Park,Townhouse,Fair,2,1.5,1038,3370,4,2,193453,186.37,109,2024-08-01
+L00698,Hartfield,Downtown,Condo,Excellent,2,2.0,1104,0,28,0,603925,547.03,5,2024-03-03
+L00699,Dunmore,Industrial Park,Single Family,Good,2,4.0,1536,2543,5,1,256466,166.97,27,2022-09-11
+L00700,Dunmore,South End,Condo,Good,2,2.0,944,0,76,1,178466,189.05,36,2023-05-31
+L00701,Bellhaven,Old Town,Multi-Family,Fair,4,3.5,2166,6625,71,2,729906,336.98,31,2023-06-22
+L00702,Hartfield,Westmont,Condo,Excellent,2,1.5,1095,0,57,0,409624,374.09,1,2024-04-05
+L00703,Crestwood,Northgate,Multi-Family,Good,4,2.0,1960,6452,20,2,400253,204.21,8,2023-01-12
+L00704,Dunmore,South End,Single Family,Good,4,2.0,2456,8681,2,3,415946,169.36,41,2022-08-06
+L00705,Riverside,Millbrook,Condo,Good,1,2.0,633,0,10,1,299899,473.77,14,2024-02-04
+L00706,Crestwood,Lakeside,Single Family,Fair,3,3.5,1953,4638,19,3,375890,192.47,55,2023-11-10
+L00707,Hartfield,Pinecrest,Condo,Fair,1,2.0,583,0,4,0,363667,623.79,29,2023-10-21
+L00708,Crestwood,Lakeside,Single Family,Fair,2,2.0,1074,3426,15,2,290198,270.2,71,2022-10-27
+L00709,Dunmore,Cedar Ridge,Single Family,Fair,4,2.0,1952,6322,13,2,302820,155.13,23,2022-01-23
+L00710,Hartfield,Pinecrest,Condo,Good,2,2.0,1064,0,27,0,540328,507.83,17,2024-07-17
+L00711,Bellhaven,Old Town,Condo,Good,2,1.5,1117,0,1,1,666404,596.6,21,2023-08-03
+L00712,Hartfield,Westmont,Single Family,Excellent,4,1.5,1919,4592,10,2,674988,351.74,28,2022-05-23
+L00713,Bellhaven,Gallery District,Single Family,Poor,3,2.0,1560,3323,41,2,612782,392.81,28,2023-04-07
+L00714,Bellhaven,Old Town,Condo,Good,1,2.0,708,0,1,0,543796,768.07,6,2023-04-16
+L00715,Dunmore,Industrial Park,Townhouse,Fair,3,2.0,1855,3016,21,1,246785,133.04,147,2023-11-17
+L00716,Bellhaven,Gallery District,Single Family,Excellent,4,3.0,2306,5627,31,3,1319932,572.39,32,2023-03-15
+L00717,Dunmore,Industrial Park,Single Family,Good,3,2.0,1440,2909,14,2,232126,161.2,48,2024-03-11
+L00718,Dunmore,Industrial Park,Townhouse,Fair,3,2.5,2258,3261,11,2,276373,122.4,17,2022-11-23
+L00719,Crestwood,Elm Street,Townhouse,Good,3,3.0,1538,2926,56,2,341613,222.12,55,2022-03-04
+L00720,Crestwood,Northgate,Single Family,Good,2,2.5,1043,1807,1,1,304915,292.34,37,2024-06-04
+L00721,Crestwood,Lakeside,Single Family,Fair,2,2.0,1274,2882,1,3,324941,255.06,80,2022-04-01
+L00722,Crestwood,Elm Street,Condo,Good,2,1.0,1026,0,11,1,331418,323.02,36,2022-10-26
+L00723,Bellhaven,Meadowbrook,Single Family,Good,4,3.5,1976,5378,31,1,909156,460.1,28,2022-12-03
+L00724,Dunmore,Industrial Park,Multi-Family,Fair,5,2.5,3195,3341,18,2,389681,121.97,54,2024-11-30
+L00725,Riverside,Millbrook,Condo,Fair,2,1.5,947,0,31,1,289324,305.52,98,2022-08-06
+L00726,Riverside,Millbrook,Single Family,Excellent,6,2.0,2331,5923,3,2,633016,271.56,8,2023-01-27
+L00727,Bellhaven,Thornwood,Condo,Excellent,2,1.5,973,0,8,0,594914,611.42,7,2024-09-06
+L00728,Bellhaven,Old Town,Single Family,Good,5,3.5,2949,6429,73,2,989193,335.43,18,2022-06-27
+L00729,Hartfield,Pinecrest,Single Family,Good,4,3.0,2069,4646,4,1,731855,353.72,65,2022-02-27
+L00730,Riverside,Millbrook,Condo,Fair,2,2.5,1199,0,9,0,326455,272.27,60,2022-08-13
+L00731,Hartfield,Pinecrest,Single Family,Excellent,3,2.5,1946,4449,27,3,809377,415.92,10,2022-08-26
+L00732,Riverside,Eastside,Condo,Fair,2,1.0,912,0,8,0,325950,357.4,16,2024-05-14
+L00733,Hartfield,Downtown,Single Family,Excellent,3,2.0,1382,2739,15,2,772557,559.01,9,2023-01-15
+L00734,Dunmore,Industrial Park,Single Family,Fair,4,1.0,2328,7507,44,3,300392,129.03,36,2023-03-14
+L00735,Hartfield,Westmont,Townhouse,Excellent,4,2.0,2171,2958,22,2,824395,379.73,32,2024-04-26
+L00736,Riverside,Oakwood,Condo,Poor,2,2.0,1139,0,21,1,303126,266.13,103,2024-11-09
+L00737,Riverside,Millbrook,Single Family,Excellent,5,1.5,2261,4048,14,2,692703,306.37,11,2023-12-01
+L00738,Dunmore,Cedar Ridge,Condo,Fair,2,2.0,1030,0,10,0,226982,220.37,90,2024-09-29
+L00739,Hartfield,Harbor View,Multi-Family,Good,4,2.5,2181,9187,25,2,907788,416.23,37,2023-07-25
+L00740,Crestwood,Lakeside,Condo,Good,2,1.5,980,0,23,0,277114,282.77,15,2023-02-26
+L00741,Dunmore,South End,Condo,Excellent,2,1.0,909,0,37,1,245008,269.54,14,2024-03-16
+L00742,Dunmore,South End,Single Family,Excellent,3,4.0,1641,3754,3,2,354581,216.08,12,2023-01-06
+L00743,Riverside,Eastside,Condo,Good,3,1.5,1313,0,8,0,473929,360.95,7,2024-05-30
+L00744,Dunmore,South End,Townhouse,Excellent,4,2.0,1882,3152,19,1,341543,181.48,35,2023-07-07
+L00745,Crestwood,Elm Street,Single Family,Fair,3,3.0,2095,3747,42,3,408291,194.89,34,2024-04-16
+L00746,Bellhaven,Meadowbrook,Townhouse,Good,3,2.0,1438,3231,11,1,662879,460.97,14,2022-06-08
+L00747,Crestwood,Elm Street,Single Family,Fair,6,2.5,3235,6683,28,2,504380,155.91,5,2022-02-14
+L00748,Hartfield,Harbor View,Single Family,Poor,3,2.0,1244,2118,37,3,473296,380.46,82,2022-03-16
+L00749,Riverside,Eastside,Multi-Family,Good,4,3.5,2044,8746,9,0,598663,292.89,52,2024-12-02
+L00750,Crestwood,Lakeside,Single Family,Good,3,1.0,1188,2385,33,3,356930,300.45,8,2023-07-06
+L00751,Hartfield,Downtown,Single Family,Excellent,3,3.0,1406,3759,5,2,782839,556.78,5,2024-08-18
+L00752,Riverside,Eastside,Single Family,Good,4,1.5,1893,5426,36,2,505343,266.95,40,2024-03-19
+L00753,Bellhaven,Thornwood,Condo,Good,2,1.5,954,0,6,1,564651,591.88,20,2024-01-23
+L00754,Hartfield,Pinecrest,Townhouse,Fair,3,2.0,1772,3620,12,1,606937,342.52,92,2022-10-19
+L00755,Bellhaven,Old Town,Single Family,Excellent,4,1.5,1672,5452,48,2,983519,588.23,27,2024-06-06
+L00756,Crestwood,Elm Street,Single Family,Good,2,1.5,1095,2321,16,2,352372,321.8,15,2024-12-03
+L00757,Dunmore,Industrial Park,Townhouse,Fair,3,2.0,1262,2503,16,1,198097,156.97,11,2022-11-11
+L00758,Riverside,Eastside,Single Family,Good,2,2.0,1327,3890,12,3,417784,314.83,4,2022-11-07
+L00759,Riverside,Oakwood,Single Family,Poor,5,2.5,1802,4546,22,0,393524,218.38,30,2024-02-02
+L00760,Dunmore,Industrial Park,Condo,Fair,2,2.0,1158,0,38,1,179105,154.67,129,2024-06-07
+L00761,Crestwood,Elm Street,Townhouse,Good,4,2.0,1793,2462,3,2,472115,263.31,20,2024-11-01
+L00762,Riverside,Millbrook,Multi-Family,Excellent,4,3.0,2173,9285,11,1,599576,275.92,28,2023-09-23
+L00763,Dunmore,Industrial Park,Single Family,Good,4,3.0,1964,5995,4,1,303056,154.31,1,2024-05-27
+L00764,Hartfield,Harbor View,Multi-Family,Good,5,3.5,1810,6983,50,1,939448,519.03,41,2023-11-08
+L00765,Bellhaven,Old Town,Single Family,Good,5,1.5,2400,6313,43,2,1057156,440.48,49,2022-11-19
+L00766,Bellhaven,Meadowbrook,Single Family,Good,3,3.0,1690,3978,92,2,666187,394.19,51,2023-09-26
+L00767,Bellhaven,Gallery District,Single Family,Excellent,4,2.5,2120,4397,3,2,1238223,584.07,2,2023-09-12
+L00768,Crestwood,Northgate,Single Family,Good,4,2.0,2172,4467,9,2,447469,206.02,6,2024-05-14
+L00769,Riverside,Millbrook,Townhouse,Good,2,1.5,1319,2316,5,1,400508,303.65,2,2023-01-05
+L00770,Dunmore,Industrial Park,Single Family,Good,4,3.0,1921,1851,105,2,246419,128.28,22,2023-02-07
+L00771,Riverside,Millbrook,Single Family,Good,4,3.0,1839,5876,55,2,462042,251.25,44,2023-04-18
+L00772,Dunmore,South End,Single Family,Excellent,3,2.0,1431,3152,2,3,292326,204.28,46,2022-06-05
+L00773,Crestwood,Lakeside,Condo,Good,2,1.5,1156,0,34,1,335514,290.24,15,2023-04-26
+L00774,Hartfield,Pinecrest,Single Family,Excellent,4,2.0,1920,3171,53,2,718342,374.14,15,2023-02-22
+L00775,Hartfield,Downtown,Townhouse,Excellent,3,2.5,2093,2267,3,1,945556,451.77,17,2024-07-13
+L00776,Crestwood,Elm Street,Single Family,Good,3,3.5,2054,3608,77,2,413539,201.33,117,2022-06-26
+L00777,Crestwood,Elm Street,Single Family,Good,4,1.5,2042,3708,5,2,527576,258.36,61,2024-09-17
+L00778,Bellhaven,Meadowbrook,Single Family,Good,5,1.0,2234,4807,25,1,888125,397.55,47,2024-02-02
+L00779,Dunmore,Industrial Park,Condo,Good,2,1.5,1252,0,34,1,246192,196.64,31,2023-10-12
+L00780,Crestwood,Northgate,Multi-Family,Good,5,4.0,3175,5960,30,2,620419,195.41,26,2024-04-13
+L00781,Crestwood,Elm Street,Single Family,Good,3,3.5,1386,3399,6,1,439819,317.33,70,2023-07-21
+L00782,Dunmore,South End,Townhouse,Fair,2,2.0,1309,2333,3,2,247036,188.72,30,2023-11-14
+L00783,Crestwood,Northgate,Condo,Good,2,1.5,1047,0,2,1,274908,262.57,32,2022-12-11
+L00784,Dunmore,Industrial Park,Multi-Family,Excellent,4,2.5,2126,6228,18,2,329652,155.06,53,2022-05-02
+L00785,Dunmore,South End,Single Family,Good,5,3.0,2507,5465,3,1,342866,136.76,10,2023-01-27
+L00786,Hartfield,Westmont,Condo,Fair,2,1.0,1105,0,24,0,386697,349.95,69,2022-08-15
+L00787,Crestwood,Northgate,Single Family,Good,3,2.5,2004,5135,5,3,400173,199.69,40,2023-05-13
+L00788,Bellhaven,Thornwood,Single Family,Excellent,3,2.0,1604,3658,32,1,677058,422.11,11,2022-05-14
+L00789,Hartfield,Pinecrest,Single Family,Poor,2,2.0,1092,2712,16,2,415424,380.42,113,2022-10-24
+L00790,Riverside,Oakwood,Condo,Fair,1,1.0,704,0,32,1,290877,413.18,52,2024-12-21
+L00791,Dunmore,South End,Single Family,Excellent,3,2.0,1617,5310,20,2,309177,191.2,33,2024-04-03
+L00792,Crestwood,Northgate,Single Family,Good,3,2.0,1759,3913,19,3,374333,212.81,32,2022-10-08
+L00793,Bellhaven,Gallery District,Single Family,Good,3,1.0,1308,2670,8,0,863465,660.14,25,2024-07-10
+L00794,Hartfield,Downtown,Single Family,Good,3,3.0,1956,3694,105,2,705488,360.68,33,2024-04-23
+L00795,Bellhaven,Gallery District,Single Family,Excellent,4,1.0,1921,4820,30,1,1089147,566.97,3,2023-01-03
+L00796,Hartfield,Harbor View,Condo,Fair,1,2.0,817,0,15,0,445589,545.4,8,2022-01-16
+L00797,Bellhaven,Old Town,Single Family,Fair,3,3.0,1782,4900,51,2,678864,380.96,26,2023-11-07
+L00798,Bellhaven,Thornwood,Single Family,Good,5,3.0,2317,5482,33,3,1007506,434.83,33,2024-08-10
+L00799,Riverside,Eastside,Single Family,Poor,4,3.0,1993,2905,6,1,419117,210.29,9,2022-09-16
+L00800,Riverside,Millbrook,Single Family,Good,4,1.0,2048,4859,35,2,443735,216.67,10,2022-07-03
+L00801,Crestwood,Northgate,Single Family,Fair,4,3.0,2037,5757,2,2,346190,169.95,8,2022-12-04
+L00802,Dunmore,Cedar Ridge,Single Family,Fair,4,2.5,2680,7285,25,2,406522,151.69,38,2024-10-29
+L00803,Bellhaven,Old Town,Single Family,Fair,3,2.5,1325,2749,13,0,624729,471.49,7,2022-02-23
+L00804,Crestwood,Lakeside,Single Family,Good,3,2.0,1812,671,11,2,459845,253.78,24,2022-04-11
+L00805,Hartfield,Westmont,Single Family,Fair,4,2.5,2203,6685,23,2,672584,305.3,77,2024-12-12
+L00806,Dunmore,Cedar Ridge,Condo,Good,2,2.5,1299,0,18,1,254598,196.0,3,2024-08-28
+L00807,Hartfield,Downtown,Single Family,Good,4,3.0,1924,2878,9,2,884713,459.83,19,2023-09-02
+L00808,Crestwood,Northgate,Single Family,Fair,4,2.0,1918,4906,31,3,332218,173.21,50,2023-08-19
+L00809,Riverside,Eastside,Single Family,Good,3,2.0,1254,2126,16,1,397251,316.79,99,2022-02-16
+L00810,Hartfield,Pinecrest,Condo,Fair,2,1.5,772,0,8,0,369897,479.14,19,2023-02-24
+L00811,Bellhaven,Gallery District,Townhouse,Fair,2,2.5,1102,1595,3,1,667002,605.26,24,2022-04-09
+L00812,Hartfield,Downtown,Townhouse,Fair,3,3.0,1878,2257,32,2,680767,362.5,32,2023-11-02
+L00813,Hartfield,Westmont,Townhouse,Poor,2,1.5,876,3039,21,1,296169,338.09,264,2022-01-27
+L00814,Bellhaven,Old Town,Townhouse,Fair,3,2.5,1778,2980,21,1,746891,420.07,34,2022-09-10
+L00815,Riverside,Eastside,Single Family,Poor,3,3.0,1821,4324,4,1,428046,235.06,134,2023-05-07
+L00816,Dunmore,Cedar Ridge,Single Family,Fair,4,2.5,1942,3563,12,2,359318,185.02,83,2024-06-10
+L00817,Hartfield,Downtown,Condo,Good,2,2.0,943,0,46,0,493003,522.8,37,2022-02-25
+L00818,Crestwood,Northgate,Single Family,Good,4,2.0,1788,3051,32,1,302446,169.15,11,2022-10-20
+L00819,Dunmore,South End,Townhouse,Good,3,2.5,1659,2066,12,2,280454,169.05,31,2023-03-11
+L00820,Riverside,Eastside,Single Family,Good,4,3.0,2118,4865,105,1,456478,215.52,38,2023-06-07
+L00821,Bellhaven,Thornwood,Townhouse,Good,4,2.5,2073,1625,3,1,864502,417.03,11,2024-12-05
+L00822,Riverside,Eastside,Townhouse,Good,4,2.5,2193,2617,41,2,548438,250.09,16,2023-04-02
+L00823,Dunmore,South End,Single Family,Good,3,2.0,1601,3060,6,3,283414,177.02,73,2023-04-13
+L00824,Dunmore,Industrial Park,Townhouse,Poor,4,2.5,2195,2604,4,2,240542,109.59,79,2024-06-08
+L00825,Crestwood,Elm Street,Townhouse,Good,3,2.0,1514,2708,15,0,407747,269.32,14,2024-05-22
+L00826,Riverside,Millbrook,Townhouse,Fair,3,1.5,1550,1644,7,1,391205,252.39,33,2022-03-25
+L00827,Bellhaven,Old Town,Multi-Family,Excellent,6,2.5,3013,8140,21,0,1403392,465.78,17,2022-02-22
+L00828,Crestwood,Elm Street,Single Family,Fair,5,2.5,3001,5795,22,3,507471,169.1,15,2022-04-14
+L00829,Bellhaven,Gallery District,Condo,Fair,2,1.0,1164,0,31,0,691831,594.36,114,2024-10-04
+L00830,Crestwood,Elm Street,Single Family,Good,4,1.5,1886,4390,61,1,386722,205.05,65,2023-10-06
+L00831,Hartfield,Westmont,Condo,Excellent,1,1.5,646,0,13,0,427916,662.41,5,2024-11-17
+L00832,Dunmore,South End,Single Family,Good,4,2.0,2507,6404,8,2,380827,151.91,8,2022-03-30
+L00833,Bellhaven,Old Town,Multi-Family,Poor,5,3.0,2622,7098,40,1,851703,324.83,54,2022-07-08
+L00834,Hartfield,Harbor View,Condo,Good,2,2.0,863,0,46,0,506593,587.01,10,2023-05-13
+L00835,Riverside,Millbrook,Townhouse,Good,3,2.0,1601,3459,27,1,467165,291.8,4,2024-04-04
+L00836,Bellhaven,Gallery District,Single Family,Fair,3,2.5,1259,4039,25,1,796985,633.03,8,2024-01-20
+L00837,Hartfield,Downtown,Multi-Family,Excellent,4,4.0,2022,9952,17,2,992940,491.07,6,2023-07-04
+L00838,Crestwood,Elm Street,Multi-Family,Fair,4,3.5,1687,6888,7,1,335939,199.13,4,2023-08-21
+L00839,Crestwood,Northgate,Condo,Good,3,2.0,1354,0,24,0,295040,217.9,38,2022-07-07
+L00840,Riverside,Eastside,Single Family,Good,2,2.5,1173,1909,21,2,409512,349.12,8,2024-10-05
+L00841,Crestwood,Lakeside,Condo,Good,2,2.0,1078,0,23,0,338249,313.77,15,2023-05-02
+L00842,Crestwood,Lakeside,Single Family,Excellent,4,2.0,1787,4728,43,3,529174,296.12,25,2023-07-04
+L00843,Hartfield,Westmont,Condo,Fair,2,2.0,1260,0,6,1,413571,328.23,53,2023-02-03
+L00844,Hartfield,Harbor View,Condo,Poor,1,2.5,772,0,65,0,322761,418.08,326,2023-03-30
+L00845,Dunmore,Cedar Ridge,Single Family,Good,6,2.5,3059,4028,9,1,550976,180.12,27,2023-10-19
+L00846,Dunmore,Cedar Ridge,Single Family,Fair,5,2.5,2472,6319,9,1,406777,164.55,27,2023-04-29
+L00847,Crestwood,Elm Street,Single Family,Fair,3,3.5,2045,2153,17,3,390190,190.8,11,2023-05-03
+L00848,Riverside,Millbrook,Multi-Family,Fair,3,2.5,1289,3866,3,1,349825,271.39,10,2024-12-08
+L00849,Dunmore,Cedar Ridge,Townhouse,Good,2,1.5,1094,3196,13,1,240650,219.97,12,2022-04-30
+L00850,Hartfield,Pinecrest,Condo,Good,3,2.0,1276,0,23,0,590473,462.75,8,2024-05-14
+L00851,Riverside,Oakwood,Townhouse,Good,3,1.5,1600,2680,36,2,493179,308.24,46,2024-02-02
+L00852,Riverside,Millbrook,Townhouse,Excellent,2,2.0,1132,3614,18,0,381896,337.36,17,2023-01-09
+L00853,Hartfield,Pinecrest,Multi-Family,Fair,6,3.0,3138,4406,8,2,904737,288.32,21,2024-04-26
+L00854,Riverside,Eastside,Single Family,Fair,4,3.0,2419,7378,3,1,566441,234.16,94,2022-10-21
+L00855,Bellhaven,Thornwood,Single Family,Good,4,2.0,2066,3291,27,2,951896,460.74,21,2024-07-22
+L00856,Hartfield,Pinecrest,Single Family,Good,2,1.5,1117,1254,30,0,516909,462.77,15,2024-02-23
+L00857,Bellhaven,Gallery District,Single Family,Fair,3,3.0,2012,3634,75,2,772443,383.92,94,2022-03-01
+L00858,Bellhaven,Thornwood,Condo,Good,2,1.0,1026,0,24,1,554328,540.28,7,2023-05-16
+L00859,Bellhaven,Meadowbrook,Single Family,Fair,3,3.5,1737,3766,37,2,767891,442.08,26,2024-10-17
+L00860,Hartfield,Pinecrest,Single Family,Excellent,3,3.5,1417,2134,3,2,770931,544.06,3,2024-10-01
+L00861,Riverside,Oakwood,Townhouse,Good,4,2.5,1941,3376,7,1,596459,307.29,12,2024-09-28
+L00862,Crestwood,Lakeside,Condo,Excellent,2,1.5,1014,0,41,0,309021,304.75,30,2022-03-24
+L00863,Riverside,Millbrook,Single Family,Fair,3,2.0,1934,2865,1,2,412424,213.25,5,2022-11-02
+L00864,Crestwood,Lakeside,Townhouse,Good,2,2.5,842,1935,2,2,377106,447.87,7,2024-10-20
+L00865,Bellhaven,Meadowbrook,Single Family,Fair,2,2.5,1322,3114,12,2,629998,476.55,60,2022-09-23
+L00866,Bellhaven,Gallery District,Single Family,Good,4,1.0,1730,4199,17,2,900184,520.34,9,2023-01-02
+L00867,Crestwood,Elm Street,Townhouse,Fair,3,1.5,1765,2848,89,1,310708,176.04,221,2022-11-04
+L00868,Bellhaven,Old Town,Townhouse,Fair,2,3.0,1133,2568,34,1,649385,573.16,118,2024-10-13
+L00869,Dunmore,South End,Single Family,Fair,3,3.0,1976,5233,4,1,310019,156.89,29,2022-10-16
+L00870,Dunmore,Cedar Ridge,Single Family,Fair,6,2.0,3191,7213,3,3,404523,126.77,92,2023-07-31
+L00871,Riverside,Oakwood,Condo,Fair,1,1.0,448,0,70,0,196477,438.56,264,2024-07-13
+L00872,Bellhaven,Gallery District,Multi-Family,Good,5,2.0,2616,7356,1,2,1344457,513.94,40,2022-05-02
+L00873,Riverside,Millbrook,Single Family,Fair,2,2.0,1252,1883,37,2,360333,287.81,27,2024-01-21
+L00874,Riverside,Millbrook,Single Family,Good,3,2.0,1454,4882,10,0,467463,321.5,3,2024-12-22
+L00875,Crestwood,Lakeside,Townhouse,Fair,3,2.5,1704,2394,19,1,366270,214.95,108,2023-11-15
+L00876,Crestwood,Northgate,Townhouse,Good,2,2.0,1218,2819,43,0,261173,214.43,25,2022-02-08
+L00877,Riverside,Oakwood,Single Family,Good,3,3.5,1847,4058,6,0,497175,269.18,12,2022-05-20
+L00878,Riverside,Millbrook,Townhouse,Excellent,3,2.0,1380,2466,38,2,513966,372.44,9,2024-03-19
+L00879,Bellhaven,Meadowbrook,Condo,Fair,1,2.5,821,0,4,1,531981,647.97,18,2024-09-20
+L00880,Dunmore,Cedar Ridge,Condo,Good,2,1.0,1035,0,39,1,249740,241.29,21,2023-06-25
+L00881,Dunmore,Industrial Park,Single Family,Good,5,2.5,2575,4119,7,2,313636,121.8,39,2022-06-21
+L00882,Hartfield,Downtown,Single Family,Good,2,3.0,1134,2015,24,2,585244,516.09,7,2022-03-04
+L00883,Bellhaven,Thornwood,Condo,Fair,1,2.5,730,0,11,1,417596,572.05,50,2022-01-24
+L00884,Hartfield,Westmont,Single Family,Excellent,4,1.5,2100,4992,49,2,755173,359.61,11,2023-07-08
+L00885,Bellhaven,Old Town,Single Family,Good,3,1.5,1837,4808,3,3,1158128,630.45,31,2024-05-24
+L00886,Crestwood,Lakeside,Single Family,Excellent,5,2.5,2339,3458,5,3,615147,263.0,6,2022-04-03
+L00887,Dunmore,South End,Single Family,Good,3,1.5,1365,2861,4,0,249962,183.12,87,2023-12-30
+L00888,Hartfield,Harbor View,Condo,Good,2,2.0,1208,0,15,1,712566,589.87,10,2024-12-15
+L00889,Dunmore,Cedar Ridge,Single Family,Fair,6,2.5,2993,7107,12,1,425397,142.13,15,2023-04-22
+L00890,Riverside,Millbrook,Single Family,Fair,2,2.0,1254,2645,4,3,357029,284.71,67,2022-09-13
+L00891,Riverside,Millbrook,Townhouse,Good,4,2.5,1855,3124,17,1,450947,243.1,3,2022-03-27
+L00892,Crestwood,Northgate,Condo,Poor,2,2.0,1181,0,56,1,196577,166.45,254,2024-02-11
+L00893,Dunmore,Cedar Ridge,Single Family,Poor,3,2.0,1835,4576,7,3,271033,147.7,130,2023-10-05
+L00894,Crestwood,Elm Street,Condo,Good,2,1.5,1183,0,2,0,367194,310.39,9,2024-03-19
+L00895,Riverside,Millbrook,Single Family,Excellent,4,2.5,2249,6037,20,1,644759,286.69,31,2023-01-02
+L00896,Bellhaven,Meadowbrook,Single Family,Good,3,2.0,2110,5642,45,3,922119,437.02,11,2024-09-30
+L00897,Dunmore,Cedar Ridge,Single Family,Excellent,5,2.0,2211,6513,43,2,382254,172.89,10,2023-01-13
+L00898,Riverside,Eastside,Multi-Family,Good,6,2.0,2426,8922,14,0,659592,271.88,4,2024-09-06
+L00899,Riverside,Oakwood,Single Family,Poor,4,3.5,2046,3291,2,2,417251,203.93,16,2022-01-31
+L00900,Dunmore,Cedar Ridge,Townhouse,Good,4,2.5,2111,2753,28,2,397799,188.44,7,2023-06-23
+L00901,Bellhaven,Thornwood,Single Family,Good,4,2.0,2134,6248,81,2,771912,361.72,36,2022-12-12
+L00902,Crestwood,Northgate,Townhouse,Poor,3,1.5,1727,2775,8,2,318496,184.42,15,2024-08-14
+L00903,Bellhaven,Thornwood,Townhouse,Good,3,3.0,1992,1999,2,1,763846,383.46,6,2024-06-16
+L00904,Hartfield,Pinecrest,Condo,Fair,3,1.5,1234,0,18,0,465895,377.55,4,2022-05-18
+L00905,Hartfield,Harbor View,Condo,Good,1,2.0,754,0,1,0,480099,636.74,46,2022-08-01
+L00906,Hartfield,Harbor View,Single Family,Poor,6,2.0,3610,8624,17,2,950309,263.24,73,2024-01-11
+L00907,Crestwood,Elm Street,Condo,Excellent,2,2.5,1076,0,7,0,369180,343.1,34,2024-03-01
+L00908,Riverside,Millbrook,Multi-Family,Good,4,2.0,1940,9659,4,1,529857,273.12,31,2024-02-11
+L00909,Hartfield,Westmont,Townhouse,Good,3,1.5,1423,2683,82,1,551225,387.37,53,2024-10-20
+L00910,Dunmore,Cedar Ridge,Multi-Family,Excellent,3,3.5,1732,11660,1,0,399277,230.53,18,2024-12-05
+L00911,Bellhaven,Meadowbrook,Single Family,Good,4,2.0,2112,4895,29,2,956009,452.66,18,2023-08-16
+L00912,Dunmore,Cedar Ridge,Single Family,Good,3,4.0,1756,3435,1,1,309695,176.36,13,2022-02-04
+L00913,Bellhaven,Meadowbrook,Townhouse,Good,4,1.5,2102,2440,7,1,951776,452.8,49,2022-06-01
+L00914,Hartfield,Harbor View,Single Family,Good,3,2.0,1817,3564,22,3,804662,442.85,9,2022-03-27
+L00915,Dunmore,Cedar Ridge,Condo,Good,1,2.0,613,0,18,1,203902,332.63,25,2024-12-01
+L00916,Crestwood,Lakeside,Single Family,Good,5,2.5,2278,6828,3,3,570413,250.4,24,2022-06-28
+L00917,Hartfield,Pinecrest,Single Family,Poor,4,1.0,1707,4540,4,3,489076,286.51,24,2022-05-30
+L00918,Hartfield,Pinecrest,Single Family,Good,4,1.5,2165,5598,8,2,795922,367.63,24,2024-04-04
+L00919,Crestwood,Lakeside,Condo,Good,1,2.0,634,0,8,0,277292,437.37,7,2024-09-22
+L00920,Bellhaven,Old Town,Condo,Excellent,2,1.0,1179,0,12,0,688713,584.15,5,2022-04-19
+L00921,Crestwood,Lakeside,Townhouse,Good,2,2.0,1156,3416,4,1,323722,280.04,66,2023-06-21
+L00922,Crestwood,Elm Street,Single Family,Excellent,3,2.5,1980,4849,19,2,475394,240.1,4,2022-01-03
+L00923,Riverside,Eastside,Single Family,Poor,5,2.0,2402,5567,14,3,513485,213.77,76,2024-05-31
+L00924,Dunmore,South End,Condo,Good,1,2.0,577,0,19,0,179232,310.63,10,2024-08-17
+L00925,Riverside,Millbrook,Townhouse,Excellent,3,2.5,1814,2742,9,2,566413,312.25,24,2022-06-19
+L00926,Bellhaven,Gallery District,Condo,Excellent,3,1.0,1481,0,7,1,1005823,679.15,11,2023-05-11
+L00927,Bellhaven,Gallery District,Condo,Good,2,1.0,715,0,18,0,519490,726.56,28,2023-02-04
+L00928,Bellhaven,Gallery District,Condo,Good,1,2.0,695,0,14,1,626154,900.94,24,2023-11-19
+L00929,Crestwood,Northgate,Single Family,Good,4,3.0,2601,3073,3,2,412617,158.64,7,2022-06-20
+L00930,Bellhaven,Meadowbrook,Single Family,Fair,3,1.0,1337,2538,38,2,614752,459.8,26,2023-07-03
+L00931,Dunmore,South End,Townhouse,Excellent,2,2.0,1238,3012,3,2,284500,229.81,15,2023-03-16
+L00932,Dunmore,South End,Single Family,Good,6,2.5,2426,4539,14,2,340794,140.48,34,2022-04-12
+L00933,Riverside,Millbrook,Single Family,Fair,3,2.0,1644,4225,3,2,427958,260.32,61,2023-07-23
+L00934,Dunmore,South End,Condo,Poor,3,2.5,1548,0,22,0,208057,134.4,13,2022-12-23
+L00935,Riverside,Oakwood,Single Family,Poor,4,2.5,1886,4866,54,2,356709,189.14,365,2022-05-01
+L00936,Hartfield,Westmont,Condo,Good,1,1.5,620,0,1,1,414141,667.97,11,2024-10-02
+L00937,Bellhaven,Gallery District,Multi-Family,Good,3,2.5,1565,6015,20,0,875070,559.15,3,2023-01-18
+L00938,Riverside,Eastside,Single Family,Fair,3,2.5,1857,5978,18,2,486986,262.24,11,2024-04-27
+L00939,Riverside,Millbrook,Townhouse,Good,4,3.0,2232,3350,35,1,526425,235.85,11,2024-07-12
+L00940,Hartfield,Westmont,Single Family,Fair,3,1.0,1191,1976,5,2,475259,399.04,6,2023-06-08
+L00941,Hartfield,Westmont,Condo,Good,1,1.5,660,0,3,1,394881,598.3,2,2022-12-17
+L00942,Riverside,Millbrook,Single Family,Excellent,3,2.5,1321,2505,47,1,430373,325.79,5,2024-08-07
+L00943,Crestwood,Elm Street,Single Family,Fair,4,3.0,2372,4963,4,0,499362,210.52,7,2024-09-09
+L00944,Hartfield,Pinecrest,Single Family,Excellent,4,2.5,1760,2443,6,2,768315,436.54,40,2022-11-15
+L00945,Riverside,Oakwood,Single Family,Poor,3,2.5,1720,3818,22,1,374197,217.56,131,2022-01-27
+L00946,Bellhaven,Meadowbrook,Single Family,Poor,4,1.5,2155,7337,32,2,770508,357.54,120,2024-10-27
+L00947,Dunmore,Industrial Park,Multi-Family,Good,4,2.5,1906,6583,33,1,216590,113.64,4,2022-02-16
+L00948,Dunmore,Industrial Park,Townhouse,Excellent,3,2.0,1530,2341,41,0,270615,176.87,4,2023-07-20
+L00949,Dunmore,Industrial Park,Single Family,Good,3,3.0,2000,3667,31,3,276811,138.41,12,2022-03-25
+L00950,Crestwood,Northgate,Single Family,Excellent,6,2.0,2619,8290,28,1,557688,212.94,9,2024-05-03
+L00951,Riverside,Oakwood,Single Family,Excellent,3,2.0,1641,2815,24,1,517475,315.34,13,2023-10-19
+L00952,Dunmore,Cedar Ridge,Condo,Fair,3,1.0,1264,0,2,0,292015,231.02,195,2024-02-18
+L00953,Hartfield,Harbor View,Condo,Good,1,1.0,739,0,66,1,400455,541.89,14,2022-03-13
+L00954,Crestwood,Northgate,Townhouse,Fair,3,2.5,1273,2804,12,1,286713,225.23,27,2023-07-04
+L00955,Crestwood,Northgate,Single Family,Fair,4,2.0,1602,4403,3,3,298107,186.08,120,2022-12-29
+L00956,Crestwood,Lakeside,Single Family,Good,4,2.5,2338,4466,12,1,577748,247.11,14,2024-07-03
+L00957,Riverside,Millbrook,Single Family,Excellent,4,1.5,1952,5756,5,2,653602,334.84,4,2022-11-19
+L00958,Hartfield,Pinecrest,Single Family,Poor,4,1.0,1874,3594,62,2,502890,268.35,185,2023-12-31
+L00959,Hartfield,Westmont,Single Family,Poor,3,3.5,2120,3396,7,2,536748,253.18,4,2024-10-17
+L00960,Crestwood,Lakeside,Townhouse,Good,3,2.0,1425,3111,5,1,422720,296.65,12,2024-08-16
+L00961,Bellhaven,Old Town,Single Family,Poor,3,2.5,2197,5505,15,3,749301,341.06,41,2022-12-31
+L00962,Hartfield,Downtown,Townhouse,Good,3,2.5,1503,2812,1,1,689769,458.93,34,2022-09-07
+L00963,Hartfield,Pinecrest,Townhouse,Good,3,3.0,1911,2252,6,1,764050,399.82,57,2023-04-26
+L00964,Hartfield,Downtown,Single Family,Fair,4,3.0,2202,6060,4,2,780759,354.57,158,2024-05-16
+L00965,Hartfield,Pinecrest,Condo,Fair,1,1.5,642,0,3,0,384575,599.03,97,2024-10-03
+L00966,Dunmore,Cedar Ridge,Multi-Family,Fair,6,3.0,2590,4404,32,2,376084,145.21,14,2024-12-29
+L00967,Hartfield,Westmont,Single Family,Excellent,4,1.0,1741,3206,4,1,683298,392.47,9,2022-11-12
+L00968,Dunmore,South End,Single Family,Fair,5,2.0,3207,7606,36,3,347429,108.33,74,2022-05-17
+L00969,Crestwood,Elm Street,Townhouse,Poor,4,2.5,1850,3678,6,1,329180,177.94,90,2024-02-29
+L00970,Bellhaven,Old Town,Single Family,Good,3,2.0,1704,4316,22,1,768192,450.82,12,2022-05-18
+L00971,Riverside,Eastside,Multi-Family,Excellent,5,3.0,2192,6413,10,0,731411,333.67,16,2023-01-14
+L00972,Bellhaven,Old Town,Single Family,Fair,3,1.5,1929,4317,53,1,865645,448.75,5,2024-04-06
+L00973,Bellhaven,Gallery District,Single Family,Good,4,1.5,1904,4064,71,2,996048,523.13,71,2024-12-22
+L00974,Crestwood,Elm Street,Single Family,Excellent,4,2.0,1510,4618,34,1,452765,299.84,23,2023-11-17
+L00975,Bellhaven,Thornwood,Multi-Family,Good,4,4.0,2435,7476,13,1,908248,373.0,26,2024-08-08
+L00976,Riverside,Millbrook,Townhouse,Good,3,2.5,1702,2897,12,0,451750,265.42,15,2023-12-24
+L00977,Bellhaven,Meadowbrook,Single Family,Fair,4,2.0,2168,3934,2,2,882338,406.98,24,2024-01-30
+L00978,Crestwood,Elm Street,Multi-Family,Fair,5,4.0,2799,5081,9,1,543944,194.34,91,2024-03-16
+L00979,Crestwood,Lakeside,Single Family,Fair,4,3.0,2027,5601,21,1,437698,215.93,15,2023-05-16
+L00980,Bellhaven,Thornwood,Single Family,Fair,5,2.5,2778,6467,16,1,883581,318.06,64,2022-09-20
+L00981,Crestwood,Elm Street,Single Family,Excellent,2,3.5,1201,3403,3,2,425285,354.11,19,2024-09-07
+L00982,Crestwood,Northgate,Townhouse,Excellent,4,1.5,2010,2552,42,0,452016,224.88,21,2024-02-21
+L00983,Hartfield,Downtown,Single Family,Fair,3,2.0,1523,3107,9,2,560995,368.35,110,2023-11-22
+L00984,Riverside,Millbrook,Condo,Good,1,2.0,720,0,6,0,301360,418.56,43,2022-05-29
+L00985,Hartfield,Downtown,Townhouse,Excellent,3,1.5,1480,2703,6,1,725354,490.1,11,2024-07-12
+L00986,Dunmore,Cedar Ridge,Single Family,Fair,3,3.0,1681,3537,48,2,250016,148.73,3,2022-07-03
+L00987,Crestwood,Elm Street,Single Family,Good,4,2.0,2074,5917,64,0,392527,189.26,6,2024-05-14
+L00988,Hartfield,Westmont,Single Family,Excellent,3,2.5,1627,3711,1,1,652212,400.87,13,2023-02-09
+L00989,Riverside,Millbrook,Townhouse,Excellent,3,2.5,1454,3977,2,1,477096,328.13,13,2023-07-24
+L00990,Bellhaven,Gallery District,Single Family,Good,4,3.5,2311,5916,2,1,1235223,534.5,13,2022-02-03
+L00991,Bellhaven,Thornwood,Condo,Good,2,2.5,997,0,16,1,569928,571.64,15,2023-06-18
+L00992,Hartfield,Pinecrest,Single Family,Fair,4,2.0,2279,5745,21,3,671489,294.64,126,2023-12-04
+L00993,Hartfield,Pinecrest,Condo,Poor,2,1.0,951,0,86,0,229869,241.71,115,2022-09-02
+L00994,Riverside,Eastside,Townhouse,Poor,2,2.5,1028,2888,36,2,268042,260.74,65,2023-04-07
+L00995,Riverside,Millbrook,Single Family,Excellent,5,3.5,2640,7830,5,2,698325,264.52,26,2022-02-13
+L00996,Bellhaven,Gallery District,Townhouse,Fair,2,2.0,1187,2725,13,0,626410,527.73,30,2022-02-07
+L00997,Riverside,Millbrook,Condo,Good,2,1.5,1139,0,26,1,365782,321.14,54,2024-10-14
+L00998,Bellhaven,Gallery District,Single Family,Good,4,2.0,1862,5327,1,1,1019382,547.47,25,2022-06-14
+L00999,Hartfield,Harbor View,Single Family,Good,5,3.5,2984,8877,9,2,1212436,406.31,25,2024-04-03
+L01000,Hartfield,Downtown,Single Family,Excellent,4,2.5,1864,3603,5,0,767991,412.01,7,2022-08-08
+L01001,Riverside,Eastside,Single Family,Fair,2,3.0,1181,2186,24,2,314443,266.25,15,2022-08-19
+L01002,Dunmore,Industrial Park,Condo,Good,2,1.5,990,0,31,1,185039,186.91,19,2022-01-02
+L01003,Crestwood,Lakeside,Single Family,Fair,3,2.0,1539,3856,31,3,387463,251.76,71,2024-06-10
+L01004,Hartfield,Westmont,Single Family,Fair,2,2.0,1215,4586,8,1,477252,392.8,86,2024-09-21
+L01005,Bellhaven,Thornwood,Condo,Good,2,1.5,1017,0,6,0,561637,552.25,70,2024-06-03
+L01006,Dunmore,South End,Single Family,Good,5,1.0,2340,4739,7,2,379370,162.12,47,2024-12-20
+L01007,Dunmore,Cedar Ridge,Single Family,Good,4,2.0,1568,3536,43,3,273306,174.3,42,2022-12-30
+L01008,Hartfield,Pinecrest,Single Family,Fair,4,2.5,1997,6972,31,3,667035,334.02,153,2024-04-04
+L01009,Dunmore,Industrial Park,Single Family,Good,4,1.5,1955,1186,10,2,281058,143.76,35,2023-01-18
+L01010,Bellhaven,Meadowbrook,Single Family,Excellent,2,3.0,1652,3908,23,2,870180,526.74,10,2024-12-06
+L01011,Bellhaven,Old Town,Single Family,Good,4,2.5,1850,3707,16,1,812758,439.33,14,2022-02-04
+L01012,Hartfield,Harbor View,Condo,Excellent,1,1.0,730,0,20,1,529766,725.71,23,2022-11-29
+L01013,Dunmore,Cedar Ridge,Single Family,Good,3,3.0,1139,1253,2,2,280466,246.24,30,2024-06-15
+L01014,Dunmore,South End,Condo,Fair,1,1.0,634,0,16,1,166519,262.65,24,2023-09-12
+L01015,Dunmore,Industrial Park,Multi-Family,Good,4,2.0,1846,10220,24,0,306761,166.18,5,2024-11-20
+L01016,Bellhaven,Old Town,Single Family,Good,4,1.5,1422,3582,7,3,852156,599.27,41,2024-12-01
+L01017,Crestwood,Lakeside,Townhouse,Good,3,2.5,1484,3989,18,1,377948,254.68,3,2024-05-01
+L01018,Crestwood,Lakeside,Single Family,Fair,3,3.5,1333,2599,54,2,342789,257.16,50,2024-01-03
+L01019,Crestwood,Northgate,Single Family,Excellent,4,3.5,1604,2854,4,3,393432,245.28,6,2022-03-13
+L01020,Crestwood,Elm Street,Condo,Poor,2,1.0,926,0,13,0,233118,251.75,13,2024-03-31
+L01021,Dunmore,Cedar Ridge,Single Family,Good,3,2.0,1669,3435,21,1,328138,196.61,13,2023-11-11
+L01022,Crestwood,Lakeside,Single Family,Fair,3,2.0,1800,5801,38,2,420864,233.81,12,2024-12-30
+L01023,Dunmore,Industrial Park,Single Family,Good,3,2.0,1781,2113,34,0,286046,160.61,21,2023-05-01
+L01024,Hartfield,Harbor View,Condo,Fair,1,1.5,578,0,41,0,340239,588.65,4,2022-10-14
+L01025,Crestwood,Elm Street,Condo,Good,2,1.5,1123,0,14,0,307910,274.19,22,2023-07-06
+L01026,Crestwood,Elm Street,Townhouse,Fair,2,2.0,1290,2716,7,1,333005,258.14,27,2023-02-21
+L01027,Riverside,Eastside,Single Family,Fair,4,2.5,2310,4434,16,1,515212,223.04,17,2022-12-25
+L01028,Hartfield,Harbor View,Condo,Good,1,2.0,686,0,9,0,482240,702.97,16,2023-04-09
+L01029,Crestwood,Northgate,Townhouse,Good,3,2.0,1524,3370,20,1,332209,217.98,15,2022-05-14
+L01030,Crestwood,Northgate,Single Family,Good,4,1.0,1698,5044,10,0,342932,201.96,32,2023-04-12
+L01031,Bellhaven,Thornwood,Townhouse,Excellent,3,2.0,1507,2883,31,2,755508,501.33,9,2024-07-26
+L01032,Crestwood,Lakeside,Single Family,Good,3,2.5,1254,3879,14,1,380719,303.6,3,2022-06-01
+L01033,Crestwood,Lakeside,Condo,Poor,1,1.5,556,0,7,0,183089,329.3,15,2023-02-27
+L01034,Riverside,Oakwood,Condo,Good,2,1.5,923,0,94,1,310372,336.26,30,2022-06-13
+L01035,Dunmore,Cedar Ridge,Townhouse,Fair,3,2.0,1607,3514,57,1,273186,170.0,62,2023-03-02
+L01036,Bellhaven,Old Town,Townhouse,Fair,2,2.5,1289,2789,7,0,656193,509.07,45,2022-06-13
+L01037,Riverside,Oakwood,Condo,Excellent,1,1.5,653,0,36,1,379284,580.83,4,2024-10-25
+L01038,Crestwood,Lakeside,Townhouse,Good,3,2.5,1438,2954,10,0,371065,258.04,23,2024-04-01
+L01039,Bellhaven,Old Town,Single Family,Poor,3,2.0,1850,2491,7,2,707518,382.44,216,2024-09-25
+L01040,Hartfield,Westmont,Single Family,Excellent,2,2.0,1408,3072,12,2,638549,453.51,19,2023-12-04
+L01041,Riverside,Oakwood,Condo,Fair,3,1.5,1314,0,23,1,443847,337.78,34,2023-09-06
+L01042,Hartfield,Downtown,Single Family,Good,3,1.5,1687,4261,7,3,739520,438.36,23,2023-07-09
+L01043,Riverside,Millbrook,Single Family,Good,4,3.5,1678,2610,1,3,461546,275.06,53,2022-12-22
+L01044,Crestwood,Elm Street,Townhouse,Good,4,2.0,1956,1688,3,1,527947,269.91,41,2023-06-29
+L01045,Crestwood,Lakeside,Townhouse,Excellent,3,2.0,1424,2582,15,1,452726,317.93,22,2024-08-20
+L01046,Crestwood,Elm Street,Single Family,Excellent,2,3.5,1615,2875,23,3,493046,305.29,2,2024-05-08
+L01047,Hartfield,Westmont,Townhouse,Good,3,2.0,1672,3809,2,1,586139,350.56,12,2022-04-26
+L01048,Hartfield,Downtown,Single Family,Good,4,1.5,2076,5845,18,2,902290,434.63,67,2024-08-11
+L01049,Hartfield,Westmont,Single Family,Poor,5,3.0,2668,8883,27,1,602550,225.84,52,2023-03-15
+L01050,Bellhaven,Gallery District,Single Family,Excellent,4,2.0,2086,7297,34,2,1116343,535.16,13,2022-03-07
+L01051,Dunmore,Cedar Ridge,Single Family,Good,3,2.0,1549,2904,69,0,268616,173.41,16,2022-01-26
+L01052,Riverside,Oakwood,Condo,Good,1,1.5,638,0,24,1,309313,484.82,10,2024-10-12
+L01053,Riverside,Millbrook,Single Family,Excellent,4,4.0,2490,5523,7,2,633071,254.25,4,2022-04-21
+L01054,Riverside,Eastside,Single Family,Excellent,3,3.5,2190,6431,54,1,555645,253.72,15,2022-02-04
+L01055,Hartfield,Pinecrest,Condo,Good,1,2.5,805,0,38,0,391413,486.23,12,2022-02-19
+L01056,Hartfield,Downtown,Single Family,Fair,3,3.5,1532,3676,13,2,662605,432.51,38,2024-04-08
+L01057,Dunmore,Cedar Ridge,Single Family,Good,3,1.5,1352,2281,7,0,310599,229.73,2,2024-11-12
+L01058,Dunmore,Industrial Park,Single Family,Good,2,2.5,1249,1374,50,2,216341,173.21,9,2023-02-17
+L01059,Bellhaven,Thornwood,Single Family,Poor,4,1.5,1333,2242,13,2,475860,356.98,191,2022-10-31
+L01060,Riverside,Millbrook,Townhouse,Excellent,3,2.0,1290,3521,7,0,444482,344.56,14,2023-08-21
+L01061,Dunmore,Industrial Park,Single Family,Excellent,4,1.0,1967,5013,31,3,302191,153.63,14,2022-11-08
+L01062,Bellhaven,Old Town,Single Family,Good,4,2.0,1767,6304,45,3,927325,524.8,89,2024-05-20
+L01063,Hartfield,Westmont,Single Family,Fair,4,2.0,1826,5222,2,2,498018,272.74,140,2022-07-09
+L01064,Riverside,Oakwood,Condo,Fair,2,1.0,958,0,32,0,302483,315.74,40,2023-07-23
+L01065,Bellhaven,Meadowbrook,Single Family,Fair,2,2.5,1183,2502,4,1,589884,498.63,15,2022-07-07
+L01066,Bellhaven,Gallery District,Single Family,Good,5,2.5,2800,5098,35,2,1451422,518.37,2,2024-01-05
+L01067,Hartfield,Downtown,Multi-Family,Good,3,3.5,1836,8889,2,0,708609,385.95,4,2022-12-28
+L01068,Bellhaven,Gallery District,Single Family,Good,3,1.5,1504,3810,2,1,905550,602.09,64,2022-07-03
+L01069,Crestwood,Elm Street,Single Family,Fair,3,2.5,1466,3238,31,2,355441,242.46,6,2023-04-05
+L01070,Hartfield,Westmont,Multi-Family,Good,4,3.0,2217,7300,3,1,800126,360.9,17,2023-04-30
+L01071,Hartfield,Harbor View,Condo,Good,2,1.5,1211,0,31,0,596163,492.29,17,2022-09-16
+L01072,Crestwood,Lakeside,Townhouse,Poor,4,2.0,1925,3904,48,0,306238,159.08,124,2024-04-17
+L01073,Dunmore,Industrial Park,Condo,Good,1,2.5,651,0,16,0,166499,255.76,6,2024-10-22
+L01074,Bellhaven,Meadowbrook,Condo,Poor,1,1.5,719,0,31,1,333084,463.26,26,2022-12-02
+L01075,Riverside,Oakwood,Condo,Good,2,1.5,936,0,4,0,371374,396.77,21,2023-05-26
+L01076,Hartfield,Downtown,Condo,Good,2,1.5,864,0,1,1,550439,637.08,27,2022-07-21
+L01077,Hartfield,Westmont,Townhouse,Excellent,3,2.0,1448,2745,65,1,597644,412.74,7,2024-10-14
+L01078,Hartfield,Downtown,Condo,Good,2,2.0,1155,0,2,1,599224,518.81,36,2023-07-20
+L01079,Riverside,Eastside,Townhouse,Fair,3,1.5,1726,2130,48,1,379306,219.76,31,2022-11-15
+L01080,Crestwood,Lakeside,Single Family,Good,5,3.5,3346,9715,10,2,633518,189.34,46,2023-11-23
+L01081,Riverside,Millbrook,Single Family,Good,4,3.0,2275,4788,1,2,622834,273.77,54,2024-11-14
+L01082,Bellhaven,Thornwood,Single Family,Fair,4,2.5,2675,6710,19,3,785319,293.58,21,2022-08-06
+L01083,Dunmore,Industrial Park,Single Family,Fair,4,2.0,2371,7397,74,2,282300,119.06,22,2022-11-29
+L01084,Bellhaven,Thornwood,Single Family,Good,3,2.0,1867,4737,3,2,763207,408.79,14,2024-01-17
+L01085,Hartfield,Pinecrest,Single Family,Good,2,2.0,1301,2344,17,0,532714,409.47,51,2023-06-13
+L01086,Crestwood,Lakeside,Townhouse,Good,3,1.5,1541,1989,37,2,381599,247.63,15,2022-02-01
+L01087,Dunmore,South End,Condo,Good,2,1.0,937,0,9,1,203331,217.0,12,2022-07-05
+L01088,Bellhaven,Meadowbrook,Townhouse,Excellent,3,2.0,1777,2912,4,1,830474,467.35,14,2022-06-06
+L01089,Crestwood,Northgate,Single Family,Good,5,1.0,2609,4985,30,2,456324,174.9,16,2022-02-08
+L01090,Hartfield,Downtown,Single Family,Good,2,2.0,1244,2047,37,3,629052,505.67,14,2024-09-11
+L01091,Dunmore,Industrial Park,Townhouse,Fair,3,1.5,1530,3335,25,1,202703,132.49,171,2024-02-25
+L01092,Hartfield,Harbor View,Multi-Family,Good,4,2.0,2159,9865,4,1,792603,367.12,19,2022-05-19
+L01093,Crestwood,Lakeside,Single Family,Fair,3,2.5,1543,5259,27,2,366534,237.55,19,2023-06-24
+L01094,Hartfield,Harbor View,Single Family,Fair,4,3.5,2311,5652,12,2,875705,378.93,12,2022-06-21
+L01095,Crestwood,Northgate,Single Family,Fair,4,3.5,2255,4410,13,2,367199,162.84,31,2022-06-07
+L01096,Hartfield,Pinecrest,Condo,Excellent,2,1.0,1255,0,15,1,591679,471.46,49,2022-08-06
+L01097,Hartfield,Downtown,Townhouse,Excellent,4,2.0,2105,2278,18,1,825090,391.97,24,2022-03-08
+L01098,Hartfield,Pinecrest,Multi-Family,Poor,5,2.0,2605,6689,12,2,698215,268.03,101,2024-10-11
+L01099,Riverside,Millbrook,Multi-Family,Good,5,3.5,2819,6902,5,1,602784,213.83,50,2023-01-14
+L01100,Dunmore,South End,Townhouse,Good,3,2.0,1606,2759,12,1,269699,167.93,6,2023-10-28
+L01101,Dunmore,Industrial Park,Single Family,Fair,6,2.5,3579,10242,3,2,419211,117.13,78,2024-03-04
+L01102,Bellhaven,Meadowbrook,Condo,Fair,2,1.0,968,0,15,1,540505,558.37,62,2024-02-05
+L01103,Bellhaven,Old Town,Single Family,Good,4,3.5,2238,5375,2,2,1059865,473.58,2,2023-01-17
+L01104,Dunmore,Industrial Park,Condo,Excellent,1,2.5,676,0,5,0,189416,280.2,28,2022-12-10
+L01105,Dunmore,Cedar Ridge,Single Family,Good,3,3.0,1833,5140,16,3,375831,205.04,48,2023-08-07
+L01106,Hartfield,Pinecrest,Single Family,Fair,2,2.5,1369,3011,3,2,501832,366.57,25,2023-07-06
+L01107,Dunmore,Cedar Ridge,Condo,Poor,1,1.0,563,0,9,0,152732,271.28,8,2024-02-01
+L01108,Bellhaven,Thornwood,Condo,Fair,2,1.0,870,0,27,0,383846,441.2,19,2022-07-24
+L01109,Dunmore,Cedar Ridge,Townhouse,Good,2,3.0,1382,2398,14,1,316211,228.81,51,2023-04-14
+L01110,Hartfield,Westmont,Condo,Excellent,2,2.0,1037,0,28,0,523935,505.24,12,2022-10-13
+L01111,Hartfield,Harbor View,Single Family,Poor,3,3.0,1928,4534,18,3,665604,345.23,179,2023-06-05
+L01112,Dunmore,South End,Single Family,Good,4,3.0,2200,5086,5,1,353610,160.73,31,2024-05-30
+L01113,Crestwood,Elm Street,Townhouse,Good,3,2.5,1880,1691,18,1,435657,231.73,10,2023-10-19
+L01114,Dunmore,Industrial Park,Single Family,Poor,5,2.5,2887,4225,11,1,309615,107.24,77,2022-11-22
+L01115,Hartfield,Harbor View,Single Family,Good,3,3.0,2119,4325,65,3,765720,361.36,25,2022-11-29
+L01116,Bellhaven,Gallery District,Townhouse,Good,2,2.0,1005,3067,41,1,701993,698.5,24,2024-01-10
+L01117,Riverside,Eastside,Single Family,Good,3,2.5,1695,3392,2,1,537018,316.82,17,2023-04-01
+L01118,Bellhaven,Thornwood,Single Family,Poor,4,3.0,1983,6739,11,0,554912,279.83,17,2023-03-24
+L01119,Bellhaven,Meadowbrook,Condo,Fair,2,1.0,1141,0,5,1,548178,480.44,19,2024-04-20
+L01120,Riverside,Millbrook,Single Family,Fair,3,3.5,1841,5171,50,1,424191,230.41,68,2024-12-07
+L01121,Hartfield,Downtown,Townhouse,Fair,4,2.0,2290,3246,1,2,798544,348.71,91,2022-06-27
+L01122,Hartfield,Pinecrest,Single Family,Fair,2,2.5,1058,3241,35,1,450154,425.48,17,2024-10-23
+L01123,Hartfield,Pinecrest,Townhouse,Excellent,3,1.5,1600,3439,30,1,749885,468.68,16,2023-06-30
+L01124,Crestwood,Elm Street,Single Family,Fair,3,3.0,1767,3653,34,2,347030,196.4,58,2024-09-03
+L01125,Bellhaven,Thornwood,Single Family,Good,3,2.0,1350,3323,43,2,651227,482.39,23,2024-05-01
+L01126,Riverside,Millbrook,Condo,Fair,1,1.5,585,0,2,0,258745,442.3,4,2024-07-16
+L01127,Dunmore,South End,Single Family,Poor,3,3.0,1563,3305,27,2,203663,130.3,75,2024-06-28
+L01128,Bellhaven,Meadowbrook,Condo,Fair,1,2.5,795,0,5,0,504238,634.26,33,2024-04-20
+L01129,Dunmore,South End,Single Family,Good,3,2.5,1475,4206,19,3,254661,172.65,18,2023-02-23
+L01130,Crestwood,Lakeside,Single Family,Excellent,4,2.0,2153,2984,2,1,570869,265.15,8,2024-05-15
+L01131,Riverside,Oakwood,Single Family,Excellent,5,2.5,1847,4486,20,3,602385,326.14,3,2022-12-30
+L01132,Hartfield,Pinecrest,Condo,Poor,2,2.0,1258,0,57,0,387091,307.7,19,2024-12-29
+L01133,Dunmore,Cedar Ridge,Multi-Family,Good,6,3.0,2774,6084,23,0,415712,149.86,23,2022-02-09
+L01134,Crestwood,Lakeside,Single Family,Excellent,3,2.5,1813,4778,54,1,481115,265.37,21,2023-07-24
+L01135,Dunmore,Industrial Park,Single Family,Good,5,2.0,2138,3505,25,2,315881,147.75,27,2023-12-05
+L01136,Dunmore,Cedar Ridge,Condo,Poor,2,1.0,934,0,62,0,147272,157.68,145,2022-04-05
+L01137,Dunmore,Cedar Ridge,Condo,Good,3,2.5,1617,0,4,0,344970,213.34,73,2024-04-29
+L01138,Riverside,Millbrook,Single Family,Good,4,2.0,1858,3300,8,2,471113,253.56,13,2022-06-04
+L01139,Bellhaven,Meadowbrook,Single Family,Excellent,2,1.5,770,1333,23,0,567289,736.74,25,2022-12-25
+L01140,Hartfield,Harbor View,Single Family,Good,4,2.5,2143,5623,8,0,974647,454.8,67,2022-10-20
+L01141,Bellhaven,Thornwood,Single Family,Excellent,5,2.5,2535,6538,7,2,1016132,400.84,30,2024-02-11
+L01142,Crestwood,Elm Street,Single Family,Good,4,2.0,2254,4189,35,2,432795,192.01,18,2023-07-25
+L01143,Crestwood,Lakeside,Condo,Poor,1,1.5,820,0,12,1,238438,290.78,106,2022-11-08
+L01144,Bellhaven,Thornwood,Condo,Excellent,2,1.5,1237,0,52,0,555603,449.15,13,2022-10-04
+L01145,Bellhaven,Meadowbrook,Single Family,Poor,5,2.5,3226,7761,21,2,910648,282.28,57,2022-11-13
+L01146,Bellhaven,Meadowbrook,Condo,Good,1,2.5,795,0,8,0,561489,706.28,9,2023-05-21
+L01147,Dunmore,Cedar Ridge,Condo,Poor,2,1.0,970,0,2,0,196508,202.59,94,2023-09-02
+L01148,Crestwood,Lakeside,Condo,Good,1,1.0,679,0,2,1,300263,442.21,20,2023-09-08
+L01149,Dunmore,Cedar Ridge,Condo,Good,2,1.5,1084,0,4,0,232395,214.39,9,2022-01-24
+L01150,Bellhaven,Meadowbrook,Single Family,Poor,3,3.5,1978,3905,62,2,578315,292.37,34,2022-03-11
+L01151,Riverside,Millbrook,Condo,Good,3,1.5,1445,0,15,0,418492,289.61,6,2023-08-18
+L01152,Riverside,Eastside,Single Family,Fair,3,2.0,1289,2857,23,0,290818,225.62,9,2022-05-31
+L01153,Crestwood,Lakeside,Condo,Good,2,1.5,1067,0,5,0,334910,313.88,39,2023-01-12
+L01154,Riverside,Millbrook,Condo,Good,3,2.0,1740,0,2,0,416136,239.16,28,2022-01-11
+L01155,Dunmore,South End,Single Family,Fair,6,2.0,2723,7048,11,2,381851,140.23,60,2023-06-08
+L01156,Riverside,Millbrook,Townhouse,Good,3,2.5,1444,3408,3,1,472488,327.21,43,2024-03-26
+L01157,Crestwood,Northgate,Townhouse,Excellent,3,1.5,1248,2155,18,1,346301,277.48,43,2022-12-31
+L01158,Hartfield,Harbor View,Townhouse,Good,3,3.0,1665,2684,13,1,766571,460.4,32,2022-01-26
+L01159,Hartfield,Westmont,Condo,Good,2,1.0,911,0,7,1,402969,442.34,33,2022-02-12
+L01160,Bellhaven,Old Town,Condo,Excellent,2,1.0,1034,0,3,1,804582,778.13,3,2023-08-01
+L01161,Crestwood,Lakeside,Single Family,Excellent,3,2.0,1743,4791,12,1,530444,304.33,36,2023-08-28
+L01162,Bellhaven,Meadowbrook,Multi-Family,Good,4,3.0,2224,3633,25,1,1061166,477.14,44,2022-10-09
+L01163,Hartfield,Harbor View,Single Family,Fair,4,4.0,2051,5022,27,1,877296,427.74,16,2024-02-09
+L01164,Bellhaven,Meadowbrook,Single Family,Poor,4,1.0,2145,5021,12,3,687907,320.7,70,2023-05-04
+L01165,Riverside,Eastside,Condo,Excellent,3,1.5,1562,0,30,1,471493,301.85,11,2022-03-01
+L01166,Bellhaven,Thornwood,Single Family,Excellent,4,2.0,1652,5132,13,2,888209,537.66,6,2022-09-30
+L01167,Dunmore,Industrial Park,Single Family,Good,4,2.5,1951,5038,3,2,276881,141.92,12,2022-02-03
+L01168,Crestwood,Northgate,Single Family,Good,5,2.5,2250,5880,16,2,464757,206.56,6,2023-10-07
+L01169,Riverside,Millbrook,Single Family,Good,4,3.0,2387,4620,10,3,592401,248.18,10,2022-05-09
+L01170,Riverside,Millbrook,Single Family,Excellent,3,2.0,1553,3869,7,2,519510,334.52,8,2022-06-03
+L01171,Hartfield,Downtown,Condo,Good,3,2.5,1685,0,9,1,831344,493.38,17,2024-07-31
+L01172,Crestwood,Lakeside,Single Family,Good,3,3.5,1864,5028,21,2,455181,244.2,40,2023-06-25
+L01173,Bellhaven,Meadowbrook,Townhouse,Excellent,3,2.5,1784,3026,1,2,920003,515.7,13,2024-01-08
+L01174,Hartfield,Westmont,Condo,Fair,1,1.0,655,0,32,1,303406,463.22,10,2024-03-19
+L01175,Hartfield,Westmont,Single Family,Good,3,1.5,1435,3086,3,1,512612,357.22,7,2022-01-01
+L01176,Riverside,Eastside,Condo,Excellent,2,2.0,1068,0,38,0,375361,351.46,8,2022-06-22
+L01177,Dunmore,Cedar Ridge,Single Family,Good,3,1.0,1384,3466,7,2,319890,231.13,17,2022-11-13
+L01178,Hartfield,Downtown,Single Family,Fair,4,1.0,2255,4010,1,2,868293,385.05,10,2024-06-26
+L01179,Crestwood,Elm Street,Condo,Excellent,2,2.0,1126,0,51,1,333065,295.79,10,2023-07-08
+L01180,Dunmore,Industrial Park,Townhouse,Good,2,2.5,1264,1903,24,1,243844,192.91,33,2024-01-01
+L01181,Bellhaven,Thornwood,Single Family,Good,4,1.5,1472,4597,19,3,706837,480.19,25,2024-09-19
+L01182,Bellhaven,Old Town,Condo,Good,1,1.5,641,0,21,1,561291,875.65,90,2023-03-02
+L01183,Bellhaven,Old Town,Single Family,Excellent,4,3.0,2255,4460,45,3,1098400,487.1,5,2022-08-02
+L01184,Hartfield,Westmont,Townhouse,Fair,4,2.5,1889,2805,49,1,506624,268.2,30,2022-11-27
+L01185,Hartfield,Westmont,Single Family,Good,4,1.5,2173,4595,11,2,696890,320.7,15,2022-04-12
+L01186,Dunmore,Cedar Ridge,Condo,Fair,1,1.0,490,0,22,1,157703,321.84,9,2024-03-03
+L01187,Riverside,Oakwood,Townhouse,Excellent,4,2.0,1613,2984,9,1,527444,327.0,43,2023-10-15
+L01188,Crestwood,Northgate,Single Family,Poor,3,2.5,1622,4529,14,1,262817,162.03,38,2024-12-03
+L01189,Crestwood,Elm Street,Single Family,Fair,5,2.0,2206,3583,8,2,403154,182.75,32,2022-10-22
+L01190,Crestwood,Northgate,Townhouse,Fair,3,3.0,1634,3603,37,1,320122,195.91,58,2023-07-03
+L01191,Dunmore,Industrial Park,Single Family,Good,5,3.0,2650,5707,33,1,342969,129.42,20,2022-05-16
+L01192,Crestwood,Elm Street,Condo,Excellent,2,2.0,926,0,8,0,319536,345.07,51,2022-03-28
+L01193,Crestwood,Northgate,Condo,Poor,2,2.0,974,0,18,1,181771,186.62,113,2022-10-15
+L01194,Hartfield,Downtown,Single Family,Good,6,1.5,3306,4188,14,2,1033431,312.59,16,2023-10-02
+L01195,Crestwood,Elm Street,Condo,Excellent,3,2.0,1598,0,26,1,421538,263.79,12,2022-11-22
+L01196,Dunmore,South End,Single Family,Good,3,3.0,1719,3618,23,1,292914,170.4,10,2024-02-11
+L01197,Bellhaven,Gallery District,Condo,Good,1,1.5,584,0,11,1,623729,1068.03,56,2024-12-20
+L01198,Crestwood,Lakeside,Single Family,Good,4,1.0,2243,5347,29,2,515449,229.8,7,2023-03-27
+L01199,Dunmore,Industrial Park,Single Family,Fair,4,2.0,2124,6080,22,3,268551,126.44,16,2024-07-06
+L01200,Bellhaven,Meadowbrook,Single Family,Good,4,1.5,2111,5688,26,3,892867,422.96,21,2024-07-15
+L01201,Dunmore,Cedar Ridge,Townhouse,Good,2,2.5,1376,2738,12,1,338568,246.05,13,2024-12-11
+L01202,Riverside,Eastside,Townhouse,Good,3,2.0,1563,3345,4,0,466222,298.29,4,2024-12-07
+L01203,Riverside,Millbrook,Single Family,Fair,6,1.0,2107,3989,15,1,468224,222.22,34,2022-10-28
+L01204,Bellhaven,Thornwood,Condo,Good,1,2.0,829,0,15,0,528753,637.82,13,2024-07-31
+L01205,Riverside,Millbrook,Single Family,Fair,4,3.0,2246,4516,9,2,475947,211.91,34,2022-03-29
+L01206,Hartfield,Harbor View,Condo,Good,1,1.5,648,0,9,0,533134,822.74,95,2023-09-24
+L01207,Riverside,Oakwood,Single Family,Poor,3,2.5,1207,3475,2,2,293767,243.39,13,2022-03-18
+L01208,Crestwood,Lakeside,Single Family,Good,3,2.0,1527,3435,32,2,408970,267.83,7,2023-04-20
+L01209,Crestwood,Northgate,Single Family,Good,4,3.0,2071,5672,27,2,391706,189.14,23,2022-11-25
+L01210,Riverside,Oakwood,Condo,Excellent,2,2.5,1287,0,23,1,504767,392.2,15,2023-04-10
+L01211,Hartfield,Pinecrest,Townhouse,Excellent,3,2.0,1402,3249,7,1,665626,474.77,15,2022-12-28
+L01212,Dunmore,Industrial Park,Single Family,Good,3,3.5,2152,5621,12,3,278083,129.22,10,2022-05-28
+L01213,Riverside,Eastside,Condo,Fair,1,1.5,837,0,20,0,288543,344.73,72,2022-09-14
+L01214,Crestwood,Lakeside,Single Family,Fair,4,3.0,2660,4887,11,1,530390,199.39,253,2024-07-30
+L01215,Hartfield,Harbor View,Single Family,Poor,2,3.0,1377,3884,6,3,526008,382.0,49,2022-03-23
+L01216,Riverside,Oakwood,Single Family,Good,2,1.5,989,2293,8,1,401850,406.32,15,2022-12-03
+L01217,Bellhaven,Old Town,Single Family,Good,4,1.5,1515,1886,10,1,807857,533.24,18,2024-02-21
+L01218,Crestwood,Elm Street,Single Family,Excellent,3,3.0,1555,3745,80,2,398833,256.48,8,2023-11-17
+L01219,Dunmore,South End,Single Family,Excellent,5,2.0,2121,3738,6,0,365503,172.33,13,2023-06-02
+L01220,Crestwood,Elm Street,Single Family,Fair,4,2.5,2305,5500,4,2,408115,177.06,31,2022-01-17
+L01221,Dunmore,South End,Condo,Excellent,2,1.5,969,0,2,1,242736,250.5,4,2023-02-27
+L01222,Riverside,Millbrook,Townhouse,Excellent,3,1.5,1392,2413,8,1,461341,331.42,11,2023-11-09
+L01223,Hartfield,Westmont,Multi-Family,Fair,4,2.5,2185,9420,2,2,649070,297.06,102,2023-02-04
+L01224,Crestwood,Elm Street,Single Family,Fair,2,3.0,1166,2668,9,0,283419,243.07,16,2023-06-09
+L01225,Dunmore,Industrial Park,Single Family,Fair,3,1.0,1596,2577,5,1,225142,141.07,3,2022-12-27
+L01226,Hartfield,Harbor View,Condo,Good,2,1.0,923,0,69,1,514456,557.37,9,2022-08-28
+L01227,Crestwood,Elm Street,Condo,Good,2,2.0,963,0,1,0,308373,320.22,74,2023-06-25
+L01228,Bellhaven,Meadowbrook,Condo,Fair,1,2.0,681,0,15,1,499066,732.84,26,2023-04-21
+L01229,Dunmore,Industrial Park,Single Family,Fair,3,2.0,1610,4345,22,2,223546,138.85,39,2024-05-03
+L01230,Crestwood,Northgate,Townhouse,Poor,4,2.0,2217,2528,19,1,302086,136.26,27,2024-04-15
+L01231,Bellhaven,Meadowbrook,Multi-Family,Excellent,3,3.0,1744,4723,60,0,828734,475.19,14,2023-02-07
+L01232,Bellhaven,Gallery District,Condo,Excellent,2,1.5,983,0,8,0,782452,795.98,9,2024-08-21
+L01233,Hartfield,Downtown,Single Family,Fair,4,2.0,2092,4651,37,2,666743,318.71,16,2024-08-28
+L01234,Bellhaven,Old Town,Condo,Excellent,2,1.5,1357,0,12,0,795322,586.09,5,2023-02-07
+L01235,Hartfield,Pinecrest,Townhouse,Good,4,2.0,2216,2255,31,2,706019,318.6,6,2023-09-08
+L01236,Bellhaven,Thornwood,Condo,Excellent,2,2.5,766,0,26,0,543304,709.27,24,2023-04-05
+L01237,Riverside,Millbrook,Townhouse,Good,3,2.5,1563,2405,6,0,417783,267.3,11,2023-07-11
+L01238,Crestwood,Elm Street,Townhouse,Good,3,1.5,1606,3076,21,0,376908,234.69,28,2022-03-19
+L01239,Riverside,Oakwood,Single Family,Good,5,2.0,2747,7760,47,3,708236,257.82,24,2024-05-04
+L01240,Hartfield,Downtown,Multi-Family,Fair,4,3.5,2153,8972,4,2,738316,342.92,32,2022-05-03
+L01241,Dunmore,Industrial Park,Single Family,Good,2,2.0,1383,1683,35,2,243622,176.15,1,2022-08-26
+L01242,Bellhaven,Old Town,Single Family,Poor,4,2.5,2383,7107,14,1,774080,324.83,43,2023-09-05
+L01243,Crestwood,Northgate,Single Family,Fair,3,1.5,1610,3482,23,2,293056,182.02,13,2023-09-10
+L01244,Crestwood,Northgate,Townhouse,Excellent,3,3.0,1937,3056,13,1,424119,218.96,22,2023-01-15
+L01245,Crestwood,Elm Street,Single Family,Good,3,3.0,1552,2225,21,0,363456,234.19,73,2023-07-20
+L01246,Riverside,Oakwood,Single Family,Good,4,3.0,1939,5668,12,2,605262,312.15,3,2024-01-19
+L01247,Bellhaven,Gallery District,Townhouse,Good,3,2.0,1336,2930,2,2,834043,624.28,49,2023-07-17
+L01248,Dunmore,South End,Townhouse,Excellent,2,3.0,1151,3194,2,2,307513,267.17,5,2023-07-11
+L01249,Riverside,Oakwood,Single Family,Fair,3,2.0,1724,4989,8,2,415915,241.25,3,2023-07-23
+L01250,Riverside,Eastside,Townhouse,Good,3,1.5,1555,1881,61,1,431112,277.24,15,2023-12-12
+L01251,Dunmore,Cedar Ridge,Single Family,Fair,4,2.0,1871,2536,69,1,261507,139.77,3,2022-03-25
+L01252,Dunmore,South End,Townhouse,Fair,3,2.0,1627,2574,32,1,242633,149.13,44,2022-07-15
+L01253,Hartfield,Downtown,Condo,Fair,3,1.0,1387,0,54,0,455790,328.62,76,2022-02-21
+L01254,Bellhaven,Thornwood,Multi-Family,Poor,5,3.0,2401,6746,9,1,729863,303.98,25,2023-12-07
+L01255,Riverside,Millbrook,Condo,Good,2,2.0,918,0,4,0,362951,395.37,36,2024-05-28
+L01256,Riverside,Oakwood,Single Family,Excellent,3,3.5,1630,3281,51,2,551596,338.4,16,2022-04-30
+L01257,Bellhaven,Thornwood,Single Family,Good,5,3.0,2699,3139,17,1,970411,359.54,10,2023-01-13
+L01258,Hartfield,Harbor View,Single Family,Good,3,3.0,1651,4427,14,2,740762,448.67,16,2022-02-28
+L01259,Hartfield,Westmont,Condo,Good,1,1.5,726,0,9,0,370738,510.66,9,2022-10-13
+L01260,Dunmore,Cedar Ridge,Single Family,Excellent,4,3.5,2439,5527,3,2,495985,203.36,10,2024-08-08
+L01261,Bellhaven,Old Town,Single Family,Poor,4,3.0,2385,5997,4,3,848971,355.96,76,2022-04-03
+L01262,Dunmore,Industrial Park,Condo,Good,2,1.5,1123,0,21,0,201751,179.65,7,2022-01-05
+L01263,Crestwood,Lakeside,Single Family,Good,3,4.0,1759,2495,22,1,434822,247.2,11,2022-10-20
+L01264,Bellhaven,Meadowbrook,Townhouse,Good,2,2.0,1113,1661,13,1,562895,505.75,4,2022-08-31
+L01265,Bellhaven,Meadowbrook,Multi-Family,Fair,4,2.5,1793,4791,2,1,760543,424.17,23,2022-02-24
+L01266,Dunmore,Industrial Park,Single Family,Good,4,2.0,1927,3110,11,2,300155,155.76,12,2024-09-05
+L01267,Hartfield,Pinecrest,Townhouse,Good,3,2.0,1626,2667,8,1,679024,417.6,37,2022-11-08
+L01268,Dunmore,Cedar Ridge,Townhouse,Excellent,3,2.5,1609,3350,24,1,367442,228.37,7,2024-10-25
+L01269,Dunmore,Industrial Park,Townhouse,Good,3,1.5,1892,1978,4,2,286662,151.51,15,2022-07-13
+L01270,Bellhaven,Meadowbrook,Townhouse,Fair,4,2.0,1266,2945,9,2,708008,559.25,114,2023-12-09
+L01271,Bellhaven,Meadowbrook,Single Family,Good,3,2.0,1656,2443,28,1,788846,476.36,22,2022-09-04
+L01272,Dunmore,South End,Townhouse,Excellent,3,2.5,1621,1574,28,1,303216,187.05,8,2023-01-03
+L01273,Hartfield,Downtown,Single Family,Excellent,3,3.0,1857,4102,5,2,763413,411.1,7,2024-10-07
+L01274,Bellhaven,Meadowbrook,Townhouse,Excellent,2,2.0,1168,2842,6,1,756414,647.61,22,2024-12-20
+L01275,Hartfield,Downtown,Multi-Family,Fair,4,2.0,1623,7751,13,2,626101,385.77,24,2024-03-20
+L01276,Riverside,Oakwood,Townhouse,Fair,2,3.0,1364,2217,8,0,475297,348.46,14,2023-07-04
+L01277,Dunmore,South End,Single Family,Fair,3,4.0,1563,4280,23,2,219754,140.6,91,2023-02-28
+L01278,Riverside,Eastside,Multi-Family,Poor,4,3.5,2194,6668,22,0,423198,192.89,10,2022-07-11
+L01279,Crestwood,Northgate,Single Family,Good,5,3.0,2392,3866,2,3,497000,207.78,2,2024-12-08
+L01280,Hartfield,Downtown,Single Family,Good,4,1.5,1784,5064,24,1,719625,403.38,24,2023-07-17
+L01281,Bellhaven,Thornwood,Single Family,Good,4,3.0,2806,7141,21,2,990256,352.91,26,2022-11-13
+L01282,Riverside,Millbrook,Single Family,Good,5,2.0,2603,5620,19,2,648127,248.99,5,2024-08-20
+L01283,Riverside,Eastside,Single Family,Excellent,6,2.5,2922,8945,2,2,813248,278.32,7,2023-12-14
+L01284,Dunmore,Industrial Park,Single Family,Good,4,1.5,1972,3320,1,3,301208,152.74,44,2023-11-08
+L01285,Riverside,Oakwood,Townhouse,Good,2,2.5,1143,2164,19,0,401295,351.09,52,2023-03-31
+L01286,Crestwood,Northgate,Single Family,Good,4,2.5,2301,4194,19,1,449637,195.41,31,2024-08-24
+L01287,Bellhaven,Meadowbrook,Single Family,Poor,6,1.5,2690,5910,4,3,813900,302.57,7,2024-09-11
+L01288,Hartfield,Harbor View,Single Family,Good,3,2.0,1921,4830,15,2,853138,444.11,6,2024-07-04
+L01289,Bellhaven,Old Town,Single Family,Fair,3,3.0,1571,3675,21,2,745507,474.54,11,2024-02-13
+L01290,Crestwood,Elm Street,Multi-Family,Good,5,2.5,2599,10431,3,1,491549,189.13,31,2022-06-30
+L01291,Hartfield,Pinecrest,Single Family,Excellent,4,2.5,2222,4237,31,1,863843,388.77,4,2022-07-16
+L01292,Dunmore,Cedar Ridge,Single Family,Good,3,2.0,1262,2261,6,2,282949,224.21,23,2023-08-15
+L01293,Riverside,Millbrook,Single Family,Poor,4,3.5,2110,5314,40,3,378907,179.58,38,2022-11-16
+L01294,Dunmore,Industrial Park,Single Family,Good,3,3.5,2121,4558,4,3,325983,153.69,27,2022-01-06
+L01295,Bellhaven,Old Town,Single Family,Good,4,2.0,2282,7217,12,1,1080865,473.65,49,2023-02-20
+L01296,Bellhaven,Gallery District,Townhouse,Excellent,2,2.5,1008,2667,6,1,738377,732.52,6,2024-06-27
+L01297,Hartfield,Harbor View,Condo,Good,1,2.0,775,0,22,1,526554,679.42,14,2023-04-17
+L01298,Riverside,Eastside,Townhouse,Excellent,4,2.5,2123,3873,45,1,658318,310.09,35,2023-09-13
+L01299,Riverside,Oakwood,Multi-Family,Fair,6,3.0,2401,10251,16,2,505501,210.54,59,2023-02-20
+L01300,Bellhaven,Gallery District,Single Family,Good,5,2.5,2202,6764,13,2,1080532,490.7,10,2022-07-21
+L01301,Bellhaven,Thornwood,Single Family,Fair,3,3.0,1666,2684,20,2,665254,399.31,12,2023-01-12
+L01302,Riverside,Millbrook,Multi-Family,Good,3,4.0,1823,9434,21,1,511928,280.82,26,2024-08-07
+L01303,Hartfield,Pinecrest,Single Family,Good,4,2.0,2173,5412,71,2,806405,371.1,18,2024-12-25
+L01304,Bellhaven,Thornwood,Single Family,Good,4,3.5,2106,7062,45,1,788626,374.47,14,2023-12-20
+L01305,Crestwood,Elm Street,Single Family,Good,3,2.5,1534,2382,40,2,402791,262.58,6,2024-10-03
+L01306,Hartfield,Harbor View,Condo,Excellent,2,2.0,1087,0,8,0,672986,619.12,9,2022-02-17
+L01307,Riverside,Eastside,Condo,Good,3,1.0,1417,0,4,1,442116,312.01,16,2023-06-20
+L01308,Crestwood,Elm Street,Condo,Good,3,2.0,1897,0,32,1,370856,195.5,10,2023-09-17
+L01309,Dunmore,South End,Townhouse,Good,3,3.0,1644,2993,11,1,307749,187.2,30,2024-05-28
+L01310,Dunmore,Industrial Park,Townhouse,Good,4,2.5,1758,1606,22,2,295557,168.12,4,2024-05-02
+L01311,Bellhaven,Meadowbrook,Single Family,Good,5,3.5,2927,9504,12,1,932630,318.63,32,2023-03-24
+L01312,Riverside,Millbrook,Single Family,Fair,3,3.0,1688,2373,17,2,441777,261.72,63,2024-04-01
+L01313,Dunmore,Industrial Park,Condo,Good,3,1.5,1587,0,23,0,254842,160.58,14,2023-12-09
+L01314,Riverside,Millbrook,Single Family,Excellent,4,1.0,2024,5221,19,3,576175,284.67,19,2023-10-01
+L01315,Hartfield,Pinecrest,Condo,Fair,1,1.0,529,0,52,1,282694,534.39,11,2022-08-17
+L01316,Crestwood,Elm Street,Condo,Fair,2,1.0,1050,0,10,1,274049,261.0,44,2023-04-03
+L01317,Riverside,Eastside,Townhouse,Good,3,2.0,1561,2112,10,0,449393,287.89,18,2024-01-03
+L01318,Riverside,Millbrook,Single Family,Good,3,1.5,1526,4127,40,3,432727,283.57,6,2024-02-07
+L01319,Riverside,Eastside,Single Family,Excellent,6,2.5,2668,8092,2,2,793169,297.29,7,2023-04-25
+L01320,Bellhaven,Old Town,Single Family,Excellent,3,2.5,1958,5666,55,2,1096232,559.87,7,2024-05-07
+L01321,Dunmore,Cedar Ridge,Multi-Family,Good,4,4.0,2004,7097,11,1,386230,192.73,4,2023-05-12
+L01322,Bellhaven,Thornwood,Townhouse,Good,3,2.5,1827,2701,1,0,734153,401.84,17,2023-08-08
+L01323,Hartfield,Downtown,Townhouse,Fair,4,2.5,2237,1901,3,1,725263,324.21,102,2022-02-02
+L01324,Riverside,Millbrook,Single Family,Excellent,3,2.0,1640,3890,16,2,485761,296.2,24,2023-04-14
+L01325,Bellhaven,Meadowbrook,Townhouse,Excellent,2,1.5,1247,2774,23,1,749803,601.29,5,2023-12-11
+L01326,Hartfield,Downtown,Single Family,Good,4,2.5,2034,4171,6,2,784348,385.62,4,2023-09-27
+L01327,Riverside,Millbrook,Single Family,Fair,4,2.0,2284,3798,22,2,516045,225.94,48,2022-10-27
+L01328,Riverside,Oakwood,Townhouse,Good,3,2.0,1281,2460,1,0,458695,358.08,9,2023-04-27
+L01329,Bellhaven,Old Town,Condo,Good,1,2.0,679,0,19,0,500982,737.82,20,2022-06-26
+L01330,Bellhaven,Meadowbrook,Single Family,Excellent,2,1.5,1033,1215,75,1,488953,473.33,19,2022-01-19
+L01331,Crestwood,Elm Street,Single Family,Good,4,1.5,1994,2422,22,1,417172,209.21,13,2023-09-15
+L01332,Hartfield,Pinecrest,Single Family,Excellent,3,3.0,1677,2292,16,3,711497,424.27,10,2022-10-17
+L01333,Dunmore,Industrial Park,Multi-Family,Good,4,3.0,2209,5491,31,0,288811,130.74,12,2022-04-06
+L01334,Crestwood,Northgate,Townhouse,Excellent,3,2.5,1646,2712,37,0,387315,235.31,7,2024-05-02
+L01335,Dunmore,Cedar Ridge,Single Family,Fair,3,2.5,1584,4081,83,3,242638,153.18,12,2024-03-04
+L01336,Dunmore,Industrial Park,Single Family,Good,4,2.0,2203,2968,19,1,301855,137.02,9,2023-01-06
+L01337,Bellhaven,Thornwood,Condo,Good,1,1.0,573,0,3,0,451786,788.46,6,2024-07-14
+L01338,Bellhaven,Old Town,Townhouse,Good,3,2.0,1634,3176,7,1,827399,506.36,6,2024-09-04
+L01339,Riverside,Millbrook,Condo,Good,1,1.5,752,0,3,0,307652,409.11,43,2024-12-30
+L01340,Crestwood,Northgate,Townhouse,Excellent,3,2.5,1107,3162,40,0,303641,274.29,8,2024-07-07
+L01341,Dunmore,Industrial Park,Single Family,Fair,3,3.0,1479,1766,2,2,254688,172.2,8,2024-12-22
+L01342,Crestwood,Elm Street,Townhouse,Fair,2,2.0,1310,4070,36,2,315159,240.58,19,2023-05-11
+L01343,Riverside,Oakwood,Single Family,Excellent,3,2.0,1550,3985,27,2,527947,340.61,101,2023-04-26
+L01344,Hartfield,Westmont,Townhouse,Fair,4,1.5,2271,3144,30,2,518446,228.29,79,2023-10-23
+L01345,Hartfield,Downtown,Townhouse,Poor,3,2.0,1440,2232,19,0,488966,339.56,27,2023-06-19
+L01346,Riverside,Eastside,Single Family,Fair,4,2.5,2064,2408,22,2,503599,243.99,104,2024-05-27
+L01347,Dunmore,Cedar Ridge,Townhouse,Fair,3,2.5,1449,4075,58,2,254980,175.97,24,2024-05-07
+L01348,Hartfield,Downtown,Single Family,Good,3,1.0,1467,4426,23,3,756466,515.66,17,2023-07-08
+L01349,Hartfield,Westmont,Single Family,Good,2,3.5,1291,2219,5,0,612690,474.59,14,2023-07-09
+L01350,Crestwood,Northgate,Single Family,Fair,5,1.5,2305,5299,10,2,440963,191.31,41,2023-07-16
+L01351,Hartfield,Pinecrest,Single Family,Good,4,2.0,2260,6035,2,1,785257,347.46,15,2023-01-02
+L01352,Hartfield,Westmont,Single Family,Poor,3,2.0,1224,1832,13,2,384866,314.43,125,2022-12-21
+L01353,Dunmore,Industrial Park,Condo,Excellent,2,1.0,1144,0,44,1,230729,201.69,26,2023-08-26
+L01354,Dunmore,Cedar Ridge,Single Family,Good,3,2.0,1810,3899,52,3,317518,175.42,32,2023-06-06
+L01355,Dunmore,Industrial Park,Condo,Good,2,1.0,1117,0,1,1,228065,204.18,13,2023-12-13
+L01356,Bellhaven,Old Town,Single Family,Good,5,3.0,2453,6547,3,2,1176529,479.63,38,2024-08-21
+L01357,Crestwood,Northgate,Single Family,Good,3,3.5,1839,2533,12,3,370243,201.33,14,2024-02-12
+L01358,Riverside,Millbrook,Condo,Excellent,1,1.5,719,0,36,0,300948,418.56,8,2023-06-18
+L01359,Crestwood,Elm Street,Condo,Excellent,2,1.5,1139,0,3,0,401229,352.26,51,2024-10-03
+L01360,Bellhaven,Thornwood,Single Family,Poor,5,2.0,2198,3011,12,3,603305,274.48,110,2023-04-15
+L01361,Bellhaven,Gallery District,Townhouse,Fair,2,3.0,1105,4271,26,2,646391,584.97,77,2023-05-08
+L01362,Riverside,Eastside,Single Family,Fair,4,2.0,1976,1998,45,1,486607,246.26,81,2024-02-29
+L01363,Dunmore,Cedar Ridge,Single Family,Good,6,2.5,2908,3898,16,1,523001,179.85,3,2024-01-26
+L01364,Crestwood,Northgate,Single Family,Poor,4,2.0,1914,5796,7,1,299614,156.54,225,2024-11-07
+L01365,Crestwood,Northgate,Condo,Excellent,2,2.0,1263,0,48,0,274875,217.64,11,2023-09-10
+L01366,Bellhaven,Thornwood,Condo,Good,3,1.5,1162,0,15,1,641814,552.34,8,2024-10-12
+L01367,Dunmore,Cedar Ridge,Single Family,Good,5,2.0,2446,8124,1,2,420481,171.91,79,2023-05-07
+L01368,Bellhaven,Thornwood,Single Family,Good,3,2.0,1508,1774,24,0,687880,456.15,36,2023-03-02
+L01369,Crestwood,Northgate,Single Family,Good,3,2.0,1579,6180,36,1,303284,192.07,14,2024-05-15
+L01370,Riverside,Oakwood,Single Family,Excellent,6,3.0,2822,3110,20,0,811154,287.44,9,2024-01-11
+L01371,Riverside,Oakwood,Condo,Fair,1,1.0,613,0,13,1,261937,427.3,33,2023-10-01
+L01372,Crestwood,Lakeside,Single Family,Good,3,2.5,1452,1846,28,2,378731,260.83,21,2022-02-02
+L01373,Crestwood,Lakeside,Single Family,Good,3,3.0,1620,3963,8,2,402515,248.47,2,2022-02-05
+L01374,Riverside,Oakwood,Townhouse,Good,3,2.0,1754,3079,20,1,452776,258.14,43,2022-07-04
+L01375,Crestwood,Lakeside,Single Family,Excellent,5,3.0,2752,7076,16,2,634554,230.58,12,2023-04-08
+L01376,Bellhaven,Meadowbrook,Single Family,Good,6,3.5,2275,4922,10,0,1011661,444.69,9,2024-02-05
+L01377,Dunmore,Cedar Ridge,Single Family,Excellent,3,2.5,1603,4773,2,1,398675,248.71,56,2024-12-06
+L01378,Dunmore,Industrial Park,Single Family,Good,4,2.0,2714,7286,9,1,331672,122.21,45,2022-07-07
+L01379,Hartfield,Harbor View,Single Family,Good,4,2.0,2256,3930,19,1,880999,390.51,11,2023-05-11
+L01380,Hartfield,Harbor View,Single Family,Excellent,4,1.5,1969,3495,10,1,1000456,508.1,9,2022-04-21
+L01381,Riverside,Oakwood,Condo,Fair,2,2.0,1097,0,33,0,305622,278.6,92,2023-10-17
+L01382,Dunmore,Cedar Ridge,Multi-Family,Good,3,3.0,1811,6612,4,1,369241,203.89,6,2024-05-03
+L01383,Bellhaven,Meadowbrook,Condo,Excellent,1,2.0,688,0,4,1,606930,882.17,3,2023-05-28
+L01384,Bellhaven,Thornwood,Multi-Family,Good,5,2.5,1859,8404,1,1,698065,375.51,21,2023-02-01
+L01385,Crestwood,Northgate,Single Family,Excellent,4,1.0,1826,4223,23,1,444393,243.37,16,2024-08-06
+L01386,Hartfield,Harbor View,Single Family,Good,5,3.0,2915,10046,36,1,1083623,371.74,9,2022-02-17
+L01387,Hartfield,Harbor View,Single Family,Fair,5,3.5,2610,7258,86,1,789932,302.66,32,2023-11-30
+L01388,Crestwood,Elm Street,Single Family,Poor,3,3.0,1734,4645,15,2,338134,195.0,68,2024-11-07
+L01389,Riverside,Oakwood,Single Family,Poor,3,1.5,1215,2760,3,3,324159,266.8,26,2022-07-20
+L01390,Riverside,Eastside,Condo,Good,1,1.5,806,0,29,1,317367,393.76,9,2024-12-03
+L01391,Riverside,Millbrook,Single Family,Good,2,2.0,1210,3049,10,1,382310,315.96,7,2022-07-10
+L01392,Bellhaven,Old Town,Townhouse,Good,3,2.0,1292,2615,40,2,644936,499.18,20,2023-11-11
+L01393,Hartfield,Westmont,Condo,Poor,2,1.0,962,0,13,0,345924,359.59,38,2024-11-10
+L01394,Riverside,Eastside,Multi-Family,Good,5,2.5,2216,7238,40,2,569962,257.2,14,2024-08-30
+L01395,Crestwood,Lakeside,Condo,Poor,2,1.5,978,0,14,0,244338,249.83,277,2023-07-21
+L01396,Bellhaven,Thornwood,Townhouse,Fair,3,2.5,1463,3047,7,1,624474,426.84,42,2024-04-12
+L01397,Dunmore,South End,Single Family,Fair,5,1.0,2197,6091,5,3,309858,141.04,44,2022-08-14
+L01398,Crestwood,Elm Street,Single Family,Good,4,3.0,2020,3817,11,1,426964,211.37,27,2022-04-10
+L01399,Riverside,Millbrook,Single Family,Good,5,2.5,2754,3410,13,0,589756,214.15,11,2023-05-11
+L01400,Riverside,Millbrook,Single Family,Excellent,3,2.5,1967,2177,39,2,539638,274.35,20,2024-04-05
+L01401,Dunmore,Cedar Ridge,Single Family,Good,3,2.5,1452,3968,58,3,270305,186.16,87,2022-11-11
+L01402,Hartfield,Westmont,Townhouse,Fair,3,2.5,1716,2987,5,1,585173,341.01,3,2023-06-17
+L01403,Riverside,Millbrook,Townhouse,Excellent,4,2.0,2207,3218,14,1,622546,282.08,23,2024-02-07
+L01404,Riverside,Millbrook,Townhouse,Good,2,2.5,994,2706,24,1,361943,364.13,2,2024-09-01
+L01405,Dunmore,South End,Condo,Fair,2,1.5,946,0,15,1,201689,213.2,65,2023-11-20
+L01406,Riverside,Millbrook,Single Family,Poor,3,3.0,1684,2986,3,1,325468,193.27,102,2022-04-15
+L01407,Crestwood,Elm Street,Condo,Fair,2,2.0,1140,0,5,0,298176,261.56,58,2024-01-19
+L01408,Riverside,Millbrook,Condo,Fair,2,1.0,1160,0,17,1,360764,311.0,31,2024-02-03
+L01409,Bellhaven,Thornwood,Multi-Family,Excellent,4,2.0,1585,10409,7,2,718070,453.04,6,2022-08-29
+L01410,Riverside,Millbrook,Single Family,Good,4,4.0,1700,5098,15,2,537012,315.89,11,2024-09-28
+L01411,Riverside,Eastside,Condo,Good,1,2.0,711,0,3,0,333031,468.4,26,2022-02-22
+L01412,Riverside,Millbrook,Condo,Poor,2,2.0,1238,0,27,0,273229,220.7,112,2022-12-31
+L01413,Hartfield,Pinecrest,Single Family,Fair,3,2.0,1530,4245,25,2,572201,373.99,14,2023-12-31
+L01414,Hartfield,Westmont,Townhouse,Fair,4,2.5,2191,3102,54,0,586477,267.68,13,2023-09-27
+L01415,Dunmore,South End,Single Family,Fair,2,2.5,1386,4333,43,2,195725,141.22,81,2022-01-23
+L01416,Hartfield,Pinecrest,Townhouse,Good,4,2.0,2299,2585,29,2,755242,328.51,68,2023-06-26
+L01417,Hartfield,Westmont,Multi-Family,Fair,3,2.5,1427,6983,11,1,477396,334.55,42,2022-08-10
+L01418,Crestwood,Northgate,Multi-Family,Good,4,4.0,2476,8781,9,2,462699,186.87,58,2023-08-10
+L01419,Hartfield,Pinecrest,Multi-Family,Excellent,6,3.0,2744,8518,23,0,986905,359.66,15,2022-07-25
+L01420,Bellhaven,Old Town,Single Family,Fair,3,3.5,1710,3086,9,1,759906,444.39,2,2022-05-03
+L01421,Bellhaven,Thornwood,Single Family,Good,4,1.0,1901,3561,79,2,629378,331.08,29,2023-05-01
+L01422,Bellhaven,Gallery District,Multi-Family,Good,3,3.0,1772,6997,8,2,1056384,596.15,10,2024-10-23
+L01423,Bellhaven,Thornwood,Condo,Good,1,2.0,591,0,9,0,430465,728.37,23,2023-04-18
+L01424,Bellhaven,Old Town,Single Family,Excellent,4,4.0,1938,3262,3,2,1066479,550.3,11,2022-05-22
+L01425,Bellhaven,Thornwood,Single Family,Poor,5,1.5,2709,4434,34,1,768740,283.77,99,2023-11-30
+L01426,Dunmore,South End,Single Family,Good,2,3.0,1412,4555,11,3,274985,194.75,12,2023-04-18
+L01427,Crestwood,Elm Street,Single Family,Good,3,2.5,1651,3145,46,2,370608,224.47,22,2022-06-16
+L01428,Dunmore,Cedar Ridge,Single Family,Good,5,2.0,2351,4782,59,2,403143,171.48,55,2022-06-16
+L01429,Hartfield,Harbor View,Townhouse,Fair,2,1.5,988,2689,23,1,520279,526.6,24,2023-10-19
+L01430,Bellhaven,Old Town,Single Family,Good,3,3.5,1736,2468,28,2,924980,532.82,23,2023-04-23
+L01431,Bellhaven,Thornwood,Townhouse,Poor,4,2.0,2044,2810,18,2,619606,303.13,9,2024-12-28
+L01432,Crestwood,Northgate,Single Family,Good,3,2.5,1729,2453,62,2,359865,208.13,17,2023-09-05
+L01433,Bellhaven,Thornwood,Single Family,Fair,3,2.5,1708,3188,11,2,615457,360.34,41,2023-03-07
+L01434,Bellhaven,Thornwood,Condo,Excellent,2,2.0,1253,0,24,1,706654,563.97,32,2024-04-15
+L01435,Bellhaven,Meadowbrook,Condo,Good,2,1.0,1045,0,39,1,485301,464.4,5,2022-10-23
+L01436,Riverside,Millbrook,Townhouse,Poor,2,2.0,1233,3783,12,1,308470,250.18,19,2022-12-10
+L01437,Hartfield,Harbor View,Single Family,Excellent,3,3.0,1893,1914,19,0,887806,468.99,12,2023-06-14
+L01438,Crestwood,Elm Street,Condo,Excellent,2,1.0,1224,0,44,1,325841,266.21,5,2023-06-27
+L01439,Dunmore,Cedar Ridge,Townhouse,Fair,4,2.0,2056,4065,17,1,311471,151.49,70,2022-01-14
+L01440,Bellhaven,Meadowbrook,Condo,Excellent,1,1.0,587,0,4,1,567746,967.2,35,2022-09-08
+L01441,Bellhaven,Gallery District,Multi-Family,Fair,5,3.0,2176,7147,56,1,897143,412.29,21,2024-11-29
+L01442,Dunmore,Industrial Park,Single Family,Fair,3,2.0,1652,5301,18,2,260403,157.63,18,2024-11-03
+L01443,Riverside,Oakwood,Condo,Fair,2,1.0,917,0,65,1,275027,299.92,94,2022-05-17
+L01444,Hartfield,Pinecrest,Single Family,Fair,4,2.0,1961,3772,8,2,615462,313.85,37,2022-04-15
+L01445,Hartfield,Westmont,Single Family,Poor,4,2.5,1945,3973,17,3,469652,241.47,12,2022-01-22
+L01446,Crestwood,Lakeside,Condo,Good,2,2.0,1069,0,3,0,309843,289.84,2,2022-04-01
+L01447,Riverside,Eastside,Single Family,Excellent,4,2.5,2226,5580,4,2,668512,300.32,13,2024-07-10
+L01448,Riverside,Millbrook,Condo,Poor,3,2.5,1950,0,36,1,366930,188.17,45,2024-06-27
+L01449,Riverside,Millbrook,Townhouse,Good,4,2.5,2135,2972,21,1,516854,242.09,40,2024-11-25
+L01450,Bellhaven,Gallery District,Townhouse,Good,3,2.0,1275,2804,23,0,713604,559.69,90,2023-02-09
+L01451,Bellhaven,Old Town,Single Family,Good,4,2.0,2082,5786,40,3,897352,431.0,19,2022-04-07
+L01452,Riverside,Eastside,Single Family,Excellent,3,2.5,1599,3096,12,2,569304,356.04,5,2023-08-13
+L01453,Riverside,Oakwood,Single Family,Good,2,3.0,1248,2582,81,2,386318,309.55,43,2022-07-25
+L01454,Riverside,Millbrook,Single Family,Fair,3,4.0,1891,4577,7,0,429363,227.06,10,2023-04-02
+L01455,Hartfield,Harbor View,Condo,Fair,3,1.5,1487,0,60,0,574500,386.35,18,2023-12-24
+L01456,Hartfield,Pinecrest,Single Family,Excellent,3,2.5,2044,5268,2,0,887910,434.4,13,2023-09-08
+L01457,Crestwood,Northgate,Single Family,Poor,4,2.0,2280,6359,21,2,294561,129.19,19,2022-05-06
+L01458,Dunmore,South End,Condo,Good,3,2.0,1779,0,26,1,259230,145.72,21,2022-12-24
+L01459,Hartfield,Downtown,Multi-Family,Good,4,3.0,2623,7827,6,2,1023770,390.3,20,2023-09-28
+L01460,Bellhaven,Gallery District,Single Family,Good,2,3.5,1614,4817,9,2,973860,603.38,26,2022-02-28
+L01461,Riverside,Millbrook,Single Family,Fair,4,2.5,2093,4226,20,3,441744,211.06,123,2022-11-17
+L01462,Riverside,Eastside,Single Family,Good,6,4.0,3014,9472,6,1,734483,243.69,12,2023-09-28
+L01463,Crestwood,Northgate,Single Family,Excellent,5,2.0,2084,6293,4,1,425792,204.31,4,2023-07-23
+L01464,Dunmore,Cedar Ridge,Single Family,Poor,3,2.0,1685,3910,62,0,193764,114.99,77,2023-10-03
+L01465,Bellhaven,Meadowbrook,Townhouse,Good,3,2.5,1853,3407,31,1,742372,400.63,35,2022-03-19
+L01466,Bellhaven,Old Town,Condo,Good,1,2.5,552,0,3,0,531155,962.24,21,2023-05-13
+L01467,Bellhaven,Old Town,Multi-Family,Good,5,2.5,2540,5024,4,2,1231891,485.0,35,2024-09-07
+L01468,Riverside,Eastside,Condo,Fair,2,2.0,1016,0,14,0,335555,330.27,29,2023-04-03
+L01469,Dunmore,Cedar Ridge,Condo,Good,1,1.0,622,0,21,1,188350,302.81,14,2023-02-23
+L01470,Bellhaven,Meadowbrook,Single Family,Fair,3,2.5,1457,3576,2,1,691959,474.92,44,2024-01-19
+L01471,Dunmore,Industrial Park,Single Family,Excellent,3,3.0,1505,4704,7,1,305945,203.29,12,2024-08-19
+L01472,Hartfield,Pinecrest,Single Family,Good,4,2.0,2330,6747,4,3,894648,383.97,120,2024-02-07
+L01473,Riverside,Eastside,Condo,Poor,2,1.5,958,0,16,0,251321,262.34,54,2022-10-04
+L01474,Riverside,Oakwood,Single Family,Excellent,3,2.0,1413,5391,15,1,510678,361.41,21,2023-07-24
+L01475,Dunmore,South End,Condo,Good,2,2.0,1174,0,10,0,244286,208.08,56,2024-07-15
+L01476,Crestwood,Northgate,Condo,Good,2,2.5,1255,0,19,0,284118,226.39,59,2022-03-31
+L01477,Bellhaven,Meadowbrook,Single Family,Fair,4,3.0,1803,4890,8,1,773496,429.0,8,2023-07-19
+L01478,Crestwood,Lakeside,Townhouse,Fair,3,2.0,1570,3682,27,0,374155,238.32,28,2022-11-02
+L01479,Riverside,Oakwood,Multi-Family,Fair,6,4.0,3400,9233,22,0,747557,219.87,5,2022-09-07
+L01480,Riverside,Eastside,Condo,Fair,2,2.0,1133,0,22,1,327067,288.67,25,2023-10-08
+L01481,Hartfield,Harbor View,Single Family,Excellent,3,2.0,1639,3801,64,1,731804,446.49,16,2022-08-01
+L01482,Dunmore,Cedar Ridge,Single Family,Good,2,2.0,1072,1218,37,0,242226,225.96,6,2024-03-02
+L01483,Crestwood,Northgate,Single Family,Good,5,2.0,2785,5797,35,1,496314,178.21,27,2024-07-20
+L01484,Dunmore,South End,Single Family,Poor,3,1.5,1490,0,8,1,201227,135.05,42,2023-01-16
+L01485,Crestwood,Elm Street,Multi-Family,Fair,4,2.5,2014,8018,40,2,409075,203.12,18,2022-06-16
+L01486,Bellhaven,Thornwood,Single Family,Good,3,2.5,1599,4688,33,2,663916,415.21,40,2024-11-28
+L01487,Riverside,Millbrook,Townhouse,Excellent,2,2.0,1335,2132,9,2,436555,327.01,38,2023-09-27
+L01488,Riverside,Eastside,Condo,Good,1,1.0,615,0,8,1,289498,470.73,10,2022-06-26
+L01489,Crestwood,Lakeside,Condo,Good,2,1.5,1110,0,6,1,340619,306.86,54,2022-08-12
+L01490,Crestwood,Lakeside,Condo,Good,1,2.0,738,0,3,1,338330,458.44,38,2024-09-05
+L01491,Hartfield,Harbor View,Condo,Fair,1,2.5,734,0,37,1,438946,598.02,31,2023-12-16
+L01492,Dunmore,South End,Condo,Good,1,2.5,584,0,50,0,151714,259.78,7,2024-09-13
+L01493,Crestwood,Northgate,Condo,Excellent,2,1.5,1137,0,11,0,330563,290.73,19,2023-01-20
+L01494,Riverside,Millbrook,Condo,Good,1,1.5,675,0,7,1,283053,419.34,22,2022-09-28
+L01495,Crestwood,Elm Street,Condo,Fair,1,1.0,709,0,11,1,241219,340.22,6,2022-04-20
+L01496,Bellhaven,Old Town,Single Family,Fair,3,2.5,2007,4015,22,2,795212,396.22,46,2022-06-17
+L01497,Crestwood,Lakeside,Multi-Family,Fair,5,3.5,2954,5491,19,1,557086,188.59,9,2024-04-09
+L01498,Bellhaven,Gallery District,Condo,Good,3,1.5,1234,0,3,0,747502,605.76,22,2022-05-28
+L01499,Crestwood,Elm Street,Single Family,Excellent,4,4.0,2456,6342,7,1,561525,228.63,15,2022-08-27
+L01500,Bellhaven,Meadowbrook,Single Family,Fair,3,3.0,2007,3963,24,2,766943,382.13,103,2023-12-05
